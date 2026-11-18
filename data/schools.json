@@ -177,13 +177,25 @@
         "src": "/images/queen-ethelburgas/open-hall.jpg",
         "alt": "Ivy-covered red-brick hall with a stone entrance and a cobbled forecourt",
         "position": "50% 45%",
-        "credit": { "title": "Main hall", "author": "Joeanthony00", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:TU-Hall.jpg" }
+        "credit": {
+          "title": "Main hall",
+          "author": "Joeanthony00",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:TU-Hall.jpg"
+        }
       },
       "card": {
         "src": "/images/queen-ethelburgas/open-hall.jpg",
         "alt": "Ivy-covered red-brick hall with a stone entrance and a cobbled forecourt",
         "position": "50% 55%",
-        "credit": { "title": "Main hall", "author": "Joeanthony00", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:TU-Hall.jpg" }
+        "credit": {
+          "title": "Main hall",
+          "author": "Joeanthony00",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:TU-Hall.jpg"
+        }
       },
       "about": [
         {
@@ -219,7 +231,13 @@
         {
           "src": "/images/queen-ethelburgas/open-atrium.jpg",
           "alt": "Tall glass-roofed Atrium with long dining tables and a large yellow robot sculpture",
-          "credit": { "title": "Atrium", "author": "Joeanthony00", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:18-atrium_qeb.jpg" }
+          "credit": {
+            "title": "Atrium",
+            "author": "Joeanthony00",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:18-atrium_qeb.jpg"
+          }
         }
       ],
       "facilities": [
@@ -234,7 +252,13 @@
         {
           "src": "/images/queen-ethelburgas/open-gardens.jpg",
           "alt": "Formal garden with a fountain, flower beds and benches",
-          "credit": { "title": "Gardens", "author": "Joeanthony00", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Ethelburga%27s.jpg" }
+          "credit": {
+            "title": "Gardens",
+            "author": "Joeanthony00",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Ethelburga%27s.jpg"
+          }
         }
       ],
       "admissions": {
@@ -663,7 +687,13 @@
         "src": "/images/st-clares-ib/open-banbury-road.jpg",
         "alt": "Red-brick St Clare's buildings seen from Banbury Road",
         "position": "50% 40%",
-        "credit": { "title": "Banbury Road", "author": "N Chadwick", "license": "CC BY-SA 2.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Clare%27s_College_-_geograph.org.uk_-_4001676.jpg" }
+        "credit": {
+          "title": "Banbury Road",
+          "author": "N Chadwick",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Clare%27s_College_-_geograph.org.uk_-_4001676.jpg"
+        }
       },
       "about": [
         {
@@ -677,7 +707,13 @@
         {
           "src": "/images/st-clares-ib/open-banbury-road.jpg",
           "alt": "Red-brick St Clare's buildings seen from Banbury Road",
-          "credit": { "title": "Banbury Road", "author": "N Chadwick", "license": "CC BY-SA 2.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Clare%27s_College_-_geograph.org.uk_-_4001676.jpg" }
+          "credit": {
+            "title": "Banbury Road",
+            "author": "N Chadwick",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Clare%27s_College_-_geograph.org.uk_-_4001676.jpg"
+          }
         }
       ],
       "credit": "Photos: (c) St Clare's, Oxford."
@@ -691,6 +727,463 @@
       "Ages 15-19 are inferred from Pre-IB (15-16) and the IB Diploma (16-19); the admissions FAQ says 16-18 for the Diploma.",
       "Weekly boarding is only for students living in England or Wales, so it does not suit overseas families. The college closes to students at half-terms and holidays: check holiday care.",
       "Not captured: gender mix, total student numbers, subject-by-subject IB options, and 64 linked PDFs (terms and conditions, accommodation, admissions and guardian policies). The general contact-us and homestay-providers pages were not scraped."
+    ]
+  },
+  {
+    "id": "lancing-college",
+    "status": "needs_review",
+    "sample": false,
+    "name": "Lancing College",
+    "short_name": "Lancing College",
+    "country": "United Kingdom",
+    "city": "Lancing",
+    "region": "West Sussex",
+    "tagline": "A boarding and day school for ages 13–18, with GCSE, A Level and a one-year Pre-Sixth Form pathway.",
+    "summary": "Lancing College is a co-educational senior school in West Sussex. Students follow GCSE and Sixth Form courses, including A Levels and BTECs in Business and Sport. International students can apply for Years 9, 10 and 12, subject to availability, or join the one-year Pre-Sixth Form programme in Year 11. Seven boarding houses and three day houses support school life, alongside over 120 co-curricular clubs.",
+    "school_type": "Boarding and day",
+    "gender": "Co-educational",
+    "age_min": 13,
+    "age_max": 18,
+    "year_groups": "Year 9 to Year 13",
+    "students_total": null,
+    "nationalities": null,
+    "international_share_percent": null,
+    "founded": "1848",
+    "boarding": {
+      "available": true,
+      "types": [
+        "Full-time",
+        "Flexible"
+      ],
+      "from_year": "Year 9",
+      "day_option": true,
+      "notes": [
+        "Full boarding covers 5–7 nights each week; flexi boarding covers three nights, subject to availability.",
+        "Seven single-sex boarding houses span all five year groups, with resident house staff, matrons and tutors.",
+        "Around 60% of pupils board. Houses provide bedrooms, study areas, kitchens and common rooms.",
+        "School closes for five exeat weekends each year; a Home and Away programme offers supervised arrangements for international boarders. Confirm availability, costs and holiday care before booking."
+      ]
+    },
+    "qualifications": [
+      "GCSE",
+      "A Level",
+      "BTEC"
+    ],
+    "english_support": [
+      "EAL lessons (additional charge)",
+      "One Year Pre-Sixth Form Programme (Year 11): GCSE study with targeted English support"
+    ],
+    "results": [
+      {
+        "label": "A Level grades at A*–A",
+        "value": "54%",
+        "year": 2026
+      },
+      {
+        "label": "A Level grades at A*",
+        "value": "26%",
+        "year": 2026
+      }
+    ],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": 19180,
+      "terms_per_year": 3,
+      "registration_fee": 240,
+      "deposit": "Non-UK pupils: one term’s fees, refundable on leaving. UK pupils: £2,000.",
+      "includes": [
+        "Tuition and full boarding",
+        "Academic books",
+        "Meals",
+        "Standard laundry (excluding dry cleaning)",
+        "Personal accident insurance"
+      ],
+      "tiers": [
+        {
+          "label": "Senior School and Sixth Form — per term",
+          "columns": [
+            "Place type",
+            "Fee"
+          ],
+          "rows": [
+            [
+              "Full boarding (5–7 nights/week)",
+              19180
+            ],
+            [
+              "Flexi boarding (3 nights/week)",
+              16115
+            ],
+            [
+              "Day",
+              13110
+            ]
+          ],
+          "note": "Flexi boarding is subject to availability. Occasional boarding for day pupils costs £96 per night, up to three nights a week if space permits."
+        }
+      ],
+      "notes": [
+        "VAT is included where applicable. These are 2026/27 fees; 2027/28 fees have not been verified.",
+        "Registration is non-refundable.",
+        "Additional charges include visa compliance (£519 per term), EAL (£71 per session), learning support (£74 per session), and music (£446 per instrument per term).",
+        "Boarders also pay £36 per term for doctors’ registration and £25 per term for house accounts. Exams, transport, trips, uniform and some activities cost extra.",
+        "A 10% younger-sibling discount applies while the older sibling attends the College or its prep schools."
+      ],
+      "payment": "Fees are due before term starts. Bank transfer and an overseas payment facility are available; UK direct debit is available after the first term."
+    },
+    "admissions": {
+      "intake": "September. Availability must be checked before registration; Year 10 places are limited.",
+      "assessments": [
+        "CAT4 cognitive ability test",
+        "Written English task",
+        "Interview; academic interviews for Sixth Form",
+        "English assessment for the Pre-Sixth Form programme"
+      ],
+      "documents": [
+        "Two recent school reports, translated into English where needed",
+        "Registration form",
+        "Reference from the current school"
+      ],
+      "steps": [
+        "Ask K12 Onboard to check availability and suitability using the student’s two latest school reports.",
+        "Complete registration and pay the registration fee once advised to proceed.",
+        "Complete the entrance assessments and interview; remote assessment is available for international applicants.",
+        "If offered a place, complete acceptance and pay the required deposit."
+      ],
+      "entry_routes": [
+        {
+          "year": "9",
+          "programme": "Third Form",
+          "requirement": "Age 13; school reports and entrance assessment",
+          "starts": "September"
+        },
+        {
+          "year": "10",
+          "programme": "GCSE",
+          "requirement": "Subject to places and individual assessment",
+          "starts": "September"
+        },
+        {
+          "year": "11",
+          "programme": "One Year Pre-Sixth Form Programme",
+          "requirement": "Age 15–16; IELTS 5 minimum, CAT4, interview and written exercise",
+          "starts": "September"
+        },
+        {
+          "year": "12",
+          "programme": "Sixth Form — A Level / BTEC",
+          "requirement": "Normally five GCSE grades 6+, including English and Mathematics; some subjects require 7+. International equivalencies need confirmation.",
+          "starts": "September"
+        }
+      ],
+      "note": "For September 2027 Sixth Form entry, the main registration deadline was 16 October 2026. The 2027 entry information sheet explicitly allows later applications throughout the year if places remain, with individual assessments. Year 9 scholarship applications for September 2027 close on 29 November 2026."
+    },
+    "facilities": [
+      "Sports hall and gym",
+      "Swimming pool",
+      "Equestrian centre",
+      "Theatre",
+      "Gwynne Library",
+      "Design and Technology centre",
+      "Health centre with overnight nursing cover",
+      "School farm"
+    ],
+    "highlights": [
+      "Over 120 co-curricular clubs",
+      "One-year GCSE preparation for international students before Sixth Form",
+      "House-based pastoral care for boarding and day pupils"
+    ],
+    "scraped": "2026-11-18",
+    "review_flags": [
+      "The Pre-Sixth Form course page states 5–8 GCSEs, while the international admissions page says 6 or 7. Confirm the individual programme.",
+      "GCSE results page gives 82% A*–B equivalent without an explicit cohort year; the overview gives 80%. GCSE statistics are omitted pending confirmation.",
+      "Student total and international percentage were not verified. The 40+ nationality claim includes staff, so it is not used as a pupil count.",
+      "Confirm international qualification equivalencies and English thresholds for Years 9, 10 and 12; only the Pre-Sixth Form IELTS minimum is explicit.",
+      "Confirm holiday/guardianship arrangements and Home and Away costs. Contractual withdrawal/refund terms remain to be reviewed.",
+      "2027/28 fees are not verified. The main 2027 Sixth Form deadline has passed, but the dated entry sheet permits applications subject to availability."
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/lancing-college/students.jpg",
+        "alt": "Students on the steps of Lancing College",
+        "position": "50% 58%"
+      },
+      "card": {
+        "src": "/images/lancing-college/students.jpg",
+        "alt": "Students outside Lancing College",
+        "position": "50% 58%"
+      },
+      "about": [
+        {
+          "src": "/images/lancing-college/chapel.jpg",
+          "alt": "Lancing College chapel rising above the mist",
+          "position": "50% 50%"
+        },
+        {
+          "src": "/images/lancing-college/classroom.jpg",
+          "alt": "Students working in a classroom"
+        }
+      ],
+      "boarding": [
+        {
+          "src": "/images/lancing-college/boarding-room.jpg",
+          "alt": "Two students talking in a boarding bedroom",
+          "position": "50% 40%"
+        }
+      ],
+      "facilities": [
+        {
+          "src": "/images/lancing-college/science.jpg",
+          "alt": "A student carrying out laboratory work"
+        }
+      ],
+      "credit": "Photos: © Lancing College"
+    }
+  },
+  {
+    "id": "kingswood-school",
+    "status": "needs_review",
+    "sample": false,
+    "name": "Kingswood School",
+    "short_name": "Kingswood",
+    "country": "United Kingdom",
+    "city": "Bath",
+    "region": "",
+    "tagline": "A co-educational boarding and day school for ages 11–18 on a 120-acre campus in Bath.",
+    "summary": "Kingswood School offers GCSE, A Level and BTEC study in Lansdown, Bath. This profile covers the Senior School and Sixth Form, with full, weekly and flexible boarding alongside day places. Academic study is complemented by music, drama, sport and outdoor activities. International applicants can apply throughout the year, subject to places and assessment.",
+    "school_type": "Boarding and day",
+    "gender": "Co-educational",
+    "age_min": 11,
+    "age_max": 18,
+    "year_groups": "Year 7 to Year 13",
+    "students_total": null,
+    "nationalities": null,
+    "international_share_percent": null,
+    "founded": null,
+    "boarding": {
+      "available": true,
+      "types": [
+        "Full-time",
+        "Weekly",
+        "Flexible"
+      ],
+      "from_year": "Year 7",
+      "day_option": true,
+      "notes": [
+        "Full boarding covers seven nights; weekly boarding runs Monday to Friday. Casual boarding for day pupils is available on request.",
+        "There are no exeat weekends during term. Weekend activities and trips are offered; holiday accommodation must be arranged separately.",
+        "Lower School pupils use Westwood as their daytime base and Beaconfield for boarding.",
+        "Students whose parents live overseas must have an adult UK guardian for travel, holidays and emergencies. Guardian details are required before a CAS is issued."
+      ]
+    },
+    "qualifications": [
+      "GCSE",
+      "A Level",
+      "BTEC"
+    ],
+    "english_support": [
+      "English as an Additional Language (EAL), assessed at entry; separate published fee rates apply"
+    ],
+    "results": [
+      {
+        "label": "A Level grades at A*–B",
+        "value": "79%",
+        "year": 2026
+      },
+      {
+        "label": "GCSE grades at 9–7",
+        "value": "69%",
+        "year": 2026
+      },
+      {
+        "label": "BTEC Distinction / Distinction*",
+        "value": "89%",
+        "year": 2026
+      }
+    ],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": 17783,
+      "terms_per_year": 3,
+      "registration_fee": 150,
+      "headline": {
+        "amount": 17783,
+        "unit": "term",
+        "label": "International full boarding, Years 9–13",
+        "alt": "Three terms; extras apply"
+      },
+      "deposit": "International acceptance deposit: £2,500. Separately, visa-sponsored pupils pay one term in advance (£14,848 Years 7–8; £17,783 Years 9–13). Deposit repayment is linked to settlement of final invoices.",
+      "includes": [
+        "Ordinary tuition",
+        "Full boarding (headline rate)"
+      ],
+      "tiers": [
+        {
+          "label": "International boarding — per term",
+          "columns": [
+            "Place type",
+            "Years 7–8",
+            "Years 9–13"
+          ],
+          "rows": [
+            [
+              "Full boarding (7 nights)",
+              14848,
+              17783
+            ],
+            [
+              "Weekly boarding (Monday–Friday)",
+              12971,
+              16067
+            ],
+            [
+              "Published EAL-inclusive rate",
+              15450,
+              18388
+            ]
+          ],
+          "note": "VAT included. The EAL row is a published total, not a supplement; its boarding basis must be confirmed."
+        },
+        {
+          "label": "Day places — per term",
+          "columns": [
+            "Item",
+            "All senior years"
+          ],
+          "rows": [
+            [
+              "Tuition",
+              8025
+            ],
+            [
+              "Compulsory lunch and tea",
+              398
+            ],
+            [
+              "Tuition plus compulsory meals",
+              8423
+            ]
+          ],
+          "note": "Meals are VAT-exempt; tuition includes VAT. Additional charges apply."
+        },
+        {
+          "label": "UK / eligible resident boarding — per term",
+          "columns": [
+            "Place type",
+            "Years 7–8",
+            "Years 9–13"
+          ],
+          "rows": [
+            [
+              "Full boarding",
+              14510,
+              17380
+            ],
+            [
+              "Weekly boarding",
+              12676,
+              15702
+            ]
+          ],
+          "note": "Published eligibility: UK citizens and EU citizens permanently resident in the UK for more than five years. Confirm classification before quoting."
+        }
+      ],
+      "notes": [
+        "2026/27 rates; 2027/28 fees are not verified. The headline covers international full boarding in Years 9–13.",
+        "Registration is non-refundable. Casual boarding costs £86 per weekday night or £108 per weekend night, subject to availability.",
+        "Extras include chapel (£6/term), boarding house (£15.70/term) or day house (£8.50/term), Sixth Form subscription (£18.30/year) and visa administration (£180 in the application year). Exams, trips, music and learning support may cost extra.",
+        "A 10% boarding discount applies to second and subsequent siblings.",
+        "Withdrawal or change of boarding status requires a full term’s written notice; otherwise a full term’s fee is charged."
+      ],
+      "payment": "Three equal instalments, due by the first day of each term. A third-party monthly payment plan is available subject to eligibility and terms."
+    },
+    "admissions": {
+      "intake": "Applications are processed year-round subject to places. Confirm the intended start date.",
+      "assessments": [
+        "Years 7–9: EAL, Mathematics and non-verbal reasoning papers",
+        "Year 10: additional Science and Modern Foreign Language papers",
+        "Interview, available remotely; Sixth Form assessment details to confirm"
+      ],
+      "documents": [
+        "Registration form",
+        "Reference from the current school",
+        "UK guardian details for pupils whose parents live overseas, before CAS issuance"
+      ],
+      "steps": [
+        "Ask K12 Onboard to check places and suitability.",
+        "Complete registration and pay the £150 registration fee.",
+        "Complete the entrance assessments and interview; provide a school reference.",
+        "If offered a place, complete acceptance, pay the deposit and required advance fees, and confirm guardianship arrangements."
+      ],
+      "entry_routes": [
+        {
+          "year": "7–9",
+          "programme": "Lower School / Senior School",
+          "requirement": "EAL, Mathematics, non-verbal reasoning, interview and school reference",
+          "starts": "Confirm availability"
+        },
+        {
+          "year": "10",
+          "programme": "GCSE",
+          "requirement": "International admissions assessment including Science and Modern Foreign Language papers",
+          "starts": "Confirm availability"
+        },
+        {
+          "year": "12",
+          "programme": "Sixth Form — A Level / BTEC",
+          "requirement": "Individual assessment; subject-specific grades, equivalencies and English thresholds to confirm",
+          "starts": "Confirm availability"
+        }
+      ],
+      "note": "Scholarships are advertised for Years 7, 9 and 12 in academics, art, drama, design and technology, music and sport. The John Wesley Scholarship recognises all-round contribution by boarders. Award values and deadlines require confirmation."
+    },
+    "facilities": [
+      "120-acre campus",
+      "Westwood library and prep room",
+      "Lower School games rooms and quiet areas",
+      "Westwood Woods outdoor space"
+    ],
+    "highlights": [
+      "Full boarding without exeat weekends during term",
+      "Music, drama, coding, Model United Nations and outdoor activities",
+      "Lower School tutor groups and Year 12 peer mentors"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/kingswood/campus.webp",
+        "alt": "Aerial view of Kingswood School and its lawns in Bath",
+        "position": "50% 50%"
+      },
+      "card": {
+        "src": "/images/kingswood/campus.webp",
+        "alt": "Kingswood School campus in Bath",
+        "position": "50% 50%"
+      },
+      "about": [
+        {
+          "src": "/images/kingswood/students.webp",
+          "alt": "Pupils walking outside Kingswood School",
+          "position": "50% 50%"
+        }
+      ],
+      "boarding": [
+        {
+          "src": "/images/kingswood/boarding.webp",
+          "alt": "Pupils in a shared boarding bedroom at Kingswood School",
+          "position": "50% 50%"
+        }
+      ],
+      "credit": "Photos: © Kingswood School"
+    },
+    "scraped": "2026-11-18",
+    "review_flags": [
+      "Source coverage is partial: six official HTML pages retained; several linked pages timed out or returned an error.",
+      "Confirm the boarding basis of the EAL-inclusive fee row and individual fee eligibility; the source repeats its UK/EU footnote beneath the international table.",
+      "Pupil total, nationality count and whole-school international share are unverified. The British percentage in the source refers only to boarders.",
+      "Confirm Sixth Form subject requirements, international equivalencies, numerical English thresholds, scholarship deadlines and holiday arrangements.",
+      "2027/28 fees and individual BTEC subjects are not verified."
     ]
   }
 ]

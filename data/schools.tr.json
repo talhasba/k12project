@@ -25,12 +25,21 @@
       "Advanced English Language Programme (Year 10–12)"
     ],
     "results": [
-      { "label": "9–6 notu alan GCSE sonuçları", "value": "%85" },
-      { "label": "A*–A notu alan A Level sonuçları", "value": "%80" }
+      {
+        "label": "9–6 notu alan GCSE sonuçları",
+        "value": "%85"
+      },
+      {
+        "label": "A*–A notu alan A Level sonuçları",
+        "value": "%80"
+      }
     ],
     "fees": {
       "deposit": "İade edilebilir; bir dönemlik ücrete eşittir",
-      "includes": ["Yatılılık", "Eğitim ücreti"],
+      "includes": [
+        "Yatılılık",
+        "Eğitim ücreti"
+      ],
       "notes": [
         "Ücretlere geçerli olduğu durumlarda KDV dahildir.",
         "Kayıt ücreti iade edilmez ve banka havalesiyle ödenir.",
@@ -40,8 +49,18 @@
     },
     "admissions": {
       "intake": "Eylül (Year 10–12 için English Language Programme'a Ocak'ta da giriş yapılabilir). Başvurular yıl boyunca kabul edilir.",
-      "assessments": ["Online İngilizce sınavı", "CAT4 bilişsel yetenek testi", "Kişisel özgeçmiş", "Mülakat (yüz yüze veya görüntülü)"],
-      "documents": ["Pasaport", "En güncel tam okul karnesinin iki kopyası", "Başarı sertifikaları (isteğe bağlı)", "Başvuru formu"],
+      "assessments": [
+        "Online İngilizce sınavı",
+        "CAT4 bilişsel yetenek testi",
+        "Kişisel özgeçmiş",
+        "Mülakat (yüz yüze veya görüntülü)"
+      ],
+      "documents": [
+        "Pasaport",
+        "En güncel tam okul karnesinin iki kopyası",
+        "Başarı sertifikaları (isteğe bağlı)",
+        "Başvuru formu"
+      ],
       "steps": [
         "İlgi kaydı oluşturulur (online form, uluslararası temsilci veya danışmanlık firması aracılığıyla).",
         "Başvuru formu ve belgeler gönderilir.",
@@ -51,15 +70,47 @@
         "Kayıt formu doldurulup kayıt ücreti ve depozito ödenerek yer kabul edilir."
       ],
       "entry_routes": [
-        { "programme": "King's Magna'da EAL dersleriyle Key Stage 3", "starts": "Eylül" },
-        { "programme": "Junior English Language Programme", "starts": "Eylül" },
-        { "programme": "Junior English Language Programme", "starts": "Eylül" },
-        { "programme": "English Language Programme", "requirement": "IELTS 4, CAT4 25. yüzdelik dilim", "starts": "Eylül / Ocak" },
-        { "programme": "İki yıllık GCSE programı", "starts": "Eylül" },
-        { "programme": "Advanced English Language Programme", "requirement": "IELTS 5, CAT4 60. yüzdelik dilim", "starts": "Eylül" },
-        { "programme": "English Language Programme", "requirement": "IELTS 4.5, CAT4 25. yüzdelik dilim", "starts": "Eylül / Ocak" },
-        { "programme": "IELTS/EAL dersleriyle iki yıllık A Level / BTEC", "requirement": "IELTS 6 (bazı A Level dersleri için GCSE'de 7 ve üzeri)", "starts": "Eylül" },
-        { "programme": "NCUK International Foundation Year (İşletme veya Fen)", "requirement": "IELTS 5.5, CAT4 25. yüzdelik dilim, 17 yaş ve üzeri", "starts": "Eylül" }
+        {
+          "programme": "King's Magna'da EAL dersleriyle Key Stage 3",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "Junior English Language Programme",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "Junior English Language Programme",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "English Language Programme",
+          "requirement": "IELTS 4, CAT4 25. yüzdelik dilim",
+          "starts": "Eylül / Ocak"
+        },
+        {
+          "programme": "İki yıllık GCSE programı",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "Advanced English Language Programme",
+          "requirement": "IELTS 5, CAT4 60. yüzdelik dilim",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "English Language Programme",
+          "requirement": "IELTS 4.5, CAT4 25. yüzdelik dilim",
+          "starts": "Eylül / Ocak"
+        },
+        {
+          "programme": "IELTS/EAL dersleriyle iki yıllık A Level / BTEC",
+          "requirement": "IELTS 6 (bazı A Level dersleri için GCSE'de 7 ve üzeri)",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "NCUK International Foundation Year (İşletme veya Fen)",
+          "requirement": "IELTS 5.5, CAT4 25. yüzdelik dilim, 17 yaş ve üzeri",
+          "starts": "Eylül"
+        }
       ],
       "note": "Okul, uluslararası öğrenciler için temel düzeyde İngilizce dışında resmî bir kabul koşulu olmadığını belirtiyor."
     },
@@ -80,31 +131,72 @@
       "Temmuz'da uluslararası yaz okulu (2, 3 veya 4 hafta)"
     ],
     "images": {
-      "hero": { "alt": "Taş girişli ve parke kaplı avlulu, sarmaşıkla kaplı kırmızı tuğla bina", "credit": { "title": "Ana bina" } },
-      "card": { "alt": "Taş girişli ve parke kaplı avlulu, sarmaşıkla kaplı kırmızı tuğla bina", "credit": { "title": "Ana bina" } },
+      "hero": {
+        "alt": "Taş girişli ve parke kaplı avlulu, sarmaşıkla kaplı kırmızı tuğla bina",
+        "credit": {
+          "title": "Ana bina"
+        }
+      },
+      "card": {
+        "alt": "Taş girişli ve parke kaplı avlulu, sarmaşıkla kaplı kırmızı tuğla bina",
+        "credit": {
+          "title": "Ana bina"
+        }
+      },
       "about": [
-        { "alt": "Yatılı evlerin ve spor sahasının havadan görünümü" },
-        { "alt": "Okul formalı gülümseyen öğrenciler" },
-        { "alt": "Kampüste yürüyen iki Sixth Form öğrencisi" },
-        { "alt": "Queen Ethelburga's kampüsünün ve çevresindeki kırsalın havadan görünümü" }
+        {
+          "alt": "Yatılı evlerin ve spor sahasının havadan görünümü"
+        },
+        {
+          "alt": "Okul formalı gülümseyen öğrenciler"
+        },
+        {
+          "alt": "Kampüste yürüyen iki Sixth Form öğrencisi"
+        },
+        {
+          "alt": "Queen Ethelburga's kampüsünün ve çevresindeki kırsalın havadan görünümü"
+        }
       ],
       "boarding": [
-        { "alt": "Bahçeli ve oturma alanlı tuğla yatılı avlusu" },
-        { "alt": "Yatak, çalışma masası ve pencereli bir yatılı odası" },
-        { "alt": "Yatak, raflar ve çalışma masası olan bir yatılı odası" },
-        { "alt": "Uzun yemek masaları ve büyük sarı bir robot heykeli bulunan, cam çatılı yüksek Atrium", "credit": { "title": "Atrium" } }
+        {
+          "alt": "Bahçeli ve oturma alanlı tuğla yatılı avlusu"
+        },
+        {
+          "alt": "Yatak, çalışma masası ve pencereli bir yatılı odası"
+        },
+        {
+          "alt": "Yatak, raflar ve çalışma masası olan bir yatılı odası"
+        },
+        {
+          "alt": "Uzun yemek masaları ve büyük sarı bir robot heykeli bulunan, cam çatılı yüksek Atrium",
+          "credit": {
+            "title": "Atrium"
+          }
+        }
       ],
       "facilities": [
-        { "alt": "Muggles açık hava etkinlik merkezi ve sahaların havadan görünümü" },
-        { "alt": "Muggles etkinlik merkezinin ortak alanındaki öğrenciler" },
-        { "alt": "Çeşme, çiçek tarhları ve banklar bulunan düzenli bahçe", "credit": { "title": "Bahçeler" } }
+        {
+          "alt": "Muggles açık hava etkinlik merkezi ve sahaların havadan görünümü"
+        },
+        {
+          "alt": "Muggles etkinlik merkezinin ortak alanındaki öğrenciler"
+        },
+        {
+          "alt": "Çeşme, çiçek tarhları ve banklar bulunan düzenli bahçe",
+          "credit": {
+            "title": "Bahçeler"
+          }
+        }
       ],
-      "admissions": { "alt": "Mavi okul formalı gülümseyen bir öğrenci" },
-      "trip": { "alt": "Bir gezide araçta birlikte oturan öğrenciler" },
+      "admissions": {
+        "alt": "Mavi okul formalı gülümseyen bir öğrenci"
+      },
+      "trip": {
+        "alt": "Bir gezide araçta birlikte oturan öğrenciler"
+      },
       "credit": "Fotoğraflar: © Queen Ethelburga's Collegiate."
     }
   },
-
   "ashbourne-college": {
     "city": "Londra",
     "tagline": "Londra Kensington'da, sınıfları en fazla on öğrenciden oluşan seçici, özel bir GCSE ve A Level koleji. Gündüzlü kolej: yatılılık yok.",
@@ -129,13 +221,24 @@
       "Öğle arası İngilizce konuşma kulübü"
     ],
     "results": [
-      { "label": "A*–A notu alan A Level sonuçları", "value": "%54" },
-      { "label": "8–9 notu alan GCSE sonuçları", "value": "%49" },
-      { "label": "A Level gelişim sıralaması (katma değer), İngiltere", "value": "İlk %2,5" }
+      {
+        "label": "A*–A notu alan A Level sonuçları",
+        "value": "%54"
+      },
+      {
+        "label": "8–9 notu alan GCSE sonuçları",
+        "value": "%49"
+      },
+      {
+        "label": "A Level gelişim sıralaması (katma değer), İngiltere",
+        "value": "İlk %2,5"
+      }
     ],
     "fees": {
       "deposit": "300 GBP iade edilebilir kitap depozitosu",
-      "includes": ["Eğitim ücreti"],
+      "includes": [
+        "Eğitim ücreti"
+      ],
       "notes": [
         "Gösterilen ücret uluslararası öğrenciler içindir (A Level ve GCSE). İngiltere'de yaşayan öğrenciler dönem başına 13.500 GBP öder. Tüm ücretlere KDV dahildir.",
         "Konaklama ücrete dahil değildir ve kolej tarafından sağlanmaz.",
@@ -166,9 +269,21 @@
         "Uluslararası öğrenciler: ücretler ödendikten ve belgeler kontrol edildikten sonra Ashbourne bir CAS (Certificate of Acceptance for Studies) düzenler; ardından Child Student veya Student vizesine başvurulur."
       ],
       "entry_routes": [
-        { "programme": "İki yıllık GCSE programı (zorunlu dersler Year 10'da, seçmeli dersler Year 11'de)", "requirement": "Kabul sınavları ve mülakat", "starts": "Eylül / Ocak" },
-        { "programme": "Bir yıllık yoğun GCSE programı", "requirement": "Kabul sınavları ve mülakat", "starts": "Eylül / Ocak" },
-        { "programme": "İki yıllık A Level programı (25'ten fazla ders)", "requirement": "Genellikle tüm GCSE'lerde 6 ve üzeri not; Student vizesi için IELTS 5.0 (CEFR B1)", "starts": "Eylül / Ocak" }
+        {
+          "programme": "İki yıllık GCSE programı (zorunlu dersler Year 10'da, seçmeli dersler Year 11'de)",
+          "requirement": "Kabul sınavları ve mülakat",
+          "starts": "Eylül / Ocak"
+        },
+        {
+          "programme": "Bir yıllık yoğun GCSE programı",
+          "requirement": "Kabul sınavları ve mülakat",
+          "starts": "Eylül / Ocak"
+        },
+        {
+          "programme": "İki yıllık A Level programı (25'ten fazla ders)",
+          "requirement": "Genellikle tüm GCSE'lerde 6 ve üzeri not; Student vizesi için IELTS 5.0 (CEFR B1)",
+          "starts": "Eylül / Ocak"
+        }
       ],
       "note": "Ashbourne seçicidir ancak her başvuruyu ayrı ayrı değerlendirir; başvuru ücretsizdir."
     },
@@ -180,19 +295,32 @@
       "Kensington Gardens ve Hyde Park'ın hemen yanında"
     ],
     "images": {
-      "hero": { "alt": "Sonbaharda bir park yolunda birlikte yürüyen beş Ashbourne College öğrencisi" },
-      "card": { "alt": "Sonbaharda bir park yolunda birlikte yürüyen beş Ashbourne College öğrencisi" },
+      "hero": {
+        "alt": "Sonbaharda bir park yolunda birlikte yürüyen beş Ashbourne College öğrencisi"
+      },
+      "card": {
+        "alt": "Sonbaharda bir park yolunda birlikte yürüyen beş Ashbourne College öğrencisi"
+      },
       "about": [
-        { "alt": "Elinde dizüstü bilgisayar ve A Level kitaplarıyla koridorda yürüyen üç Ashbourne College öğrencisi" },
-        { "alt": "Merkezi Londra'da hareketli bir sokakta yürüyen öğrenciler" },
-        { "alt": "Merkezi Londra'da, uzun kemerli pencereleri ve köşe kulesi olan büyük taş bina" },
-        { "alt": "Kolejin birkaç dakika yürüme mesafesindeki Albert Memorial" },
-        { "alt": "Kensington'da ağaçlı bir park yolu" }
+        {
+          "alt": "Elinde dizüstü bilgisayar ve A Level kitaplarıyla koridorda yürüyen üç Ashbourne College öğrencisi"
+        },
+        {
+          "alt": "Merkezi Londra'da hareketli bir sokakta yürüyen öğrenciler"
+        },
+        {
+          "alt": "Merkezi Londra'da, uzun kemerli pencereleri ve köşe kulesi olan büyük taş bina"
+        },
+        {
+          "alt": "Kolejin birkaç dakika yürüme mesafesindeki Albert Memorial"
+        },
+        {
+          "alt": "Kensington'da ağaçlı bir park yolu"
+        }
       ],
       "credit": "Fotoğraf: © Ashbourne College."
     }
   },
-
   "st-clares-oxford-ib": {
     "region": "Kuzey Oxford",
     "tagline": "İngiltere'nin en köklü IB World School'u: Kuzey Oxford'da IB Diploma ve bir ila üç dönemlik Pre-IB; yatılı ve gündüzlü seçenekler, ortalama dokuz kişilik sınıflar.",
@@ -216,34 +344,101 @@
       "IB Diploma: EAL desteğiyle Language B İngilizce (önerilen İngilizce seviyesi B2 orta; asgari şart değil)"
     ],
     "results": [
-      { "label": "IB Diploma ortalama puanı (2026 mezunları, 123 öğrenci; dünya ortalaması 31)" },
-      { "label": "Dünya ortalamasının üzerinde puan alan öğrenciler", "value": "%80" },
-      { "label": "İki dilli (bilingual) diploma alanlar", "value": "%58" }
+      {
+        "label": "IB Diploma ortalama puanı (2026 mezunları, 123 öğrenci; dünya ortalaması 31)"
+      },
+      {
+        "label": "Dünya ortalamasının üzerinde puan alan öğrenciler",
+        "value": "%80"
+      },
+      {
+        "label": "İki dilli (bilingual) diploma alanlar",
+        "value": "%58"
+      }
     ],
     "fees": {
-      "headline": { "label": "yatılı, tam yıl, KDV dahil", "alt": "Gündüzlü öğrenciler: yılda 30.985 GBP" },
+      "headline": {
+        "label": "yatılı, tam yıl, KDV dahil",
+        "alt": "Gündüzlü öğrenciler: yılda 30.985 GBP"
+      },
       "deposit": "IB Diploma kayıt depozitosu 3.500 GBP. Pre-IB depozitosu: 1.400 GBP (sonbahar veya bahar girişi), 700 GBP (yaz), 3.500 GBP (tam yıl).",
-      "includes": ["Eğitim ücreti", "Konaklama (yatılı ücreti)", "Yemekler", "Sınav ve kitap ücretleri", "Seyahat ve ücret sigortası"],
+      "includes": [
+        "Eğitim ücreti",
+        "Konaklama (yatılı ücreti)",
+        "Yemekler",
+        "Sınav ve kitap ücretleri",
+        "Seyahat ve ücret sigortası"
+      ],
       "tiers": [
         {
           "label": "Yatılı",
-          "columns": ["Dönem", "Ücret", "KDV (%20)", "Toplam"],
+          "columns": [
+            "Dönem",
+            "Ücret",
+            "KDV (%20)",
+            "Toplam"
+          ],
           "rows": [
-            ["Sonbahar 2026", 22090, 4385, 26475],
-            ["Bahar 2027", 17355, 3445, 20800],
-            ["Yaz 2027", 15778, 3132, 18910],
-            ["Tam yıl", 55223, 10962, 66185]
+            [
+              "Sonbahar 2026",
+              22090,
+              4385,
+              26475
+            ],
+            [
+              "Bahar 2027",
+              17355,
+              3445,
+              20800
+            ],
+            [
+              "Yaz 2027",
+              15778,
+              3132,
+              18910
+            ],
+            [
+              "Tam yıl",
+              55223,
+              10962,
+              66185
+            ]
           ],
           "note": "İki taksitte ödenir: 33.092 GBP, 13 Ağustos 2026'da ve 13 Aralık 2026'da."
         },
         {
           "label": "Gündüzlü",
-          "columns": ["Dönem", "Ücret", "KDV (%20)", "Toplam"],
+          "columns": [
+            "Dönem",
+            "Ücret",
+            "KDV (%20)",
+            "Toplam"
+          ],
           "rows": [
-            ["Sonbahar 2026", 10357, 2038, 12395],
-            ["Bahar 2027", 8139, 1602, 9740],
-            ["Yaz 2027", 7395, 1455, 8850],
-            ["Tam yıl", 25890, 5095, 30985]
+            [
+              "Sonbahar 2026",
+              10357,
+              2038,
+              12395
+            ],
+            [
+              "Bahar 2027",
+              8139,
+              1602,
+              9740
+            ],
+            [
+              "Yaz 2027",
+              7395,
+              1455,
+              8850
+            ],
+            [
+              "Tam yıl",
+              25890,
+              5095,
+              30985
+            ]
           ],
           "note": "İki taksitte ödenir: 15.493 GBP, 13 Ağustos 2026'da ve 13 Aralık 2026'da."
         }
@@ -277,8 +472,16 @@
         "Mülakattan sonra sözlü teklif, ardından yazılı onay alınır."
       ],
       "entry_routes": [
-        { "programme": "Pre-IB, 15–16 yaş (1, 2 veya 3 dönem; en fazla 15 öğrenci; haftada 30 ders)", "requirement": "Önerilen İngilizce seviyesi B1 orta-üst (asgari şart değil, yol gösterici)", "starts": "Eylül / Ocak / Nisan" },
-        { "programme": "İki yıllık IB Diploma, 16–19 yaş (altı ders ile Extended Essay, Theory of Knowledge ve CAS; en fazla 15 öğrenci)", "requirement": "Önerilen İngilizce seviyesi B2 orta (asgari şart değil); matematik ve İngilizce seviye tespit sınavları", "starts": "Eylül" }
+        {
+          "programme": "Pre-IB, 15–16 yaş (1, 2 veya 3 dönem; en fazla 15 öğrenci; haftada 30 ders)",
+          "requirement": "Önerilen İngilizce seviyesi B1 orta-üst (asgari şart değil, yol gösterici)",
+          "starts": "Eylül / Ocak / Nisan"
+        },
+        {
+          "programme": "İki yıllık IB Diploma, 16–19 yaş (altı ders ile Extended Essay, Theory of Knowledge ve CAS; en fazla 15 öğrenci)",
+          "requirement": "Önerilen İngilizce seviyesi B2 orta (asgari şart değil); matematik ve İngilizce seviye tespit sınavları",
+          "starts": "Eylül"
+        }
       ],
       "note": "Yarı seçici: karar, önceki akademik sonuçlar, seviye tespit sınavları ve mülakata göre verilir. 2027 girişi için gelir durumuna göre burs başvuruları açık: standart son başvuru tarihi 11 Aralık 2026, değerlendirme günü 23 Ocak 2027."
     },
@@ -300,14 +503,387 @@
       "IB Diploma için gelir durumuna göre tam ve kısmi burslar (gündüzlü ve yatılı)"
     ],
     "images": {
-      "hero": { "alt": "St Clare's'ın tuğla ve ahşap çatkılı binasının önünden geçen altı öğrenci" },
-      "card": { "alt": "Banbury Road'dan görünen kırmızı tuğlalı St Clare's binaları", "credit": { "title": "Banbury Road" } },
+      "hero": {
+        "alt": "St Clare's'ın tuğla ve ahşap çatkılı binasının önünden geçen altı öğrenci"
+      },
+      "card": {
+        "alt": "Banbury Road'dan görünen kırmızı tuğlalı St Clare's binaları",
+        "credit": {
+          "title": "Banbury Road"
+        }
+      },
       "about": [
-        { "alt": "Bahçe yolunda sohbet ederek yürüyen üç öğrenci" },
-        { "alt": "IB broşürüne birlikte bakan bir öğrenci ve bir okul görevlisi" },
-        { "alt": "Banbury Road'dan görünen kırmızı tuğlalı St Clare's binaları", "credit": { "title": "Banbury Road" } }
+        {
+          "alt": "Bahçe yolunda sohbet ederek yürüyen üç öğrenci"
+        },
+        {
+          "alt": "IB broşürüne birlikte bakan bir öğrenci ve bir okul görevlisi"
+        },
+        {
+          "alt": "Banbury Road'dan görünen kırmızı tuğlalı St Clare's binaları",
+          "credit": {
+            "title": "Banbury Road"
+          }
+        }
       ],
       "credit": "Fotoğraflar: © St Clare's, Oxford."
     }
+  },
+  "lancing-college": {
+    "region": "Batı Sussex",
+    "tagline": "13–18 yaş için GCSE, A Level ve bir yıllık Pre-Sixth Form seçeneği sunan yatılı ve gündüzlü okul.",
+    "summary": "Lancing College, Batı Sussex’te bulunan karma bir ortaöğretim okuludur. GCSE ve Sixth Form eğitimi kapsamında A Level ile işletme ve spor alanlarında BTEC programları sunar. Uluslararası öğrenciler kontenjana bağlı olarak Year 9, Year 10 ve Year 12’ye veya Year 11’de bir yıllık Pre-Sixth Form programına başvurabilir. Okul yaşamını yedi yatılı öğrenci evi, üç gündüzlü öğrenci evi ve 120’den fazla ders dışı kulüp destekler.",
+    "school_type": "Yatılı ve gündüzlü",
+    "gender": "Karma",
+    "year_groups": "Year 9 – Year 13",
+    "boarding": {
+      "from_year": "Year 9",
+      "notes": [
+        "Tam yatılılık haftada 5–7 geceyi; kontenjana bağlı esnek yatılılık ise haftada üç geceyi kapsar.",
+        "Kız ve erkek öğrencilerin ayrı kaldığı yedi yatılı öğrenci evi, beş sınıf düzeyini bir araya getirir; ev sorumluları, bakım personeli ve danışman öğretmenler destek sağlar.",
+        "Öğrencilerin yaklaşık %60’ı yatılıdır. Evlerde yatak odaları, çalışma alanları, mutfak ve ortak salon bulunur.",
+        "Okul yılda beş izin hafta sonunda kapanır. Home and Away programı uluslararası yatılı öğrencilere gözetimli konaklama düzenlemeleri sunar. Kontenjan, ücretler ve tatil dönemlerindeki bakım düzenlemeleri önceden teyit edilmelidir."
+      ]
+    },
+    "english_support": [
+      "EAL dersleri (ek ücretli)",
+      "One Year Pre-Sixth Form Programme (Year 11): hedefli İngilizce desteğiyle GCSE eğitimi"
+    ],
+    "results": [
+      {
+        "label": "A Level sınavlarında A*–A notlarının oranı"
+      },
+      {
+        "label": "A Level sınavlarında A* notlarının oranı"
+      }
+    ],
+    "fees": {
+      "deposit": "Birleşik Krallık dışından gelen öğrenciler: bir dönemlik ücret; okuldan ayrılırken iade edilir. Birleşik Krallık öğrencileri: £2.000.",
+      "includes": [
+        "Eğitim ve tam yatılı konaklama",
+        "Ders kitapları",
+        "Yemekler",
+        "Standart çamaşır hizmeti (kuru temizleme hariç)",
+        "Ferdi kaza sigortası"
+      ],
+      "tiers": [
+        {
+          "label": "Senior School ve Sixth Form — dönemlik",
+          "columns": [
+            "Öğrencilik türü",
+            "Ücret"
+          ],
+          "rows": [
+            [
+              "Tam yatılı (haftada 5–7 gece)",
+              19180
+            ],
+            [
+              "Esnek yatılı (haftada 3 gece)",
+              16115
+            ],
+            [
+              "Gündüzlü",
+              13110
+            ]
+          ],
+          "note": "Esnek yatılılık kontenjana bağlıdır. Gündüzlü öğrenciler için gecelik konaklama £96’dır; yer varsa haftada en fazla üç gece mümkündür."
+        }
+      ],
+      "notes": [
+        "Geçerli olduğu durumlarda KDV dahildir. Ücretler 2026/27 içindir; 2027/28 ücretleri henüz doğrulanmamıştır.",
+        "Kayıt ücreti iade edilmez.",
+        "Ek ücretler arasında vize uyum hizmeti (dönemlik £519), EAL (ders başına £71), öğrenme desteği (ders başına £74) ve müzik (enstrüman başına dönemlik £446) bulunur.",
+        "Yatılı öğrenciler ayrıca dönemlik £36 doktor kayıt ve £25 öğrenci evi gideri öder. Sınav, ulaşım, gezi, üniforma ve bazı etkinlikler ek ücretlidir.",
+        "Büyük kardeş College veya bağlı hazırlık okullarında okurken küçük kardeşe %10 indirim uygulanır."
+      ],
+      "payment": "Ücretler dönem başlamadan önce ödenir. Banka havalesi ve yurt dışından ödeme sistemi kullanılabilir; ilk dönemden sonra Birleşik Krallık hesabından otomatik ödeme mümkündür."
+    },
+    "admissions": {
+      "intake": "Eylül. Kayıttan önce kontenjan teyidi gerekir; Year 10 kontenjanı sınırlıdır.",
+      "assessments": [
+        "CAT4 bilişsel yetenek testi",
+        "İngilizce yazılı çalışma",
+        "Mülakat; Sixth Form için akademik mülakatlar",
+        "Pre-Sixth Form için İngilizce değerlendirmesi"
+      ],
+      "documents": [
+        "Son iki okul karnesi veya gelişim raporu; gerekirse İngilizce çevirileri",
+        "Kayıt formu",
+        "Mevcut okuldan referans"
+      ],
+      "steps": [
+        "Öğrencinin son iki okul raporuyla kontenjan ve uygunluk kontrolü için K12 Onboard’a başvurun.",
+        "Başvuruya devam edilmesi uygun görülünce kayıt formunu tamamlayıp kayıt ücretini ödeyin.",
+        "Giriş değerlendirmelerini ve mülakatı tamamlayın; uluslararası adaylar uzaktan değerlendirilebilir.",
+        "Kabul verilirse kabul işlemlerini tamamlayıp gerekli depozitoyu ödeyin."
+      ],
+      "entry_routes": [
+        {
+          "programme": "Third Form",
+          "requirement": "13 yaş; okul raporları ve giriş değerlendirmesi",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "GCSE",
+          "requirement": "Kontenjan ve bireysel değerlendirmeye bağlı",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "One Year Pre-Sixth Form Programme",
+          "requirement": "15–16 yaş; en az IELTS 5, CAT4, mülakat ve yazılı çalışma",
+          "starts": "Eylül"
+        },
+        {
+          "programme": "Sixth Form — A Level / BTEC",
+          "requirement": "Normalde İngilizce ve matematik dahil en az beş GCSE dersinde 6+; bazı derslerde 7+ gerekir. Uluslararası denklikler teyit edilmelidir.",
+          "starts": "Eylül"
+        }
+      ],
+      "note": "Eylül 2027 Sixth Form girişinin ana kayıt son tarihi 16 Ekim 2026 idi. 2027 giriş bilgi belgesi, yer olması koşuluyla yıl boyunca geç başvuru ve bireysel değerlendirmeye açıkça izin verir. Eylül 2027 Year 9 burs başvuruları 29 Kasım 2026’da kapanır."
+    },
+    "facilities": [
+      "Spor salonu ve fitness alanı",
+      "Yüzme havuzu",
+      "Binicilik merkezi",
+      "Tiyatro",
+      "Gwynne Kütüphanesi",
+      "Tasarım ve teknoloji merkezi",
+      "Gece hemşire desteği bulunan sağlık merkezi",
+      "Okul çiftliği"
+    ],
+    "highlights": [
+      "120’den fazla ders dışı kulüp",
+      "Uluslararası öğrenciler için Sixth Form öncesi bir yıllık GCSE hazırlığı",
+      "Yatılı ve gündüzlü öğrenciler için öğrenci evi temelli rehberlik"
+    ],
+    "review_flags": [
+      "Pre-Sixth Form sayfası 5–8 GCSE belirtirken uluslararası kabul sayfası 6 veya 7 diyor. Bireysel program teyit edilmeli.",
+      "GCSE sonuç sayfasında yıl belirtilmeden %82 A*–B eşdeğeri, genel sayfada %80 veriliyor. Teyit edilene kadar GCSE istatistikleri eklenmedi.",
+      "Toplam öğrenci sayısı ve uluslararası öğrenci oranı doğrulanmadı. 40+ milliyet ifadesi personeli de kapsadığından öğrenci sayısı olarak kullanılmadı.",
+      "Year 9, Year 10 ve Year 12 için uluslararası denklikler ve İngilizce şartları teyit edilmeli; yalnızca Pre-Sixth Form IELTS alt sınırı açıkça belirtiliyor.",
+      "Tatil ve vasilik düzenlemeleri ile Home and Away ücretleri teyit edilmeli. Sözleşmedeki ayrılma ve iade hükümleri henüz incelenmedi.",
+      "2027/28 ücretleri doğrulanmadı. Ana 2027 Sixth Form son tarihi geçti; ancak tarihli giriş belgesi kontenjana bağlı geç başvuruya izin veriyor."
+    ],
+    "images": {
+      "hero": {
+        "alt": "Lancing College merdivenlerinde öğrenciler"
+      },
+      "card": {
+        "alt": "Lancing College binasının önünde öğrenciler"
+      },
+      "about": [
+        {
+          "alt": "Sislerin üzerinde yükselen Lancing College şapeli"
+        },
+        {
+          "alt": "Sınıfta çalışan öğrenciler"
+        }
+      ],
+      "boarding": [
+        {
+          "alt": "Yatılı öğrenci odasında sohbet eden iki öğrenci"
+        }
+      ],
+      "facilities": [
+        {
+          "alt": "Laboratuvar çalışması yapan bir öğrenci"
+        }
+      ],
+      "credit": "Fotoğraflar: © Lancing College"
+    }
+  },
+  "kingswood-school": {
+    "tagline": "Bath’ta yaklaşık 49 hektarlık kampüste 11–18 yaş için karma yatılı ve gündüzlü okul.",
+    "summary": "Kingswood School, Bath’ın Lansdown bölgesinde GCSE, A Level ve BTEC eğitimi sunar. Bu profil Senior School ve Sixth Form kademelerini kapsar. Gündüzlü eğitimin yanında tam, haftalık ve esnek yatılılık seçenekleri bulunur. Akademik eğitim; müzik, drama, spor ve açık hava etkinlikleriyle desteklenir. Uluslararası başvurular kontenjan ve değerlendirmeye bağlı olarak yıl boyunca alınır.",
+    "school_type": "Yatılı ve gündüzlü",
+    "gender": "Karma",
+    "year_groups": "Year 7 – Year 13",
+    "boarding": {
+      "notes": [
+        "Tam yatılılık haftada yedi geceyi kapsar; haftalık yatılılık pazartesiden cumaya sürer. Gündüzlü öğrenciler talep üzerine gecelik konaklayabilir.",
+        "Dönem içinde okulun kapandığı izin hafta sonları yoktur. Hafta sonu etkinlikleri ve geziler düzenlenir; tatil konaklaması ayrıca planlanmalıdır.",
+        "Lower School öğrencileri gündüz Westwood’u, yatılılık için Beaconfield’ı kullanır.",
+        "Ebeveynleri yurt dışında yaşayan öğrencilerin seyahat, tatil ve acil durumlar için Birleşik Krallık’ta yetişkin bir vasisi olmalıdır. CAS düzenlenmeden önce vasi bilgileri sunulmalıdır."
+      ]
+    },
+    "english_support": [
+      "Girişte değerlendirilen ek dil olarak İngilizce (EAL) desteği; ayrı yayımlanmış ücretler uygulanır"
+    ],
+    "results": [
+      {
+        "label": "A Level sınavlarında A*–B notlarının oranı"
+      },
+      {
+        "label": "GCSE sınavlarında 9–7 notlarının oranı"
+      },
+      {
+        "label": "BTEC Distinction / Distinction* oranı"
+      }
+    ],
+    "fees": {
+      "headline": {
+        "label": "Uluslararası tam yatılılık, Year 9–13",
+        "alt": "Üç dönem; ek ücretler uygulanır"
+      },
+      "deposit": "Uluslararası kabul depozitosu: £2.500. Ayrıca vize sponsorluğu verilen öğrenciler bir dönemlik ücreti peşin öder (Year 7–8: £14.848; Year 9–13: £17.783). Depozito iadesi, son faturaların kapatılmasına bağlıdır.",
+      "includes": [
+        "Standart eğitim",
+        "Tam yatılı konaklama (gösterilen ana ücret)"
+      ],
+      "tiers": [
+        {
+          "label": "Uluslararası yatılılık — dönemlik",
+          "columns": [
+            "Öğrencilik türü",
+            "Year 7–8",
+            "Year 9–13"
+          ],
+          "rows": [
+            [
+              "Tam yatılı (7 gece)",
+              14848,
+              17783
+            ],
+            [
+              "Haftalık yatılı (pazartesi–cuma)",
+              12971,
+              16067
+            ],
+            [
+              "Yayımlanmış EAL dahil ücret",
+              15450,
+              18388
+            ]
+          ],
+          "note": "KDV dahildir. EAL satırı ek ücret değil toplam ücrettir; hangi yatılılık türünü kapsadığı teyit edilmelidir."
+        },
+        {
+          "label": "Gündüzlü öğrencilik — dönemlik",
+          "columns": [
+            "Kalem",
+            "Tüm Senior School sınıfları"
+          ],
+          "rows": [
+            [
+              "Eğitim",
+              8025
+            ],
+            [
+              "Zorunlu öğle yemeği ve tea öğünü",
+              398
+            ],
+            [
+              "Eğitim ve zorunlu yemekler toplamı",
+              8423
+            ]
+          ],
+          "note": "Yemekler KDV’den muaftır; eğitim ücretine KDV dahildir. Ek ücretler uygulanır."
+        },
+        {
+          "label": "Birleşik Krallık / uygun yerleşik öğrenci yatılılığı — dönemlik",
+          "columns": [
+            "Öğrencilik türü",
+            "Year 7–8",
+            "Year 9–13"
+          ],
+          "rows": [
+            [
+              "Tam yatılı",
+              14510,
+              17380
+            ],
+            [
+              "Haftalık yatılı",
+              12676,
+              15702
+            ]
+          ],
+          "note": "Yayımlanan koşul: Birleşik Krallık vatandaşları ve ülkede beş yıldan uzun süredir kalıcı olarak yaşayan AB vatandaşları. Ücret kategorisi teklif öncesinde teyit edilmelidir."
+        }
+      ],
+      "notes": [
+        "Ücretler 2026/27 içindir; 2027/28 ücretleri doğrulanmamıştır. Gösterilen ana ücret Year 9–13 uluslararası tam yatılılığı kapsar.",
+        "Kayıt ücreti iade edilmez. Kontenjana bağlı gecelik konaklama hafta içi £86, hafta sonu £108’dir.",
+        "Ek ücretler: şapel fonu (dönemlik £6), yatılı öğrenci evi (dönemlik £15,70) veya gündüzlü öğrenci evi (dönemlik £8,50), Sixth Form aidatı (yıllık £18,30), vize idari ücreti (başvuru yılında £180). Sınav, gezi, müzik ve öğrenme desteği ayrıca ücretlendirilebilir.",
+        "İkinci ve sonraki kardeşlere yatılılıkta %10 indirim uygulanır.",
+        "Okuldan ayrılma veya yatılılık türü değişikliği için bir tam dönem önceden yazılı bildirim gerekir; aksi halde bir dönemlik ücret alınır."
+      ],
+      "payment": "Ücretler her dönemin ilk gününe kadar üç eşit taksitte ödenir. Uygunluk koşullarına ve sözleşmeye bağlı üçüncü taraf aylık ödeme planı bulunur."
+    },
+    "admissions": {
+      "intake": "Başvurular kontenjana bağlı olarak yıl boyunca alınır. Başlangıç tarihi ayrıca teyit edilmelidir.",
+      "assessments": [
+        "Year 7–9: EAL, matematik ve sözel olmayan akıl yürütme sınavları",
+        "Year 10: ayrıca fen ve modern yabancı dil sınavları",
+        "Uzaktan yapılabilen mülakat; Sixth Form değerlendirme ayrıntıları teyit edilmeli"
+      ],
+      "documents": [
+        "Kayıt formu",
+        "Mevcut okuldan referans",
+        "Ebeveynleri yurt dışında yaşayan öğrenciler için CAS öncesinde Birleşik Krallık’taki vasi bilgileri"
+      ],
+      "steps": [
+        "Kontenjan ve uygunluk kontrolü için K12 Onboard’a başvurun.",
+        "Kayıt formunu tamamlayıp £150 kayıt ücretini ödeyin.",
+        "Giriş değerlendirmelerini ve mülakatı tamamlayıp okul referansını sunun.",
+        "Kabul verilirse kabul işlemlerini, depozito ve gerekli peşin ödemeleri tamamlayıp vasilik düzenlemelerini teyit edin."
+      ],
+      "entry_routes": [
+        {
+          "programme": "Lower School / Senior School",
+          "requirement": "EAL, matematik, sözel olmayan akıl yürütme, mülakat ve okul referansı",
+          "starts": "Kontenjan teyit edilmeli"
+        },
+        {
+          "programme": "GCSE",
+          "requirement": "Fen ve modern yabancı dil sınavları dahil uluslararası kabul değerlendirmesi",
+          "starts": "Kontenjan teyit edilmeli"
+        },
+        {
+          "programme": "Sixth Form — A Level / BTEC",
+          "requirement": "Bireysel değerlendirme; ders bazında notlar, denklikler ve İngilizce şartları teyit edilmeli",
+          "starts": "Kontenjan teyit edilmeli"
+        }
+      ],
+      "note": "Year 7, 9 ve 12 girişinde akademik başarı, sanat, drama, tasarım ve teknoloji, müzik ve spor bursları duyurulmuştur. John Wesley Bursu, okul yaşamına çok yönlü katkı sunan yatılı öğrencilere yöneliktir. Burs tutarları ve son tarihler teyit edilmelidir."
+    },
+    "facilities": [
+      "120 acre (yaklaşık 49 hektar) kampüs",
+      "Westwood kütüphanesi ve etüt odası",
+      "Lower School oyun odaları ve sakin dinlenme alanları",
+      "Westwood Woods açık hava alanı"
+    ],
+    "highlights": [
+      "Dönem içinde zorunlu izin hafta sonları olmayan tam yatılılık",
+      "Müzik, drama, kodlama, Model Birleşmiş Milletler ve açık hava etkinlikleri",
+      "Lower School danışman grupları ve Year 12 akran mentorları"
+    ],
+    "images": {
+      "hero": {
+        "alt": "Bath’taki Kingswood School ve çim alanlarının havadan görünümü"
+      },
+      "card": {
+        "alt": "Bath’taki Kingswood School kampüsü"
+      },
+      "about": [
+        {
+          "alt": "Kingswood School binasının önünde yürüyen öğrenciler"
+        }
+      ],
+      "boarding": [
+        {
+          "alt": "Kingswood School’da paylaşımlı yatılı öğrenci odası"
+        }
+      ],
+      "credit": "Fotoğraflar: © Kingswood School"
+    },
+    "review_flags": [
+      "Kaynak kapsamı kısmi: altı resmî HTML sayfası saklandı; bazı bağlantılar zaman aşımına uğradı veya hata döndürdü.",
+      "EAL dahil ücretin yatılılık türü ve öğrencinin ücret kategorisi teyit edilmeli; kaynak uluslararası tablonun altında Birleşik Krallık/AB dipnotunu tekrarlıyor.",
+      "Öğrenci sayısı, milliyet sayısı ve okul genelindeki uluslararası öğrenci oranı doğrulanmadı. Kaynaktaki Britanyalı öğrenci oranı yalnızca yatılıları kapsıyor.",
+      "Sixth Form ders koşulları, uluslararası denklikler, sayısal İngilizce şartları, burs son tarihleri ve tatil düzenlemeleri teyit edilmeli.",
+      "2027/28 ücretleri ve BTEC ders alanları doğrulanmadı."
+    ]
   }
 }
