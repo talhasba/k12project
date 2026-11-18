@@ -180,8 +180,15 @@
       "Kensington Gardens ve Hyde Park'ın hemen yanında"
     ],
     "images": {
-      "hero": { "alt": "Elinde dizüstü bilgisayar ve A Level kitaplarıyla koridorda yürüyen üç Ashbourne College öğrencisi" },
-      "card": { "alt": "Elinde dizüstü bilgisayar ve A Level kitaplarıyla koridorda yürüyen üç Ashbourne College öğrencisi" },
+      "hero": { "alt": "Sonbaharda bir park yolunda birlikte yürüyen beş Ashbourne College öğrencisi" },
+      "card": { "alt": "Sonbaharda bir park yolunda birlikte yürüyen beş Ashbourne College öğrencisi" },
+      "about": [
+        { "alt": "Elinde dizüstü bilgisayar ve A Level kitaplarıyla koridorda yürüyen üç Ashbourne College öğrencisi" },
+        { "alt": "Merkezi Londra'da hareketli bir sokakta yürüyen öğrenciler" },
+        { "alt": "Merkezi Londra'da, uzun kemerli pencereleri ve köşe kulesi olan büyük taş bina" },
+        { "alt": "Kolejin birkaç dakika yürüme mesafesindeki Albert Memorial" },
+        { "alt": "Kensington'da ağaçlı bir park yolu" }
+      ],
       "credit": "Fotoğraf: © Ashbourne College."
     }
   },

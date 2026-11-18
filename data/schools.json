@@ -389,15 +389,38 @@
     ],
     "images": {
       "hero": {
-        "src": "/images/ashbourne/students-corridor.jpg",
-        "alt": "Three Ashbourne College students walking along a corridor with a laptop and A level books",
-        "position": "50% 30%"
+        "src": "/images/ashbourne/kensington-gardens-walk.jpg",
+        "alt": "Five Ashbourne College students walking together along a park path in autumn",
+        "position": "50% 35%"
       },
       "card": {
-        "src": "/images/ashbourne/students-corridor.jpg",
-        "alt": "Three Ashbourne College students walking along a corridor with a laptop and A level books",
-        "position": "50% 25%"
+        "src": "/images/ashbourne/kensington-gardens-walk.jpg",
+        "alt": "Five Ashbourne College students walking together along a park path in autumn",
+        "position": "50% 40%"
       },
+      "about": [
+        {
+          "src": "/images/ashbourne/students-corridor.jpg",
+          "alt": "Three Ashbourne College students walking along a corridor with a laptop and A level books",
+          "position": "50% 25%"
+        },
+        {
+          "src": "/images/ashbourne/kensington-street.jpg",
+          "alt": "Students walking along a busy street in central London"
+        },
+        {
+          "src": "/images/ashbourne/kensington-building.jpg",
+          "alt": "Large stone building with tall arched windows and a corner tower in central London"
+        },
+        {
+          "src": "/images/ashbourne/albert-memorial.jpg",
+          "alt": "The Albert Memorial, a short walk from the college"
+        },
+        {
+          "src": "/images/ashbourne/kensington-park-avenue.jpg",
+          "alt": "Tree-lined park avenue in Kensington"
+        }
+      ],
       "credit": "Photos: (c) Ashbourne College."
     },
     "scraped": "2026-11-18",
