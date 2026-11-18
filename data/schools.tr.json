@@ -1,0 +1,302 @@
+{
+  "_note": "Turkish text layered over schools.json by school id. Only translated fields appear here; objects are merged, arrays of objects are merged item by item, other arrays replace the English ones. Do not translate id, country, qualifications or boarding.types (they drive the filters and are labelled in src/content/ui.js).",
+  "queen-ethelburgas": {
+    "region": "Kuzey Yorkshire",
+    "tagline": "York, Leeds ve Harrogate arasında yer alan, uluslararası öğrencilere özel bir bölümü bulunan karma bir İngiliz yatılı okulu.",
+    "summary": "Queen Ethelburga's, Kuzey Yorkshire'da 220 akrelik (yaklaşık 89 hektar) bir kampüse sahiptir ve 40'tan fazla ülkeden gündüzlü ve yatılı öğrencisi vardır (topluluğun yaklaşık %40'ı uluslararası öğrencilerden oluşur). Uluslararası öğrenciler İngiliz öğrencilerle aynı yatılı evlerde kalır ve Year 3'ten Year 13'e kadar herhangi bir sınıfa katılabilir ya da bir yıllık NCUK International Foundation Year programını seçebilir. İngilizce dil programları GCSE, A Level ve BTEC eğitimiyle birlikte yürütülür.",
+    "school_type": "Yatılı ve gündüzlü",
+    "gender": "Karma",
+    "year_groups": "Year 3 – Year 13 ve International Foundation Year (17 yaş ve üzeri)",
+    "students_total": "1.000+",
+    "boarding": {
+      "from_year": "Year 3",
+      "notes": [
+        "Uluslararası öğrenciler İngiliz öğrencilerle aynı yatılı evlerde kalır.",
+        "Sixth Form (Year 12–13) yatılı öğrencileri, yemekhanenin çevresinde özel odaların bulunduğu üniversite tarzı Atrium binasında kalır.",
+        "Küçük yaştaki yatılı öğrenciler için özel yatakhaneler vardır; en küçük öğrencilere yönelik yatılı odalar 2024'te BSA yenileme ödülünü kazandı.",
+        "Uluslararası öğrenciler her ara tatilde ve Paskalya tatilinde okulda kalabilir (organize etkinlikler ve gezilerle).",
+        "Kampüste sağlık merkezi ve 7/24 güvenlik bulunur."
+      ]
+    },
+    "english_support": [
+      "EAL (ek dil olarak İngilizce) dersleri",
+      "Junior English Language Programme (Year 8–9)",
+      "English Language Programme (Year 10–12)",
+      "Advanced English Language Programme (Year 10–12)"
+    ],
+    "results": [
+      { "label": "9–6 notu alan GCSE sonuçları", "value": "%85" },
+      { "label": "A*–A notu alan A Level sonuçları", "value": "%80" }
+    ],
+    "fees": {
+      "deposit": "İade edilebilir; bir dönemlik ücrete eşittir",
+      "includes": ["Yatılılık", "Eğitim ücreti"],
+      "notes": [
+        "Ücretlere geçerli olduğu durumlarda KDV dahildir.",
+        "Kayıt ücreti iade edilmez ve banka havalesiyle ödenir.",
+        "Kaynak, Year 3'ten Year 13'e kadar tüm sınıflar için aynı dönem ücretini belirtiyor."
+      ],
+      "payment": "Convera GlobalPay üzerinden online banka havalesi (140'tan fazla para birimi)"
+    },
+    "admissions": {
+      "intake": "Eylül (Year 10–12 için English Language Programme'a Ocak'ta da giriş yapılabilir). Başvurular yıl boyunca kabul edilir.",
+      "assessments": ["Online İngilizce sınavı", "CAT4 bilişsel yetenek testi", "Kişisel özgeçmiş", "Mülakat (yüz yüze veya görüntülü)"],
+      "documents": ["Pasaport", "En güncel tam okul karnesinin iki kopyası", "Başarı sertifikaları (isteğe bağlı)", "Başvuru formu"],
+      "steps": [
+        "İlgi kaydı oluşturulur (online form, uluslararası temsilci veya danışmanlık firması aracılığıyla).",
+        "Başvuru formu ve belgeler gönderilir.",
+        "Online İngilizce sınavına ve CAT4'e girilir (gözetmen gerekir; okul bunu öğrencinin okulu, danışmanlık firması veya sınav merkeziyle ayarlar).",
+        "Kişisel özgeçmiş tamamlanır ve mülakata girilir.",
+        "Program, başlangıç tarihi ve ücreti belirten kabul mektubu alınır.",
+        "Kayıt formu doldurulup kayıt ücreti ve depozito ödenerek yer kabul edilir."
+      ],
+      "entry_routes": [
+        { "programme": "King's Magna'da EAL dersleriyle Key Stage 3", "starts": "Eylül" },
+        { "programme": "Junior English Language Programme", "starts": "Eylül" },
+        { "programme": "Junior English Language Programme", "starts": "Eylül" },
+        { "programme": "English Language Programme", "requirement": "IELTS 4, CAT4 25. yüzdelik dilim", "starts": "Eylül / Ocak" },
+        { "programme": "İki yıllık GCSE programı", "starts": "Eylül" },
+        { "programme": "Advanced English Language Programme", "requirement": "IELTS 5, CAT4 60. yüzdelik dilim", "starts": "Eylül" },
+        { "programme": "English Language Programme", "requirement": "IELTS 4.5, CAT4 25. yüzdelik dilim", "starts": "Eylül / Ocak" },
+        { "programme": "IELTS/EAL dersleriyle iki yıllık A Level / BTEC", "requirement": "IELTS 6 (bazı A Level dersleri için GCSE'de 7 ve üzeri)", "starts": "Eylül" },
+        { "programme": "NCUK International Foundation Year (İşletme veya Fen)", "requirement": "IELTS 5.5, CAT4 25. yüzdelik dilim, 17 yaş ve üzeri", "starts": "Eylül" }
+      ],
+      "note": "Okul, uluslararası öğrenciler için temel düzeyde İngilizce dışında resmî bir kabul koşulu olmadığını belirtiyor."
+    },
+    "facilities": [
+      "Sports Village (spor kompleksi)",
+      "Yüzme havuzu ve spor salonu",
+      "Sanat atölyeleri",
+      "Özel etüt merkezleri",
+      "Muggles etkinlik merkezi (oyun salonu, tırmanma duvarı, padel kortu)",
+      "King's Theatre",
+      "Kampüste sağlık merkezi",
+      "Kafe ve kantin"
+    ],
+    "highlights": [
+      "Uluslararası öğrenci hizmetlerinde QEGUK Altın Ödülü",
+      "ISI denetimi (Ekim 2023) uzman EAL desteğini övdü",
+      "NCUK International Foundation Year (İşletme veya Fen alanında)",
+      "Temmuz'da uluslararası yaz okulu (2, 3 veya 4 hafta)"
+    ],
+    "images": {
+      "hero": { "alt": "Queen Ethelburga's kampüsünün ve çevresindeki kırsalın havadan görünümü" },
+      "card": { "alt": "Queen Ethelburga's kampüsünde, çimenliğin yanında sarmaşıkla kaplı tuğla bir okul binası" },
+      "about": [
+        { "alt": "Yatılı evlerin ve spor sahasının havadan görünümü" },
+        { "alt": "Okul formalı gülümseyen öğrenciler" },
+        { "alt": "Kampüste yürüyen iki Sixth Form öğrencisi" }
+      ],
+      "boarding": [
+        { "alt": "Bahçeli ve oturma alanlı tuğla yatılı avlusu" },
+        { "alt": "Yatak, çalışma masası ve pencereli bir yatılı odası" },
+        { "alt": "Yatak, raflar ve çalışma masası olan bir yatılı odası" }
+      ],
+      "facilities": [
+        { "alt": "Muggles açık hava etkinlik merkezi ve sahaların havadan görünümü" },
+        { "alt": "Muggles etkinlik merkezinin ortak alanındaki öğrenciler" }
+      ],
+      "admissions": { "alt": "Mavi okul formalı gülümseyen bir öğrenci" },
+      "trip": { "alt": "Bir gezide araçta birlikte oturan öğrenciler" },
+      "credit": "Fotoğraflar: © Queen Ethelburga's Collegiate."
+    }
+  },
+
+  "ashbourne-college": {
+    "city": "Londra",
+    "tagline": "Londra Kensington'da, sınıfları en fazla on öğrenciden oluşan seçici, özel bir GCSE ve A Level koleji. Gündüzlü kolej: yatılılık yok.",
+    "summary": "Ashbourne, Kensington Gardens ve Hyde Park'ın yanında, 1981'de kurulmuş, bağımsız olarak yönetilen küçük bir kolejdir. Year 10–11'de GCSE, Year 12–13'te A Level eğitimi verir; sınıflar genellikle en fazla on öğrenciden oluşur, her öğrencinin haftalık görüştüğü kişisel bir danışmanı vardır ve öğretmenlere ilk adla hitap edilen, üniversite tarzı bir ortam hâkimdir (okul forması yoktur). Ashbourne yatılı okul değildir: uluslararası öğrenciler, kolejin listesinde yer alan ancak denetlemediği öğrenci yurtlarında, rezidanslarda veya aile yanında (homestay) kalır; yurt dışında yaşayan ailelerin öğrencileri için İngiltere'de bir eğitim vasisi gereklidir.",
+    "school_type": "Gündüzlü kolej",
+    "gender": "Karma",
+    "year_groups": "Year 10 – Year 13 (GCSE ve A Level)",
+    "students_total": "Yaklaşık 250",
+    "accommodation": {
+      "summary": "Kampüste konaklama yok: Ashbourne yatılı okul değildir.",
+      "notes": [
+        "Kolej, öğrencilerin kendilerinin başvurduğu konaklama sağlayıcılarının (öğrenci yurtları ve rezidansları ile seçilmiş ailelerin yanında homestay) bir listesini tutar.",
+        "Şu anda yaklaşık 75 öğrenci bu seçeneklerde kalıyor; yaklaşık yarısı yurtlarda, yarısı aile yanında.",
+        "Fiyatlar genellikle haftalık 100–700 GBP arasındadır; paylaşımlı odalardan stüdyo dairelere kadar seçenek vardır ve koleje ulaşım 10–30 dakika sürer.",
+        "Ashbourne bu konutları denetlemez, standartlarını veya güvenliklerini garanti etmez; ailelerin kendi kontrollerini yapması gerekir."
+      ],
+      "guardianship": "Yurt dışında yaşayan aileler, kendileri adına (sağlık, seyahat ve günlük destek konularında) yasal yetkiye sahip, İngiltere'de yaşayan bir eğitim vasisi atamak zorundadır. Kolej, vasilik ve konaklama hizmeti veren kurumların bir listesini sağlayabilir; bu listeyi sizin için talep edebiliriz."
+    },
+    "english_support": [
+      "İngilizce (IELTS) programı: Year 12'den itibaren haftada 2 saat",
+      "İsteğe bağlı birebir akademik İngilizce dersleri",
+      "Öğle arası İngilizce konuşma kulübü"
+    ],
+    "results": [
+      { "label": "A*–A notu alan A Level sonuçları", "value": "%54" },
+      { "label": "8–9 notu alan GCSE sonuçları", "value": "%49" },
+      { "label": "A Level gelişim sıralaması (katma değer), İngiltere", "value": "İlk %2,5" }
+    ],
+    "fees": {
+      "deposit": "300 GBP iade edilebilir kitap depozitosu",
+      "includes": ["Eğitim ücreti"],
+      "notes": [
+        "Gösterilen ücret uluslararası öğrenciler içindir (A Level ve GCSE). İngiltere'de yaşayan öğrenciler dönem başına 13.500 GBP öder. Tüm ücretlere KDV dahildir.",
+        "Konaklama ücrete dahil değildir ve kolej tarafından sağlanmaz.",
+        "Sınav ücretleri: ders başına 350 GBP (AS ve A2), GCSE dersi başına 160 GBP.",
+        "Uygulama ücretleri: Fine Art, Graphics, Textiles, Music, Drama ve fen dersleri için ders ve dönem başına 300 GBP. UCAS ücreti 65 GBP (Year 13). Birebir ders saat başına 120 GBP.",
+        "Öğrenci vizesi başvuru ücreti, İngiltere dışından başvuruda 348 GBP'dir (İngiltere hükümetine ödenir; ayrıca Immigration Healthcare Surcharge ödenir)."
+      ]
+    },
+    "admissions": {
+      "intake": "Eylül (yeni öğrenciler için Ocak girişi de var). Başvurular yıl boyunca kabul edilir. Burs dönemleri: 1 Aralık'a kadar teklif alanlar en kapsamlı burslara, 1 Mart'a kadar teklif alanlar kısmi burslara başvurabilir; 1 Haziran dönemi burssuzdur.",
+      "assessments": [
+        "Derse özel kabul sınav(lar)ı",
+        "Müdür, Akademik Direktör veya kıdemli bir yöneticiyle mülakat",
+        "Drama ve Tiyatro: seçme (audition)",
+        "Sanat dersleri: portfolyo istenebilir"
+      ],
+      "documents": [
+        "Son iki dönemin karneleri",
+        "GCSE notları veya tahmini notlar (ya da eşdeğeri)",
+        "Kişisel yazı (500 kelime)",
+        "Pasaport kopyası (varsa İngiltere vizesi sayfası)"
+      ],
+      "steps": [
+        "Belgeler gönderilir (okul karnesi, pasaport kopyası ve kişisel yazı).",
+        "Uygun bir zamanda kolejin kendi kabul sınavlarına girilir.",
+        "Mülakata katılınır (bazı adaylar ikinci bir mülakata çağrılır).",
+        "Sonuç genellikle mülakattan sonraki bir hafta içinde bildirilir; kabul alanların teklifi onaylamak için genellikle iki haftası vardır.",
+        "Uluslararası öğrenciler: ücretler ödendikten ve belgeler kontrol edildikten sonra Ashbourne bir CAS (Certificate of Acceptance for Studies) düzenler; ardından Child Student veya Student vizesine başvurulur."
+      ],
+      "entry_routes": [
+        { "programme": "İki yıllık GCSE programı (zorunlu dersler Year 10'da, seçmeli dersler Year 11'de)", "requirement": "Kabul sınavları ve mülakat", "starts": "Eylül / Ocak" },
+        { "programme": "Bir yıllık yoğun GCSE programı", "requirement": "Kabul sınavları ve mülakat", "starts": "Eylül / Ocak" },
+        { "programme": "İki yıllık A Level programı (25'ten fazla ders)", "requirement": "Genellikle tüm GCSE'lerde 6 ve üzeri not; Student vizesi için IELTS 5.0 (CEFR B1)", "starts": "Eylül / Ocak" }
+      ],
+      "note": "Ashbourne seçicidir ancak her başvuruyu ayrı ayrı değerlendirir; başvuru ücretsizdir."
+    },
+    "highlights": [
+      "Ofsted tarafından Aralık 2021 ve Kasım 2024'te 'Outstanding' (Mükemmel) olarak derecelendirildi",
+      "Sınıflar genellikle en fazla on kişi; haftalık birebir kişisel danışman ve Year 13'te özel bir UCAS danışmanı",
+      "25'ten fazla A Level dersi ile Oxbridge, tıp, mühendislik, finans ve doğa bilimleri programları",
+      "A Level gelişiminde İngiltere'deki okul ve kolejlerin ilk %2,5'i arasında (2023/24)",
+      "Kensington Gardens ve Hyde Park'ın hemen yanında"
+    ],
+    "images": {
+      "hero": { "alt": "Elinde dizüstü bilgisayar ve A Level kitaplarıyla koridorda yürüyen üç Ashbourne College öğrencisi" },
+      "card": { "alt": "Elinde dizüstü bilgisayar ve A Level kitaplarıyla koridorda yürüyen üç Ashbourne College öğrencisi" },
+      "credit": "Fotoğraf: © Ashbourne College."
+    }
+  },
+
+  "st-clares-oxford-ib": {
+    "region": "Kuzey Oxford",
+    "tagline": "İngiltere'nin en köklü IB World School'u: Kuzey Oxford'da IB Diploma ve bir ila üç dönemlik Pre-IB; yatılı ve gündüzlü seçenekler, ortalama dokuz kişilik sınıflar.",
+    "summary": "St Clare's, Oxford iki yıllık IB Diploma (16–19 yaş) ile hazırlık programı Pre-IB'yi (15–16 yaş), Oxford şehir merkezine 1,5 km uzaklıktaki Banbury Road'da, Viktorya ve Edward dönemi binalarından oluşan kampüsünde verir. Öğrenciler kampüse yakın 12 yatılı evde kalır ya da gündüzlü okur; gündüzlü öğrenciler yatılılarla birlikte yemek yer ve tüm gezi ve etkinliklere katılır. Okul yarı seçicidir, 50'den fazla ülkeden öğrenci kabul eder ve 70 yılı aşkın süredir uluslararası eğitim verir. Bu kayıt yalnızca IB okulunu kapsar; kolejin yaz, yetişkin ve öğretmen eğitimi kurslarını içermez.",
+    "school_type": "Yatılı ve gündüzlü",
+    "year_groups": "Pre-IB (15–16 yaş) ve iki yıllık IB Diploma (16–19 yaş)",
+    "boarding": {
+      "from_year": "Pre-IB",
+      "notes": [
+        "Kampüse yakın 12 yatılı ev; her evde genellikle 16–18 öğrenci ve bir House Parent (ev sorumlusu) bulunur.",
+        "Tek, iki ve üç kişilik odalar; odaların yarısından fazlasında özel banyo var. Yatılıların çoğu odasını başka bir ülkeden gelen bir öğrenciyle paylaşır.",
+        "Her gün kahvaltı, öğle ve akşam yemeği; tüm beslenme ihtiyaçları karşılanır. Evlerde atıştırmalıklar için küçük mutfaklar vardır.",
+        "Haftalık yatılılık az sayıda öğrenciye ve yalnızca İngiltere veya Galler'de yaşayanlara açıktır (tam yatılılıkla aynı ücret).",
+        "Gündüzlü öğrenciler tüm öğünleri yatılılarla birlikte yer (ücrete dahil), dolap ve öğrenci salonu kullanır, tüm gezi ve etkinliklere katılır.",
+        "Child Student vizesiyle okuyan ve ailesi yurt dışında yaşayan tüm Pre-IB ve IB öğrencilerinin İngiltere'de bir eğitim vasisi olması zorunludur.",
+        "Kolej ara tatillerde ve okul tatillerinde öğrencilere kapalıdır (belirli ayrılış ve dönüş günleri vardır)."
+      ]
+    },
+    "english_support": [
+      "Pre-IB: seviyeye göre gruplanmış İngilizce dersleri ve EAL desteği",
+      "IB Diploma: EAL desteğiyle Language B İngilizce (önerilen İngilizce seviyesi B2 orta; asgari şart değil)"
+    ],
+    "results": [
+      { "label": "IB Diploma ortalama puanı (2026 mezunları, 123 öğrenci; dünya ortalaması 31)" },
+      { "label": "Dünya ortalamasının üzerinde puan alan öğrenciler", "value": "%80" },
+      { "label": "İki dilli (bilingual) diploma alanlar", "value": "%58" }
+    ],
+    "fees": {
+      "headline": { "label": "yatılı, tam yıl, KDV dahil", "alt": "Gündüzlü öğrenciler: yılda 30.985 GBP" },
+      "deposit": "IB Diploma kayıt depozitosu 3.500 GBP. Pre-IB depozitosu: 1.400 GBP (sonbahar veya bahar girişi), 700 GBP (yaz), 3.500 GBP (tam yıl).",
+      "includes": ["Eğitim ücreti", "Konaklama (yatılı ücreti)", "Yemekler", "Sınav ve kitap ücretleri", "Seyahat ve ücret sigortası"],
+      "tiers": [
+        {
+          "label": "Yatılı",
+          "columns": ["Dönem", "Ücret", "KDV (%20)", "Toplam"],
+          "rows": [
+            ["Sonbahar 2026", 22090, 4385, 26475],
+            ["Bahar 2027", 17355, 3445, 20800],
+            ["Yaz 2027", 15778, 3132, 18910],
+            ["Tam yıl", 55223, 10962, 66185]
+          ],
+          "note": "İki taksitte ödenir: 33.092 GBP, 13 Ağustos 2026'da ve 13 Aralık 2026'da."
+        },
+        {
+          "label": "Gündüzlü",
+          "columns": ["Dönem", "Ücret", "KDV (%20)", "Toplam"],
+          "rows": [
+            ["Sonbahar 2026", 10357, 2038, 12395],
+            ["Bahar 2027", 8139, 1602, 9740],
+            ["Yaz 2027", 7395, 1455, 8850],
+            ["Tam yıl", 25890, 5095, 30985]
+          ],
+          "note": "İki taksitte ödenir: 15.493 GBP, 13 Ağustos 2026'da ve 13 Aralık 2026'da."
+        }
+      ],
+      "notes": [
+        "Toplamlara %20 KDV dahildir. Sınav ücretleri, kitap ücretleri (Foreign Language Literature hariç) ile seyahat ve ücret sigortası ücrete dahildir ve KDV'den muaftır.",
+        "Dönem ücretleri dönemden döneme değiştiği için öne çıkan fiyat tam yıl ücretidir. Diğer okullarla yıllık maliyet üzerinden karşılaştırın.",
+        "Ek masraflar: Duke of Edinburgh's Award (Pre-IB için Bronz zorunlu, 210–315 GBP; Altın isteğe bağlı, 580–685 GBP); Biyoloji (820–945 GBP), Coğrafya (290–315 GBP) ve ESS (60–65 GBP) öğrencileri için arazi gezileri; Pre-IB etkinlikleri dönem başına 315 GBP'ye kadar.",
+        "Diğer masraflar: özel müzik dersleri ders başına 35–70 GBP, sanat malzemeleri iki yıl için 160 GBP (Visual Arts), hesap makinesi 120–160 GBP, havalimanı transferi 190–305 GBP; özel eğitim / öğrenme desteği ücreti duruma göre değişir."
+      ],
+      "payment": "Uluslararası ödemeler için Flywire (yerel para birimi, kart veya banka havalesi) ya da İngiltere'deki hesaba banka havalesi; 250 GBP'ye kadar nakit kabul edilir."
+    },
+    "admissions": {
+      "intake": "IB Diploma Eylül'de başlar. Pre-IB Eylül, Ocak veya Nisan'da başlar ve bir, iki ya da üç dönem sürer.",
+      "assessments": [
+        "İngilizce ve matematik seviye tespit sınavı (Standard veya Higher Level derslerini belirler)",
+        "Müdür Yardımcısı veya kıdemli bir yöneticiyle mülakat (yüz yüze veya online)",
+        "Bazı adaylar için ek değerlendirme"
+      ],
+      "documents": [
+        "Son iki yılın okul karneleri veya transkriptleri (ABD'den başvuranlar için SSAT puanları kabul edilir)",
+        "İngilizce ya da onaylı İngilizce tercümeli resmî transkriptler",
+        "Online başvuru formu ve kayıt ücreti"
+      ],
+      "steps": [
+        "K12 Onboard danışmanınız okulun kabul ofisiyle iletişime geçer.",
+        "Son iki yılın karneleri veya transkriptleri gönderilir; uygun bulunursa online başvuru formu iletilir.",
+        "Başvuru formu doldurulur ve kayıt ücreti ödenir.",
+        "İstenirse değerlendirme sınavına girilir.",
+        "Kampüs ziyareti ve Müdür Yardımcısı ya da kıdemli bir yöneticiyle mülakat yapılır (seyahat edilemiyorsa 360° sanal tur ve online mülakat).",
+        "Mülakattan sonra sözlü teklif, ardından yazılı onay alınır."
+      ],
+      "entry_routes": [
+        { "programme": "Pre-IB, 15–16 yaş (1, 2 veya 3 dönem; en fazla 15 öğrenci; haftada 30 ders)", "requirement": "Önerilen İngilizce seviyesi B1 orta-üst (asgari şart değil, yol gösterici)", "starts": "Eylül / Ocak / Nisan" },
+        { "programme": "İki yıllık IB Diploma, 16–19 yaş (altı ders ile Extended Essay, Theory of Knowledge ve CAS; en fazla 15 öğrenci)", "requirement": "Önerilen İngilizce seviyesi B2 orta (asgari şart değil); matematik ve İngilizce seviye tespit sınavları", "starts": "Eylül" }
+      ],
+      "note": "Yarı seçici: karar, önceki akademik sonuçlar, seviye tespit sınavları ve mülakata göre verilir. 2027 girişi için gelir durumuna göre burs başvuruları açık: standart son başvuru tarihi 11 Aralık 2026, değerlendirme günü 23 Ocak 2027."
+    },
+    "facilities": [
+      "Banbury Road'da, Oxford şehir merkezine 1,5 km, Londra'ya yaklaşık 50 km uzaklıkta Viktorya ve Edward dönemi binalarından oluşan kampüs",
+      "Fen laboratuvarları, sanat atölyesi ve müzik stüdyosu",
+      "Üniversite düzeyinde kütüphane",
+      "Yemekhane ve The Globe kafe",
+      "Öğrenci salonu (Sugar House)",
+      "Engelli erişimine uygun oda ve mezheplerüstü ibadet odası",
+      "Kampüs dışı spor tesisleri: Oxford City FC, Ferry Leisure Centre, Smash Padel Oxford ve diğerleri"
+    ],
+    "highlights": [
+      "İngiltere'nin en köklü IB World School'u",
+      "Ortalama sınıf mevcudu 9, en fazla 15",
+      "2026 IB ortalaması 36 puan (dünya ortalaması 31); 13 öğrenci 43–45 puan aldı",
+      "Okulun verisine göre öğrencilerin %90'ı ilk tercih ettiği üniversiteye yerleşiyor",
+      "Haftalık kişisel danışmanlık, kariyer danışmanlığı ve liderlik programı",
+      "IB Diploma için gelir durumuna göre tam ve kısmi burslar (gündüzlü ve yatılı)"
+    ],
+    "images": {
+      "hero": { "alt": "St Clare's'ın tuğla ve ahşap çatkılı binasının önünden geçen altı öğrenci" },
+      "card": { "alt": "St Clare's'ın tuğla ve ahşap çatkılı binasının önünden geçen altı öğrenci" },
+      "about": [
+        { "alt": "Bahçe yolunda sohbet ederek yürüyen üç öğrenci" },
+        { "alt": "IB broşürüne birlikte bakan bir öğrenci ve bir okul görevlisi" }
+      ],
+      "credit": "Fotoğraflar: © St Clare's, Oxford."
+    }
+  }
+}

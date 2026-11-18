@@ -1,0 +1,649 @@
+[
+  {
+    "id": "queen-ethelburgas",
+    "status": "needs_review",
+    "sample": false,
+    "name": "Queen Ethelburga's Collegiate",
+    "short_name": "Queen Ethelburga's",
+    "country": "United Kingdom",
+    "city": "York",
+    "region": "North Yorkshire",
+    "tagline": "A co-educational UK boarding school between York, Leeds and Harrogate, with a dedicated international department.",
+    "summary": "Queen Ethelburga's is a 220-acre campus in North Yorkshire with day and boarding students from over 40 nationalities (about 40% of the community is international). International students board in the same houses as UK students and can join from Year 3 through Year 13, or take the one-year NCUK International Foundation Year. English-language programmes run alongside GCSE, A Level and BTEC study.",
+    "school_type": "Boarding and day",
+    "gender": "Co-educational",
+    "age_min": 7,
+    "age_max": 18,
+    "year_groups": "Year 3 to Year 13, plus International Foundation Year (age 17+)",
+    "students_total": "1,000+",
+    "nationalities": "40+",
+    "international_share_percent": 40,
+    "founded": "1912",
+    "boarding": {
+      "available": true,
+      "types": [
+        "Full-time",
+        "Flexible"
+      ],
+      "from_year": "Year 3",
+      "notes": [
+        "International students live in the same boarding houses as UK students.",
+        "Sixth Form boarders live in the Atrium, a university-style building with private bedrooms around the dining hall.",
+        "Younger boarders have dedicated dormitories; boarding rooms for the youngest students won a BSA refurbishment award in 2024.",
+        "International students can stay at school over every half-term and Easter holiday (organised activities and trips).",
+        "On-site medical centre and 24/7 campus security."
+      ]
+    },
+    "qualifications": [
+      "GCSE",
+      "A Level",
+      "BTEC",
+      "NCUK International Foundation Year"
+    ],
+    "english_support": [
+      "EAL lessons",
+      "Junior English Language Programme (Years 8-9)",
+      "English Language Programme (Years 10-12)",
+      "Advanced English Language Programme (Years 10-12)"
+    ],
+    "results": [
+      {
+        "label": "GCSE grades at 9-6",
+        "value": "85%",
+        "year": 2026
+      },
+      {
+        "label": "A Level grades at A*-A",
+        "value": "80%",
+        "year": 2026
+      }
+    ],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": 23330,
+      "terms_per_year": 3,
+      "registration_fee": 354,
+      "deposit": "Refundable; equal to one term's full fees",
+      "includes": [
+        "Boarding",
+        "Tuition"
+      ],
+      "notes": [
+        "Fees include VAT where applicable.",
+        "The registration fee is non-refundable and payable by bank transfer.",
+        "The source lists the same termly fee for Year 3 to Year 13."
+      ],
+      "payment": "Online bank transfer via Convera GlobalPay (140+ currencies)"
+    },
+    "admissions": {
+      "intake": "September (January also for the English Language Programme, Years 10-12). Applications are accepted year-round.",
+      "assessments": [
+        "Online English test",
+        "CAT4 cognitive ability test",
+        "Personal resume",
+        "Interview (in person or video call)"
+      ],
+      "documents": [
+        "Passport",
+        "Two copies of the most recent full school reports",
+        "Certificates of achievement (optional)",
+        "Application form"
+      ],
+      "steps": [
+        "Register your interest (online form, or via an international representative or agent).",
+        "Send the application form and documents.",
+        "Take the online English test and CAT4 (an invigilator is needed; the school arranges this with your school, agent or test centre).",
+        "Complete the personal resume and interview.",
+        "Receive an offer letter stating the course, start date and fee.",
+        "Accept by completing the registration form and paying the registration fee and deposit."
+      ],
+      "entry_routes": [
+        {
+          "year": "7",
+          "programme": "Key Stage 3 with EAL classes (King's Magna)",
+          "requirement": "IELTS 3.5",
+          "starts": "September"
+        },
+        {
+          "year": "8",
+          "programme": "Junior English Language Programme",
+          "requirement": "IELTS 4",
+          "starts": "September"
+        },
+        {
+          "year": "9",
+          "programme": "Junior English Language Programme",
+          "requirement": "IELTS 4.5",
+          "starts": "September"
+        },
+        {
+          "year": "10",
+          "programme": "English Language Programme",
+          "requirement": "IELTS 4, CAT4 25th percentile",
+          "starts": "September / January"
+        },
+        {
+          "year": "10",
+          "programme": "Two-year GCSE course",
+          "requirement": "IELTS 5",
+          "starts": "September"
+        },
+        {
+          "year": "10-12",
+          "programme": "Advanced English Language Programme",
+          "requirement": "IELTS 5, CAT4 60th percentile",
+          "starts": "September"
+        },
+        {
+          "year": "11-12",
+          "programme": "English Language Programme",
+          "requirement": "IELTS 4.5, CAT4 25th percentile",
+          "starts": "September / January"
+        },
+        {
+          "year": "12",
+          "programme": "Two-year A Level / BTEC with IELTS/EAL lessons",
+          "requirement": "IELTS 6 (GCSE grade 7+ for some A Levels)",
+          "starts": "September"
+        },
+        {
+          "year": "13",
+          "programme": "NCUK International Foundation Year (Business or Science)",
+          "requirement": "IELTS 5.5, CAT4 25th percentile, age 17+",
+          "starts": "September"
+        }
+      ],
+      "note": "The school states there are no formal entry requirements for international students beyond a basic level of English."
+    },
+    "facilities": [
+      "Sports Village",
+      "Swimming pool and gym",
+      "Creative Arts classrooms",
+      "Dedicated study centres",
+      "Muggles activity centre (gaming suite, climbing wall, padel court)",
+      "King's Theatre",
+      "On-site medical centre",
+      "Coffee shop and tuck shop"
+    ],
+    "highlights": [
+      "QEGUK Gold Award in International Student Provision",
+      "ISI inspection (October 2023) praised specialist EAL support",
+      "NCUK International Foundation Year (Business or Science pathway)",
+      "International summer school in July (2, 3 or 4 weeks)"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/queen-ethelburgas/hero-campus-aerial.webp",
+        "alt": "Aerial view of the Queen Ethelburga's campus and the surrounding countryside"
+      },
+      "card": {
+        "src": "/images/queen-ethelburgas/campus-manor.webp",
+        "alt": "Brick school building covered in ivy beside a lawn on the Queen Ethelburga's campus"
+      },
+      "about": [
+        {
+          "src": "/images/queen-ethelburgas/boarding-aerial.webp",
+          "alt": "Aerial view of the boarding houses and sports pitch"
+        },
+        {
+          "src": "/images/queen-ethelburgas/students-smiling.webp",
+          "alt": "Smiling students in school uniform"
+        },
+        {
+          "src": "/images/queen-ethelburgas/sixth-form.webp",
+          "alt": "Two Sixth Form students walking across campus"
+        }
+      ],
+      "boarding": [
+        {
+          "src": "/images/queen-ethelburgas/boarding-courtyard.webp",
+          "alt": "Brick boarding courtyard with garden and seating"
+        },
+        {
+          "src": "/images/queen-ethelburgas/boarding-room.webp",
+          "alt": "Boarding bedroom with a bed, desk and window"
+        },
+        {
+          "src": "/images/queen-ethelburgas/boarding-bedroom.webp",
+          "alt": "Boarding bedroom with a bed, shelves and desk"
+        }
+      ],
+      "facilities": [
+        {
+          "src": "/images/queen-ethelburgas/activity-centre-aerial.webp",
+          "alt": "Aerial view of the Muggles outdoor activity centre and pitches"
+        },
+        {
+          "src": "/images/queen-ethelburgas/activity-centre-inside.webp",
+          "alt": "Students in the Muggles activity centre common area"
+        }
+      ],
+      "admissions": {
+        "src": "/images/queen-ethelburgas/student-portrait.webp",
+        "alt": "Student in a blue school jersey smiling"
+      },
+      "trip": {
+        "src": "/images/queen-ethelburgas/students-trip.webp",
+        "alt": "Students sitting together in a vehicle on a trip"
+      },
+      "credit": "Photos: (c) Queen Ethelburga's Collegiate."
+    },
+    "scraped": "2026-11-16",
+    "review_flags": [
+      "Boarding types: the boarding page says 'full-time and flexible', its meta description says 'full-time and weekly'. Confirm.",
+      "Fee table shows the same GBP 23,330 per term for Year 3 to Year 13 (including the Foundation Year); confirm.",
+      "Not found on the site pages: annual total, extras not included in fees, payment due dates, guardianship, dietary provision, number of boarders.",
+      "Age range: the site quotes 3 months to 18/19 years; boarding is from Year 3 (age 7), used here."
+    ]
+  },
+  {
+    "id": "ashbourne-college",
+    "status": "needs_review",
+    "sample": false,
+    "name": "Ashbourne College",
+    "short_name": "Ashbourne College",
+    "country": "United Kingdom",
+    "city": "London",
+    "region": "Kensington",
+    "tagline": "A selective private GCSE and A level college in Kensington, London, with classes of ten or fewer. Day college: no boarding.",
+    "summary": "Ashbourne is a small, independently owned college next to Kensington Gardens and Hyde Park, founded in 1981. It teaches GCSEs (Years 10 and 11) and A levels (Years 12 and 13) in classes typically capped at ten, with a weekly personal tutor for each student and a university-style, first-name atmosphere (there is no uniform). Ashbourne is not a boarding school: international students live in hostels, student residences or homestays that the college lists but does not inspect, and students living outside the UK need a UK education guardian.",
+    "school_type": "Day college",
+    "gender": "Co-educational",
+    "age_min": 14,
+    "age_max": 18,
+    "year_groups": "Year 10 to Year 13 (GCSE and A level)",
+    "students_total": "About 250",
+    "nationalities": "",
+    "international_share_percent": null,
+    "founded": "1981",
+    "boarding": {
+      "available": false,
+      "types": [],
+      "from_year": "",
+      "notes": []
+    },
+    "accommodation": {
+      "summary": "No on-site accommodation: Ashbourne is not a boarding school.",
+      "notes": [
+        "The college keeps a list of accommodation providers (student hostels and residences, and homestays with selected families) that students apply to independently.",
+        "About 75 students currently live in these arrangements, split roughly evenly between hostels and homestays.",
+        "Typical prices are GBP 100 to 700 per week, from shared rooms to self-contained studios, 10 to 30 minutes' journey from the college.",
+        "Ashbourne does not inspect these properties or guarantee their standard or safety; families should carry out their own checks."
+      ],
+      "guardianship": "Parents of students living outside the UK must appoint a UK-based education guardian with legal authority to act on their behalf (medical care, travel, day-to-day support). The college can provide a list of guardianship and accommodation providers; we can request it for you."
+    },
+    "qualifications": [
+      "GCSE",
+      "A Level"
+    ],
+    "english_support": [
+      "English language (IELTS) programme: 2 hours a week from Year 12",
+      "Optional one-to-one academic English sessions",
+      "Lunchtime English conversation club"
+    ],
+    "results": [
+      {
+        "label": "A level grades at A*-A",
+        "value": "54%",
+        "year": 2026
+      },
+      {
+        "label": "GCSE grades at 8-9",
+        "value": "49%",
+        "year": 2026
+      },
+      {
+        "label": "A level progress ranking (value added), England",
+        "value": "Top 2.5%",
+        "year": "2023/24"
+      }
+    ],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": 14750,
+      "terms_per_year": 3,
+      "registration_fee": 375,
+      "deposit": "GBP 300 refundable book deposit",
+      "includes": [
+        "Tuition"
+      ],
+      "notes": [
+        "International student fee shown (A level and GCSE). Home students pay GBP 13,500 per term. All fees include VAT.",
+        "Accommodation is not included and not provided by the college.",
+        "Exam fees: GBP 350 per subject (AS and A2), GBP 160 per GCSE subject.",
+        "Practical fees: GBP 300 per subject per term (Fine Art, Graphics, Textiles, Music, Drama and science subjects). UCAS fee GBP 65 (Year 13). Individual tuition GBP 120 per hour.",
+        "Student visa application fee GBP 348 from outside the UK (paid to the UK government, plus the Immigration Healthcare Surcharge)."
+      ],
+      "payment": ""
+    },
+    "admissions": {
+      "intake": "September (also a January intake for new students). Rolling admissions year-round. Scholarship cycles close with an offer by 1 Dec (largest scholarships), 1 Mar (partial) and 1 Jun (none).",
+      "assessments": [
+        "Subject-specific admissions test(s)",
+        "Interview with the Principal, Director of Studies or a senior member of staff",
+        "Drama and Theatre Studies: audition",
+        "Art subjects: portfolio of work may be requested"
+      ],
+      "documents": [
+        "Last two sets of academic reports",
+        "GCSE grades or predicted grades (or equivalent)",
+        "Personal statement (500 words)",
+        "Copy of passport (and UK visa page if the student already has one)"
+      ],
+      "steps": [
+        "Submit your documents (school report, passport copy and personal statement).",
+        "Sit the in-house admissions tests, scheduled at a mutually convenient time.",
+        "Attend an interview (some applicants are invited to a second one).",
+        "Receive the outcome, usually within a week of the interview; successful applicants typically have two weeks to accept.",
+        "International students: Ashbourne issues a CAS (Certificate of Acceptance for Studies) once fees are settled and documents are checked, then you apply for a Child Student or Student visa."
+      ],
+      "entry_routes": [
+        {
+          "year": "10",
+          "programme": "Two-year GCSE programme (core subjects in Year 10, options in Year 11)",
+          "requirement": "Admissions tests and interview",
+          "starts": "September / January"
+        },
+        {
+          "year": "11",
+          "programme": "One-year intensive GCSE programme",
+          "requirement": "Admissions tests and interview",
+          "starts": "September / January"
+        },
+        {
+          "year": "12",
+          "programme": "Two-year A level programme (25+ subjects)",
+          "requirement": "Typically grade 6 or above across GCSEs; IELTS 5.0 (CEFR B1) for the Student visa",
+          "starts": "September / January"
+        }
+      ],
+      "note": "Ashbourne is selective but assesses each application individually; it is free to apply."
+    },
+    "facilities": [],
+    "highlights": [
+      "Rated Outstanding by Ofsted in December 2021 and November 2024",
+      "Classes typically capped at ten; weekly one-to-one personal tutor and a dedicated UCAS tutor in Year 13",
+      "25+ A level subjects plus Oxbridge, medicine, engineering, finance and natural sciences programmes",
+      "Ranked in the top 2.5% of schools and colleges in England for A level progress (2023/24)",
+      "Located beside Kensington Gardens and Hyde Park"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/ashbourne/students-corridor.jpg",
+        "alt": "Three Ashbourne College students walking along a corridor with a laptop and A level books",
+        "position": "50% 30%"
+      },
+      "card": {
+        "src": "/images/ashbourne/students-corridor.jpg",
+        "alt": "Three Ashbourne College students walking along a corridor with a laptop and A level books",
+        "position": "50% 25%"
+      },
+      "credit": "Photos: (c) Ashbourne College."
+    },
+    "scraped": "2026-11-18",
+    "review_flags": [
+      "Not a boarding school: no on-site housing. Boarding fields are empty on purpose; check how this fits a boarding-focused catalogue.",
+      "A*-A rate differs by page: 54% (2026), 52% (2024/25) and 'A*A 2025-2026 54%'; ten-year average is quoted as both 50%+ and 51%.",
+      "Russell Group share differs by page: 63% of those applying for UK degrees, 'over 60% in each of the past five years', and '75% (2026)' on a link label. Not used in the record.",
+      "Student numbers: 'around 250' comes from one page; no nationality count or international share is published, so those fields are blank.",
+      "Annual total is calculated assuming three terms; the site only quotes per-term fees.",
+      "Age range 14-18 is inferred from Year 10 to Year 13; the site does not state ages.",
+      "Not captured: payment methods and due dates, term-by-term refund rules, retake/intensive Year 13 entry details, facilities list. 7 linked PDFs (registration form, Ofsted report, privacy notices) were not downloaded."
+    ]
+  },
+  {
+    "id": "st-clares-oxford-ib",
+    "status": "needs_review",
+    "sample": false,
+    "name": "St Clare's, Oxford (IB)",
+    "short_name": "St Clare's Oxford",
+    "country": "United Kingdom",
+    "city": "Oxford",
+    "region": "North Oxford",
+    "tagline": "England's oldest IB World School: the IB Diploma and a one-to-three-term Pre-IB in North Oxford, with boarding and day places and classes averaging nine students.",
+    "summary": "St Clare's, Oxford teaches the two-year IB Diploma (ages 16 to 19) and a Pre-IB bridging programme (ages 15 to 16) on a campus of Victorian and Edwardian buildings on the Banbury Road, 1.5 km from Oxford city centre. Students board in 12 houses near the campus, or attend as day students; day students eat with boarders and join every trip and activity. The school is semi-selective, welcomes more than 50 nationalities and has been delivering international education for over 70 years. This record covers the IB school only, not the college's summer, adult or teacher-training courses.",
+    "school_type": "Boarding and day",
+    "gender": "",
+    "age_min": 15,
+    "age_max": 19,
+    "year_groups": "Pre-IB (age 15-16) and the two-year IB Diploma (age 16-19)",
+    "students_total": "",
+    "nationalities": "50+",
+    "international_share_percent": null,
+    "founded": "",
+    "boarding": {
+      "available": true,
+      "types": [
+        "Full-time",
+        "Weekly"
+      ],
+      "from_year": "Pre-IB",
+      "day_option": true,
+      "notes": [
+        "12 boarding houses near the campus, typically 16 to 18 students each, every house with a House Parent.",
+        "Single, twin and triple rooms; over half of the rooms are en suite. Most boarders share with a student from another country.",
+        "Breakfast, lunch and dinner every day, all dietary requirements catered for; house kitchens for snacks.",
+        "Weekly boarding exists for a small number of students and is only open to those living in England or Wales (same fee as full boarding).",
+        "Day students join boarders for all meals (included in the fee), have lockers and a student hub, and take part in all trips and activities.",
+        "All Pre-IB and IB students on a Child Student visa whose parents live overseas must have a nominated UK Educational Guardian.",
+        "The college is closed to students during half-term and school holidays (set departure and arrival days apply)."
+      ]
+    },
+    "qualifications": [
+      "IB Diploma",
+      "Pre-IB"
+    ],
+    "english_support": [
+      "Pre-IB: tiered English classes and EAL support",
+      "IB Diploma: Language B English with EAL support (English guide level B2 mid, not a minimum)"
+    ],
+    "results": [
+      {
+        "label": "IB Diploma average points (2026 cohort of 123; world average 31)",
+        "value": "36",
+        "year": 2026
+      },
+      {
+        "label": "Students scoring above the world average",
+        "value": "80%",
+        "year": 2026
+      },
+      {
+        "label": "Diplomas awarded as bilingual",
+        "value": "58%",
+        "year": 2026
+      }
+    ],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": null,
+      "terms_per_year": 3,
+      "annual": 66185,
+      "headline": {
+        "amount": 66185,
+        "unit": "year",
+        "label": "boarding, full year, incl. VAT",
+        "alt": "Day students: GBP 30,985 a year"
+      },
+      "registration_fee": 180,
+      "deposit": "IB Diploma enrolment deposit GBP 3,500. Pre-IB deposit: GBP 1,400 (autumn or spring entry), GBP 700 (summer), GBP 3,500 (full year).",
+      "includes": [
+        "Tuition",
+        "Accommodation (boarding fee)",
+        "Meals",
+        "Exam and book fees",
+        "Travel and fees insurance"
+      ],
+      "tiers": [
+        {
+          "label": "Boarding",
+          "columns": [
+            "Term",
+            "Fee",
+            "VAT @ 20%",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Autumn 2026",
+              22090,
+              4385,
+              26475
+            ],
+            [
+              "Spring 2027",
+              17355,
+              3445,
+              20800
+            ],
+            [
+              "Summer 2027",
+              15778,
+              3132,
+              18910
+            ],
+            [
+              "Full year",
+              55223,
+              10962,
+              66185
+            ]
+          ],
+          "note": "Paid in two instalments of GBP 33,092: due 13 August 2026 and 13 December 2026."
+        },
+        {
+          "label": "Day",
+          "columns": [
+            "Term",
+            "Fee",
+            "VAT @ 20%",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Autumn 2026",
+              10357,
+              2038,
+              12395
+            ],
+            [
+              "Spring 2027",
+              8139,
+              1602,
+              9740
+            ],
+            [
+              "Summer 2027",
+              7395,
+              1455,
+              8850
+            ],
+            [
+              "Full year",
+              25890,
+              5095,
+              30985
+            ]
+          ],
+          "note": "Paid in two instalments of GBP 15,493: due 13 August 2026 and 13 December 2026."
+        }
+      ],
+      "notes": [
+        "Totals include 20% VAT. Exam fees, book fees (except Foreign Language Literature) and travel and fees insurance are included and VAT-exempt.",
+        "Term fees differ by term, so the headline is the full-year fee. Compare with other schools on the yearly cost.",
+        "Extras: Duke of Edinburgh's Award (Bronze compulsory for Pre-IB, GBP 210-315; Gold optional, GBP 580-685); field trips for Biology (GBP 820-945), Geography (GBP 290-315) and ESS (GBP 60-65) students; Pre-IB activities up to GBP 315 a term.",
+        "Other costs: private music lessons GBP 35-70 each, art materials GBP 160 for two years (Visual Arts), calculator GBP 120-160, airport transfers GBP 190-305, SEN or learning support varies."
+      ],
+      "payment": "Flywire for international payments (home currency, card or bank transfer), or UK bank transfer; cash accepted up to GBP 250."
+    },
+    "admissions": {
+      "intake": "IB Diploma starts in September. Pre-IB starts in September, January or April and lasts one, two or three terms.",
+      "assessments": [
+        "English and Maths placement test (decides Standard or Higher Level courses)",
+        "Interview with the Vice Principal or another senior member of staff (in person or online)",
+        "Further assessment for some applicants"
+      ],
+      "documents": [
+        "School reports or academic transcripts for the last two years (SSAT scores accepted from the USA)",
+        "Official transcripts in English or with a certified translation",
+        "Online application form and registration fee"
+      ],
+      "steps": [
+        "Your K12 Onboard adviser contacts the school's admissions team.",
+        "Send school reports or transcripts for the last two years; if satisfactory you receive the online application form.",
+        "Complete the application form and pay the registration fee.",
+        "Take an assessment if asked.",
+        "Visit and interview with the Vice Principal or a senior member of staff (online with a 360 virtual tour if you cannot travel).",
+        "Receive a verbal offer after the interview, then written confirmation."
+      ],
+      "entry_routes": [
+        {
+          "year": "Pre-IB",
+          "programme": "Pre-IB, ages 15-16 (1, 2 or 3 terms; 15 students maximum; 30 lessons a week)",
+          "requirement": "English guide level B1 mid-high (a guide, not a minimum)",
+          "starts": "September / January / April"
+        },
+        {
+          "year": "IB Diploma",
+          "programme": "Two-year IB Diploma, ages 16-19 (six subjects plus Extended Essay, Theory of Knowledge and CAS; 15 students maximum)",
+          "requirement": "English guide level B2 mid (a guide, not a minimum); Maths and English placement tests",
+          "starts": "September"
+        }
+      ],
+      "note": "Semi-selective: decisions use previous academic results, the placement tests and an interview. Means-tested scholarships are open for 2027 entry: standard deadline 11 December 2026, assessment day 23 January 2027."
+    },
+    "facilities": [
+      "Campus of Victorian and Edwardian buildings on the Banbury Road, 1.5 km from Oxford city centre and about 50 km from London",
+      "Science laboratories, art studio and music studio",
+      "University-level library",
+      "Dining hall and The Globe café",
+      "Student hub (the Sugar House)",
+      "Accessible room and a non-denominational prayer room",
+      "Off-site sports venues: Oxford City FC, Ferry Leisure Centre, Smash Padel Oxford and others"
+    ],
+    "highlights": [
+      "England's oldest IB World School",
+      "Average class size of 9, maximum 15",
+      "2026 IB average 36 points against a world average of 31; 13 students scored 43 to 45",
+      "School figure: 90% of students go to their first-choice university",
+      "Weekly personal tutoring, careers counselling and a leadership programme",
+      "Full and partial means-tested scholarships for the IB Diploma (day and boarding)"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/st-clares-ib/students-house.webp",
+        "alt": "Six students walking past a brick and timber-framed St Clare's building on a sunny day",
+        "position": "50% 68%"
+      },
+      "card": {
+        "src": "/images/st-clares-ib/students-house.webp",
+        "alt": "Six students walking past a brick and timber-framed St Clare's building on a sunny day",
+        "position": "50% 68%"
+      },
+      "about": [
+        {
+          "src": "/images/st-clares-ib/students-garden.webp",
+          "alt": "Three students walking and talking along a garden path"
+        },
+        {
+          "src": "/images/st-clares-ib/admissions-advisor.webp",
+          "alt": "A student and a member of staff looking at the IB brochure together"
+        }
+      ],
+      "credit": "Photos: (c) St Clare's, Oxford."
+    },
+    "scraped": "2026-11-18",
+    "review_flags": [
+      "Fees: the headline is the boarding full-year fee including VAT (GBP 66,185); day full-year is GBP 30,985. Term fees differ by term. The site's dollar prices use a fixed exchange rate and are not stored.",
+      "Nationalities are quoted as 'over 50', '50' and 'over 45' on different pages.",
+      "'90% of students score above the IB world average' appears on several pages; the 2026 results page says 80%. The 2026 average is 36 points; a three-year average of 35.3 is quoted elsewhere.",
+      "Campus is '25+' and '28' buildings on different pages. 'Oldest IB World School in England', 'nearly 50 years of IB expertise' and 'over 70 years' of school history refer to different things.",
+      "Ages 15-19 are inferred from Pre-IB (15-16) and the IB Diploma (16-19); the admissions FAQ says 16-18 for the Diploma.",
+      "Weekly boarding is only for students living in England or Wales, so it does not suit overseas families. The college closes to students at half-terms and holidays: check holiday care.",
+      "Not captured: gender mix, total student numbers, subject-by-subject IB options, and 64 linked PDFs (terms and conditions, accommodation, admissions and guardian policies). The general contact-us and homestay-providers pages were not scraped."
+    ]
+  }
+]
