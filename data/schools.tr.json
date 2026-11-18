@@ -885,5 +885,209 @@
       "Sixth Form ders koşulları, uluslararası denklikler, sayısal İngilizce şartları, burs son tarihleri ve tatil düzenlemeleri teyit edilmeli.",
       "2027/28 ücretleri ve BTEC ders alanları doğrulanmadı."
     ]
+  },
+  "rgs-surrey-hills": {
+    "tagline": "11–18 yaş için GCSE, A Level ve IB seçenekleri sunan karma yatılı ve gündüzlü okul.",
+    "summary": "Eski adı Box Hill School olan RGS Surrey Hills, Dorking yakınlarında yaklaşık 10,5 hektarlık kampüste eğitim verir. GCSE sonrasında A Level veya IB Diploma seçenekleri ve Sixth Form’a hazırlanan uluslararası öğrenciler için bir yıllık GCSE programı sunar. Sixth Form’da ayrıca BTEC seçenekleri duyurulur; dersler teyit edilmelidir. Reigate Grammar School ailesine bağlı ve Round Square’ın kurucu üyelerinden olan okulda küçük sınıflar, rehberlik, spor, yaratıcı sanatlar ve uluslararası değişim fırsatları öne çıkar.",
+    "school_type": "Yatılı ve gündüzlü",
+    "gender": "Karma",
+    "year_groups": "Year 7 – Year 13",
+    "boarding": {
+      "notes": [
+        "Tam yatılılık dönem boyunca sürer; haftalık yatılı öğrenciler cuma akşamı evlerine döner. Esnek yatılılık haftada en az iki gecedir ve dönem başında planlanır.",
+        "Yaşa ve cinsiyete göre ayrılan altı yatılı öğrenci evinde yerleşik sorumlular bulunur. Pazar gezileri ücrete dahildir; önceden kayıt gerekir.",
+        "Tatillerde konaklamalı programlar duyurulmaktadır; tatil konaklamasına güvenmeden önce tarih, kontenjan ve ek ücretler teyit edilmelidir.",
+        "Uluslararası öğrencilerin okulun AEGIS/BSA akreditasyon şartlarını karşılayan bir vasisi olmalıdır. Vasi seçmeden önce kabul edilen sistem ve seviye teyit edilmelidir."
+      ]
+    },
+    "english_support": [
+      "Standart derslerde EAL desteği ve ayrı İngilizce grupları",
+      "One Year GCSE Programme (15–16 yaş): İngilizce gelişimi ve Sixth Form hazırlığı"
+    ],
+    "results": [
+      {
+        "label": "GCSE sınavlarında 9–7 notlarının oranı"
+      },
+      {
+        "label": "A Level sınavlarında A*–C notlarının oranı"
+      },
+      {
+        "label": "IB Diploma ortalama puanı"
+      }
+    ],
+    "fees": {
+      "headline": {
+        "label": "Sixth Form tam yatılılık",
+        "alt": "Year 12–13; üç dönem, ek ücretler uygulanır"
+      },
+      "deposit": "Uluslararası kabul depozitosu: £5.000. Yerel öğrenci depozitosu: £1.800. İade koşulları güncel sözleşmeden teyit edilmelidir.",
+      "includes": [
+        "Eğitim ve tam yatılılık (gösterilen ana ücret)",
+        "Sixth Form eğitim gezileri ve ziyaretleri; uzmanlık alanı saha gezileri hariç"
+      ],
+      "tiers": [
+        {
+          "label": "Ana okul programları — dönemlik",
+          "columns": [
+            "Öğrencilik türü",
+            "Year 7–8",
+            "Year 9–11",
+            "Year 12–13"
+          ],
+          "rows": [
+            [
+              "Gündüzlü",
+              9415,
+              10145,
+              10585
+            ],
+            [
+              "Esnek yatılı (2 gece)",
+              11610,
+              12510,
+              12950
+            ],
+            [
+              "Esnek yatılı (3 gece)",
+              12605,
+              13585,
+              14040
+            ],
+            [
+              "Haftalık yatılı",
+              13800,
+              14870,
+              15515
+            ],
+            [
+              "Tam yatılı",
+              15670,
+              18335,
+              19110
+            ]
+          ],
+          "note": "KDV dahildir. Gösterilen ana ücret Sixth Form tam yatılılığı içindir; alt sınıfların ücretleri farklıdır."
+        },
+        {
+          "label": "One Year GCSE Programme — dönemlik",
+          "columns": [
+            "Öğrencilik türü",
+            "Ücret"
+          ],
+          "rows": [
+            [
+              "Gündüzlü",
+              12435
+            ],
+            [
+              "Haftalık yatılı",
+              16180
+            ],
+            [
+              "Tam yatılı",
+              19890
+            ]
+          ],
+          "note": "KDV, ESL desteği ve Birleşik Krallık gezileri dahildir. Tam yatılılık üç dönem için toplam £59.670’tir."
+        }
+      ],
+      "notes": [
+        "Ücretler 2026/27 içindir. İade edilmeyen uluslararası kayıt ücreti £250, yerel kayıt ücreti £150’dir. Ödeme zamanı kayıt öncesinde teyit edilmelidir.",
+        "Gecelik veya ek hafta sonu konaklaması £158’dir. Öğrenme desteği ve konuşma/dil desteği saatlik £67; İngilizce ve matematik desteği saatlik £60’tır.",
+        "Dizüstü bilgisayar satın alma/kiralama, ulaşım, uzmanlık alanı saha gezileri ve bazı etkinlik/dersler için ek bütçe gerekir.",
+        "Kardeş indirimi: ikinci çocuk için %5, sonraki çocuklar için %10.",
+        "Okuldan ayrılmak için sözleşmeye uygun biçimde bir tam dönem önceden yazılı bildirim gerekir; aksi halde bir dönemlik ücret alınır."
+      ],
+      "payment": "Ücretler üç döneme bölünür ve her dönem başlamadan ödenir. Banka havalesi ve peşin ücret planı sunulur; Birleşik Krallık’ta yaşayan ebeveynler uygunluk ve sözleşme koşullarına bağlı aylık ödeme planını kullanabilir."
+    },
+    "admissions": {
+      "intake": "Normalde eylül; ana giriş noktaları Year 7, Year 9 ve Sixth Form’dur. Yıl içinde başka kontenjanlar açılabilir. Uluslararası başlangıç ve son başvuru tarihleri teyit edilmelidir.",
+      "assessments": [
+        "Uluslararası adaylardan normalde İngilizce ve matematik giriş sınavları istenir",
+        "Yüz yüze veya çevrim içi mülakat; sınavlara uzaktan girilebilir",
+        "Yayımlanan kabul politikası, varışta yeniden değerlendirme belirtir"
+      ],
+      "documents": [
+        "Başvuru/kayıt formu",
+        "Güncel okul raporları ve okul referansı",
+        "Kayıttan önce ilgili öğrenme desteği veya eğitim psikoloğu raporları",
+        "Talep edilen vasi bilgileri ve imzalı kabul belgeleri"
+      ],
+      "steps": [
+        "Program, yatılılık seçeneği ve kontenjan kontrolü için K12 Onboard’a başvurun.",
+        "Başvuruyu ve güncel okul bilgilerini sunun.",
+        "İngilizce/matematik değerlendirmesini ve mülakatı tamamlayın.",
+        "Kabul verilirse ödeme zamanını teyit edin, kabul belgelerini gönderin, gerekli ücret ve depozitoyu ödeyip uygun bir vasi ayarlayın."
+      ],
+      "entry_routes": [
+        {
+          "programme": "Senior School (11+)",
+          "requirement": "İngilizce/matematik sınavları, mülakat ve okul raporları/referansı",
+          "starts": "Normalde eylül; kontenjan teyit edilmeli"
+        },
+        {
+          "programme": "GCSE hazırlık süreci (13+)",
+          "requirement": "İngilizce/matematik sınavları, mülakat ve okul raporları/referansı",
+          "starts": "Normalde eylül; kontenjan teyit edilmeli"
+        },
+        {
+          "programme": "One Year GCSE Programme",
+          "requirement": "15–16 yaş; bireysel değerlendirme ve İngilizce seviye tespiti. Ders sayısı ve İngilizce alt sınırı teyit edilmeli.",
+          "starts": "Kontenjan teyit edilmeli"
+        },
+        {
+          "programme": "A Level / IB Diploma",
+          "requirement": "Yayımlanan politika normalde İngilizce/matematik dahil altı GCSE ister: üç derste 6, üç derste 5+. A Level/IB Higher Level dersleri için genellikle ilgili derste 6 aranır. Uluslararası denklikler ve güncel koşullar teyit edilmeli.",
+          "starts": "Normalde eylül; kontenjan teyit edilmeli"
+        }
+      ],
+      "note": "Sixth Form koşulları, Eylül 2026’da gözden geçirilmesi planlanan Eylül 2025 kabul politikasına dayanır. Güncel politika ve ders bazındaki koşullar teyit edilmelidir. Bireysel istisnalar değerlendirilebilir; genel not koşullarını karşılamak kabul garantisi değildir. 11+, 13+ ve 16+ girişlerinde spor bursları duyurulmuştur; tutar ve son tarihler teyit edilmeli."
+    },
+    "facilities": [
+      "26 acre (yaklaşık 10,5 hektar) kampüs",
+      "Spor merkezi",
+      "Müzik okulu ve dans stüdyosu",
+      "Yüksek ip parkuru ve tırmanma duvarı",
+      "Ortak salon, çalışma alanları ve öğrenme kaynakları bulunan Sixth Form merkezi"
+    ],
+    "highlights": [
+      "Sixth Form’da A Level veya IB Diploma seçeneği",
+      "İngilizce destekli bir yıllık GCSE hazırlığı",
+      "Round Square değişim, liderlik ve topluma hizmet fırsatları",
+      "Spor, sahne sanatları ve Duke of Edinburgh etkinlikleri",
+      "Chelsea FC futbol programı; katılım ayrıntıları teyit edilmeli"
+    ],
+    "images": {
+      "hero": {
+        "alt": "RGS Surrey Hills’te sınıfta parmak kaldıran öğrenciler"
+      },
+      "card": {
+        "alt": "RGS Surrey Hills’te sınıf içi öğrenim"
+      },
+      "about": [
+        {
+          "alt": "Derse katılan öğrenciler"
+        }
+      ],
+      "boarding": [
+        {
+          "alt": "Çalışma masası ve lambası bulunan yatılı öğrenci odası"
+        }
+      ],
+      "facilities": [
+        {
+          "alt": "Okul sahasında futbol oynayan öğrenciler"
+        }
+      ],
+      "credit": "Fotoğraflar: © RGS Surrey Hills"
+    },
+    "review_flags": [
+      "Altı tarayıcı kaydı HTML olarak saklandı: ana sayfa, ücretler, yatılılık, GCSE, Sixth Form ve spor. Diğer kaynaklar web erişimi ve aramayla incelendi.",
+      "Bir yıllık kurs sayfası en fazla altı GCSE, müfredat politikası altı–dokuz GCSE belirtiyor. Bireysel program teyit edilmeli. Kaydedilen Sixth Form sayfası BTEC seçeneklerini doğruluyor; dersler ve kombinasyonlar teyit edilmeli.",
+      "Farklı tutarlar veren tarihsiz acente sayfaları yerine 2026/27 ücretleri kullanıldı. Kayıt ücretinin ödeme zamanı, ücretler ve uluslararası kabul sayfalarında farklı. 2027/28 ücretleri ve depozito iade koşulları teyit edilmeli.",
+      "Kabul politikasının gözden geçirme tarihi Eylül 2026 idi. Güncel Sixth Form şartları, denklikler, İngilizce alt sınırları, giriş tarihleri ve burs son tarihleri teyit edilmeli.",
+      "Öğrenci sayısı ve kesin milliyet sayısı doğrulanmadı. Üçte bir uluslararası öğrenci oranı bir hedeftir. Bir blogdaki kampüs büyüklüğü, ana sayfadaki 26 acre ile çelişiyor.",
+      "Tatil konaklaması tarih/ücretleri ve kabul edilen vasi akreditasyonu teyit edilmeli. GCSE fen ve IB CAS ayrıntıları kaynaklar arasında farklı."
+    ]
   }
 }

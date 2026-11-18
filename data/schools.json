@@ -1185,5 +1185,265 @@
       "Confirm Sixth Form subject requirements, international equivalencies, numerical English thresholds, scholarship deadlines and holiday arrangements.",
       "2027/28 fees and individual BTEC subjects are not verified."
     ]
+  },
+  {
+    "id": "rgs-surrey-hills",
+    "status": "needs_review",
+    "sample": false,
+    "name": "RGS Surrey Hills",
+    "short_name": "RGS Surrey Hills",
+    "country": "United Kingdom",
+    "city": "Mickleham, Dorking",
+    "region": "Surrey",
+    "tagline": "GCSE, A Level and IB pathways at a co-educational boarding and day school for ages 11–18.",
+    "summary": "RGS Surrey Hills, formerly Box Hill School, is set on a 26-acre campus near Dorking. The school offers GCSEs followed by A Levels or the IB Diploma, with a one-year GCSE programme for international students preparing for Sixth Form. Sixth Form also advertises BTEC options, with subjects to confirm. It belongs to the Reigate Grammar School family and is a founding Round Square member. Small classes, pastoral support, sport, creative arts and international exchanges shape school life.",
+    "school_type": "Boarding and day",
+    "gender": "Co-educational",
+    "age_min": 11,
+    "age_max": 18,
+    "year_groups": "Year 7 to Year 13",
+    "founded": "1959",
+    "students_total": null,
+    "nationalities": null,
+    "international_share_percent": null,
+    "boarding": {
+      "available": true,
+      "types": [
+        "Full-time",
+        "Weekly",
+        "Flexible"
+      ],
+      "from_year": "Year 7",
+      "day_option": true,
+      "notes": [
+        "Full boarding is available during term; weekly boarders return home on Friday evenings. Flexi boarding starts at two nights per week, booked at the start of term.",
+        "Six boarding houses are organised by age and gender, with resident houseparents. Sunday trips are included and require advance sign-up.",
+        "Holiday residential programmes are advertised; confirm dates, places and additional costs before relying on holiday accommodation.",
+        "International pupils must have a guardian meeting the school’s AEGIS/BSA accreditation requirements. Confirm the accepted scheme and level before appointment."
+      ]
+    },
+    "qualifications": [
+      "GCSE",
+      "A Level",
+      "IB Diploma",
+      "BTEC"
+    ],
+    "english_support": [
+      "EAL support in mainstream lessons and separate English sets",
+      "One Year GCSE Programme (ages 15–16), with English-language development and preparation for Sixth Form"
+    ],
+    "results": [
+      {
+        "label": "GCSE grades at 9–7",
+        "value": "26%",
+        "year": 2026
+      },
+      {
+        "label": "A Level grades at A*–C",
+        "value": "85%",
+        "year": 2026
+      },
+      {
+        "label": "IB Diploma average points",
+        "value": "32",
+        "year": 2026
+      }
+    ],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": 19110,
+      "terms_per_year": 3,
+      "registration_fee": 250,
+      "headline": {
+        "amount": 19110,
+        "unit": "term",
+        "label": "Sixth Form full boarding",
+        "alt": "Years 12–13; three terms, extras apply"
+      },
+      "deposit": "International acceptance deposit: £5,000. Domestic deposit: £1,800. Confirm refund conditions in the current contract.",
+      "includes": [
+        "Tuition and full boarding (headline rate)",
+        "Sixth Form educational trips and visits, excluding specialist field trips"
+      ],
+      "tiers": [
+        {
+          "label": "Main school — per term",
+          "columns": [
+            "Place type",
+            "Years 7–8",
+            "Years 9–11",
+            "Years 12–13"
+          ],
+          "rows": [
+            [
+              "Day",
+              9415,
+              10145,
+              10585
+            ],
+            [
+              "Flexi boarding (2 nights)",
+              11610,
+              12510,
+              12950
+            ],
+            [
+              "Flexi boarding (3 nights)",
+              12605,
+              13585,
+              14040
+            ],
+            [
+              "Weekly boarding",
+              13800,
+              14870,
+              15515
+            ],
+            [
+              "Full boarding",
+              15670,
+              18335,
+              19110
+            ]
+          ],
+          "note": "VAT included. The headline price is Sixth Form full boarding; younger year groups have different rates."
+        },
+        {
+          "label": "One Year GCSE Programme — per term",
+          "columns": [
+            "Place type",
+            "Fee"
+          ],
+          "rows": [
+            [
+              "Day",
+              12435
+            ],
+            [
+              "Weekly boarding",
+              16180
+            ],
+            [
+              "Full boarding",
+              19890
+            ]
+          ],
+          "note": "VAT, ESL charges and UK outings included. Full boarding totals £59,670 over three terms."
+        }
+      ],
+      "notes": [
+        "2026/27 fees. The international registration fee is £250 and non-refundable; the domestic fee is £150. Confirm payment timing before registration.",
+        "Occasional or extra weekend boarding: £158/night. Learning support and speech/language support: £67/hour; English and Maths support: £60/hour.",
+        "Budget separately for the laptop purchase/rental scheme, transport, specialist field trips and selected activities or tuition.",
+        "Sibling discount: 5% for the second child and 10% for subsequent children.",
+        "Withdrawal requires a full term’s written notice in line with the contract; otherwise a term’s fee is payable."
+      ],
+      "payment": "Three terms, with payment due before each term starts. Bank transfer and an advance-fee scheme are offered; UK-based parents may use a monthly payment plan subject to eligibility and terms."
+    },
+    "admissions": {
+      "intake": "Normally September; main entry points are Year 7, Year 9 and Sixth Form. Other places may be available during the year. Confirm international start dates and deadlines.",
+      "assessments": [
+        "English and Mathematics entrance tests, normally required for international applicants",
+        "Interview in person or online; remote tests available",
+        "Arrival retesting is stated in the published admissions policy"
+      ],
+      "documents": [
+        "Application/registration form",
+        "Recent school reports and a school reference",
+        "Relevant learning-support or educational psychologist reports before registration",
+        "Guardian details and signed acceptance documentation as required"
+      ],
+      "steps": [
+        "Ask K12 Onboard to check the course, boarding option and available places.",
+        "Submit the application and recent school information.",
+        "Complete the English/Maths assessment and interview.",
+        "If offered a place, confirm payment timing, return acceptance documents, pay the required fees/deposit and arrange an approved guardian."
+      ],
+      "entry_routes": [
+        {
+          "year": "7",
+          "programme": "Senior School (11+)",
+          "requirement": "English/Maths tests, interview and school reports/reference",
+          "starts": "Normally September; confirm availability"
+        },
+        {
+          "year": "9",
+          "programme": "GCSE pathway (13+)",
+          "requirement": "English/Maths tests, interview and school reports/reference",
+          "starts": "Normally September; confirm availability"
+        },
+        {
+          "year": "11",
+          "programme": "One Year GCSE Programme",
+          "requirement": "Age 15–16; individual assessment and English placement. Exact subject count and English threshold to confirm.",
+          "starts": "Confirm availability"
+        },
+        {
+          "year": "12",
+          "programme": "A Level / IB Diploma",
+          "requirement": "Published policy normally expects six GCSEs including English/Maths: three at grade 6 and three at grade 5+. A Level/IB Higher Level subjects generally seek grade 6. Overseas equivalencies and current criteria must be confirmed.",
+          "starts": "Normally September; confirm availability"
+        }
+      ],
+      "note": "Sixth Form guidance comes from the September 2025 admissions policy, which was due for review in September 2026. Confirm the current policy and subject-specific requirements. Individual exceptions may be considered; a place is not guaranteed by meeting the general grades. Sports scholarships are advertised at 11+, 13+ and 16+; values and deadlines require confirmation."
+    },
+    "facilities": [
+      "26-acre campus",
+      "Sports centre",
+      "Music school and dance studio",
+      "High ropes course and climbing wall",
+      "Sixth Form centre with common room, study spaces and learning resource suite"
+    ],
+    "highlights": [
+      "A Level or IB Diploma choice in Sixth Form",
+      "One-year GCSE preparation with English support",
+      "Round Square exchanges, leadership and service opportunities",
+      "Sport, performing arts and Duke of Edinburgh activities",
+      "Chelsea FC football pathway; participation details to confirm"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/rgs-surrey-hills/classroom.jpg",
+        "alt": "Pupils raising their hands in a classroom at RGS Surrey Hills",
+        "position": "50% 55%"
+      },
+      "card": {
+        "src": "/images/rgs-surrey-hills/classroom.jpg",
+        "alt": "Classroom learning at RGS Surrey Hills",
+        "position": "50% 55%"
+      },
+      "about": [
+        {
+          "src": "/images/rgs-surrey-hills/classroom.jpg",
+          "alt": "Pupils taking part in a lesson",
+          "position": "50% 50%"
+        }
+      ],
+      "boarding": [
+        {
+          "src": "/images/rgs-surrey-hills/boarding.jpg",
+          "alt": "Boarding bedroom with a desk and lamp",
+          "position": "50% 50%"
+        }
+      ],
+      "facilities": [
+        {
+          "src": "/images/rgs-surrey-hills/football.jpg",
+          "alt": "Pupils playing football on the school grounds",
+          "position": "50% 50%"
+        }
+      ],
+      "credit": "Photos: © RGS Surrey Hills"
+    },
+    "scraped": "2026-11-18",
+    "review_flags": [
+      "Six browser-saved HTML pages are retained: homepage, fees, boarding, GCSE curriculum, Sixth Form and sport. Other sources were reviewed through web retrieval/search.",
+      "The one-year course page says up to six GCSEs; the curriculum policy says six to nine. Confirm the individual programme. The saved Sixth Form page confirms BTEC options; subjects and combinations require confirmation.",
+      "Use dated 2026/27 fees rather than differing undated agent-page rates. Registration payment timing conflicts between the fees and international admissions pages. 2027/28 fees and deposit refund conditions need confirmation.",
+      "The admissions policy was due for review in September 2026. Confirm current Sixth Form requirements, international equivalencies, English thresholds, intake dates and scholarship deadlines.",
+      "Pupil total and exact nationality count are unverified. One-third international is a target, not a measured share. A blog’s campus size conflicts with the 26 acres on the homepage.",
+      "Confirm holiday boarding dates/costs and the precise guardian accreditation accepted by the school. Detailed GCSE science and IB CAS wording differs across sources."
+    ]
   }
 ]
