@@ -174,12 +174,16 @@
     ],
     "images": {
       "hero": {
-        "src": "/images/queen-ethelburgas/hero-campus-aerial.webp",
-        "alt": "Aerial view of the Queen Ethelburga's campus and the surrounding countryside"
+        "src": "/images/queen-ethelburgas/open-hall.jpg",
+        "alt": "Ivy-covered red-brick hall with a stone entrance and a cobbled forecourt",
+        "position": "50% 45%",
+        "credit": { "title": "Main hall", "author": "Joeanthony00", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:TU-Hall.jpg" }
       },
       "card": {
-        "src": "/images/queen-ethelburgas/campus-manor.webp",
-        "alt": "Brick school building covered in ivy beside a lawn on the Queen Ethelburga's campus"
+        "src": "/images/queen-ethelburgas/open-hall.jpg",
+        "alt": "Ivy-covered red-brick hall with a stone entrance and a cobbled forecourt",
+        "position": "50% 55%",
+        "credit": { "title": "Main hall", "author": "Joeanthony00", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:TU-Hall.jpg" }
       },
       "about": [
         {
@@ -193,6 +197,10 @@
         {
           "src": "/images/queen-ethelburgas/sixth-form.webp",
           "alt": "Two Sixth Form students walking across campus"
+        },
+        {
+          "src": "/images/queen-ethelburgas/hero-campus-aerial.webp",
+          "alt": "Aerial view of the Queen Ethelburga's campus and the surrounding countryside"
         }
       ],
       "boarding": [
@@ -207,6 +215,11 @@
         {
           "src": "/images/queen-ethelburgas/boarding-bedroom.webp",
           "alt": "Boarding bedroom with a bed, shelves and desk"
+        },
+        {
+          "src": "/images/queen-ethelburgas/open-atrium.jpg",
+          "alt": "Tall glass-roofed Atrium with long dining tables and a large yellow robot sculpture",
+          "credit": { "title": "Atrium", "author": "Joeanthony00", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:18-atrium_qeb.jpg" }
         }
       ],
       "facilities": [
@@ -217,6 +230,11 @@
         {
           "src": "/images/queen-ethelburgas/activity-centre-inside.webp",
           "alt": "Students in the Muggles activity centre common area"
+        },
+        {
+          "src": "/images/queen-ethelburgas/open-gardens.jpg",
+          "alt": "Formal garden with a fountain, flower beds and benches",
+          "credit": { "title": "Gardens", "author": "Joeanthony00", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Ethelburga%27s.jpg" }
         }
       ],
       "admissions": {
@@ -619,9 +637,10 @@
         "position": "50% 68%"
       },
       "card": {
-        "src": "/images/st-clares-ib/students-house.webp",
-        "alt": "Six students walking past a brick and timber-framed St Clare's building on a sunny day",
-        "position": "50% 68%"
+        "src": "/images/st-clares-ib/open-banbury-road.jpg",
+        "alt": "Red-brick St Clare's buildings seen from Banbury Road",
+        "position": "50% 40%",
+        "credit": { "title": "Banbury Road", "author": "N Chadwick", "license": "CC BY-SA 2.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Clare%27s_College_-_geograph.org.uk_-_4001676.jpg" }
       },
       "about": [
         {
@@ -631,6 +650,11 @@
         {
           "src": "/images/st-clares-ib/admissions-advisor.webp",
           "alt": "A student and a member of staff looking at the IB brochure together"
+        },
+        {
+          "src": "/images/st-clares-ib/open-banbury-road.jpg",
+          "alt": "Red-brick St Clare's buildings seen from Banbury Road",
+          "credit": { "title": "Banbury Road", "author": "N Chadwick", "license": "CC BY-SA 2.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/", "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Clare%27s_College_-_geograph.org.uk_-_4001676.jpg" }
         }
       ],
       "credit": "Photos: (c) St Clare's, Oxford."

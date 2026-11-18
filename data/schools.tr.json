@@ -80,21 +80,24 @@
       "Temmuz'da uluslararası yaz okulu (2, 3 veya 4 hafta)"
     ],
     "images": {
-      "hero": { "alt": "Queen Ethelburga's kampüsünün ve çevresindeki kırsalın havadan görünümü" },
-      "card": { "alt": "Queen Ethelburga's kampüsünde, çimenliğin yanında sarmaşıkla kaplı tuğla bir okul binası" },
+      "hero": { "alt": "Taş girişli ve parke kaplı avlulu, sarmaşıkla kaplı kırmızı tuğla bina", "credit": { "title": "Ana bina" } },
+      "card": { "alt": "Taş girişli ve parke kaplı avlulu, sarmaşıkla kaplı kırmızı tuğla bina", "credit": { "title": "Ana bina" } },
       "about": [
         { "alt": "Yatılı evlerin ve spor sahasının havadan görünümü" },
         { "alt": "Okul formalı gülümseyen öğrenciler" },
-        { "alt": "Kampüste yürüyen iki Sixth Form öğrencisi" }
+        { "alt": "Kampüste yürüyen iki Sixth Form öğrencisi" },
+        { "alt": "Queen Ethelburga's kampüsünün ve çevresindeki kırsalın havadan görünümü" }
       ],
       "boarding": [
         { "alt": "Bahçeli ve oturma alanlı tuğla yatılı avlusu" },
         { "alt": "Yatak, çalışma masası ve pencereli bir yatılı odası" },
-        { "alt": "Yatak, raflar ve çalışma masası olan bir yatılı odası" }
+        { "alt": "Yatak, raflar ve çalışma masası olan bir yatılı odası" },
+        { "alt": "Uzun yemek masaları ve büyük sarı bir robot heykeli bulunan, cam çatılı yüksek Atrium", "credit": { "title": "Atrium" } }
       ],
       "facilities": [
         { "alt": "Muggles açık hava etkinlik merkezi ve sahaların havadan görünümü" },
-        { "alt": "Muggles etkinlik merkezinin ortak alanındaki öğrenciler" }
+        { "alt": "Muggles etkinlik merkezinin ortak alanındaki öğrenciler" },
+        { "alt": "Çeşme, çiçek tarhları ve banklar bulunan düzenli bahçe", "credit": { "title": "Bahçeler" } }
       ],
       "admissions": { "alt": "Mavi okul formalı gülümseyen bir öğrenci" },
       "trip": { "alt": "Bir gezide araçta birlikte oturan öğrenciler" },
@@ -291,10 +294,11 @@
     ],
     "images": {
       "hero": { "alt": "St Clare's'ın tuğla ve ahşap çatkılı binasının önünden geçen altı öğrenci" },
-      "card": { "alt": "St Clare's'ın tuğla ve ahşap çatkılı binasının önünden geçen altı öğrenci" },
+      "card": { "alt": "Banbury Road'dan görünen kırmızı tuğlalı St Clare's binaları", "credit": { "title": "Banbury Road" } },
       "about": [
         { "alt": "Bahçe yolunda sohbet ederek yürüyen üç öğrenci" },
-        { "alt": "IB broşürüne birlikte bakan bir öğrenci ve bir okul görevlisi" }
+        { "alt": "IB broşürüne birlikte bakan bir öğrenci ve bir okul görevlisi" },
+        { "alt": "Banbury Road'dan görünen kırmızı tuğlalı St Clare's binaları", "credit": { "title": "Banbury Road" } }
       ],
       "credit": "Fotoğraflar: © St Clare's, Oxford."
     }
