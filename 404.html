@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="tr" data-theme="e">
+<html lang="tr" data-theme="f">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,18 +9,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..600&family=Instrument+Sans:wght@400..700&family=IBM+Plex+Sans:wght@400;500;600&family=Public+Sans:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap" rel="stylesheet" />
     <script>
-      // Apply the saved design before first paint (A / E / F / G, see src/theme.jsx).
+      // Apply the saved design before first paint (A / F / G, see src/theme.jsx).
       try {
-        // Default design comes from VITE_DEFAULT_THEME (see .env.example); falls back to "e".
+        // Default design comes from VITE_DEFAULT_THEME (see .env.example); falls back to "f".
         var d = "%VITE_DEFAULT_THEME%";
-        if (["a", "e", "f", "g"].indexOf(d) < 0) d = "e";
+        if (["a", "f", "g"].indexOf(d) < 0) d = "f";
         var q = new URLSearchParams(location.search).get("theme");
         var t = (q || localStorage.getItem("k12-theme") || d).toLowerCase();
-        if (["a", "e", "f", "g"].indexOf(t) > -1) document.documentElement.dataset.theme = t;
+        if (t === "e") t = "f"; // the green E design was removed; old links and saved choices get the navy one
+        if (["a", "f", "g"].indexOf(t) > -1) document.documentElement.dataset.theme = t;
       } catch (e) {}
     </script>
-    <script type="module" crossorigin src="/k12project/assets/index-C1hkr2TS.js"></script>
-    <link rel="stylesheet" crossorigin href="/k12project/assets/index-AXPmCB4p.css">
+    <script type="module" crossorigin src="/k12project/assets/index-MCam8RQn.js"></script>
+    <link rel="stylesheet" crossorigin href="/k12project/assets/index-Cb6QxIZu.css">
   </head>
   <body>
     <div id="root"></div>
