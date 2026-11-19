@@ -2099,5 +2099,461 @@
       },
       "credit": "Fotoğraflar: © Delta School District"
     }
+  },
+  "eerde-international-boarding-school": {
+    "tagline": "1715 tarihli hendekli şato arazisinde IB Diploma, Pre-IB ve High School Diploma sunan, Hollanda’nın tek uluslararası yatılı okulu.",
+    "summary": "Hollanda’nın doğusundaki Ommen kasabasının hemen dışında, ormanlık sakin bir malikânede 1934’ten bu yana uluslararası okul olarak eğitim veren Eerde International Boarding School, ülkede tam zamanlı (7 gün), esnek (5 gün) yatılılık ve gündüzlü eğitimi tek kampüste sunan tek uluslararası okuldur. Yaklaşık 110 öğrenci (yaklaşık 85 yatılı), öğrenci ve personel genelinde 25’ten fazla uyrukla 10–15 kişilik küçük sınıflarda eğitim görür. İlkokul bölümünün yanı sıra ortaöğretimde (11–19 yaş; yatılılık 12 yaştan itibaren) IMYC ile Cambridge Lower Secondary, bir yıllık Pre-IB Year, IB Diploma Programme (IBDP) ve CIS/MSA akreditasyonlu Eerde High School Diploma sunulur. Kampüs yaşamı 1715 tarihli şato, 2011’de eklenen modern okul binası, resmî Rijksmuseum ortaklığı ve yakındaki haralarla yürütülen binicilik programları etrafında şekillenir.",
+    "school_type": "Yatılı ve gündüzlü",
+    "gender": "Karma",
+    "year_groups": "6–12. sınıflar (Ortaöğretim 11–19 yaş; yatılılık 12–19 yaş)",
+    "nationalities": "25+ (öğrenci ve personel)",
+    "boarding": {
+      "from_year": "12 yaş (Ortaöğretim)",
+      "notes": [
+        "Tam zamanlı yatılılık (haftada 7 gün, 7/24) 12–19 yaş ortaöğretim öğrencilerine açıktır; esnek yatılılık hafta içi 4–5 günü kapsar (öğrenciler Cuma öğleden sonra ayrılır, Pazar akşamı veya Pazartesi sabahı döner). Yatılılık için Eerde’de tam zamanlı öğrenci kaydı gerekir.",
+        "Şato arazisinde, okul binasına kısa yürüyüş mesafesinde iki klasik yatılı bina bulunur: kızlar doğu kanadında (oda içi duşlu), erkekler batı kanadında kalır; her iki binada ortak oturma odaları, mutfak ve çamaşırhane vardır.",
+        "Öğrencilerin çoğu yaş ve cinsiyete göre eşleştirilen iki kişilik odalarda kalır; tek kişilik oda talep ve müsaitliğe bağlı olarak daha yüksek ücretle sunulur (tam yatılılık yıllık €50.100).",
+        "Yatılı ebeveynler (boarding parents) 7/24 yaşam koçu olarak destek verir; hafta içi akşam etütleri şato kütüphanesinde veya Learning Enrichment Centre’da gözetimli yapılır.",
+        "Yatılı odaları Yaz, Sonbahar, Kış ve İlkbahar tatillerinde kapalıdır; tatil dönemi konaklama ve vasilik düzenlemelerini danışmanınızla teyit edin.",
+        "Gündüzlü öğrenciler müsaitliğe bağlı olarak gecelik yatılı konaklama talep edebilir (gecelik €135, akşam yemeği ve kahvaltı dahil)."
+      ]
+    },
+    "qualifications": [
+      "IB Diploma",
+      "Pre-IB",
+      "Eerde High School Diploma",
+      "IMYC"
+    ],
+    "english_support": [
+      "Pre-IB Year (IBDP’ye geçiş için İngilizce ve temel dersleri güçlendiren bir yıllık hazırlık programı; IELTS 4,0 veya dengi ile)",
+      "Learning Enrichment Centre (yoğun İngilizce ve ders çalışma becerileri koçluğu; ek İngilizce dersleri ayrı ücretlendirilir)"
+    ],
+    "fees": {
+      "headline": {
+        "label": "Lise eğitim + tam yatılılık (iki kişilik oda, 2025/26)",
+        "alt": "Gündüzlü eğitim yıllık €26.400 · Esnek yatılılık + eğitim yıllık €53.300 · Ortaokul €22.800’den"
+      },
+      "deposit": "İlk kayıtta iade edilebilir tek seferlik €2.750 yatılılık depozitosu (sorunsuz ayrılış sonrası iade edilir). €3.650 tutarındaki ortaöğretim kayıt ücreti iade edilmez, kabul anında ödenir ve bir Mac dizüstü bilgisayar dahildir.",
+      "includes": [
+        "Eğitim ücreti: sınıf dersleri, ders saatleri içinde gözetimli ödev, ikramlar, öğle yemeği ve medya/BT kaynakları",
+        "Tam yatılılık: iki kişilik oda, öğünler, çamaşırhane, akşam gözetimli ödev ve hafta içi/hafta sonu etkinlikleri",
+        "Esnek yatılılık (hafta içi 4–5 gün): iki kişilik oda, öğünler, çamaşırhane, akşam gözetimli ödev ve hafta içi etkinlikleri (hafta sonu etkinlikleri hariç)"
+      ],
+      "tiers": [
+        {
+          "label": "Ortaöğretim yıllık toplamlar (eğitim + yatılılık, 2025/26, EUR)",
+          "columns": [
+            "Program",
+            "Gündüzlü eğitim",
+            "Eğitim + Esnek yatılılık (2 kişilik)",
+            "Eğitim + Tam yatılılık (2 kişilik)",
+            "Eğitim + Tam yatılılık (tek kişilik)"
+          ],
+          "rows": [
+            [
+              "Lise (Pre-IB, HSD, IBDP)",
+              26400,
+              53300,
+              60000,
+              76500
+            ],
+            [
+              "Ortaokul (IMYC, 6–8. sınıflar)",
+              22800,
+              49700,
+              56400,
+              72900
+            ]
+          ],
+          "note": "Birleşik toplamlar, Eerde’nin 2025/26 için ayrı yayımladığı yıllık eğitim ve yatılılık ücretlerinin toplamıdır (tam yatılılık 2 kişilik €33.600; tek kişilik talep üzerine €50.100; esnek yatılılık 2 kişilik €26.900). Yatılılık 12 yaştan itibaren başlar. İlkokul gündüzlü eğitim ücreti (IPC) yıllık €15.700, kayıt ücreti €750’dir. 2026/27 ücretleri henüz yayımlanmamıştır."
+        },
+        {
+          "label": "Yayımlanan ücret kalemleri ve tek seferlik ödemeler (2025/26, EUR)",
+          "columns": [
+            "Kalem",
+            "Tutar",
+            "Notlar"
+          ],
+          "rows": [
+            [
+              "Lise eğitim ücreti (Pre-IB, HSD, IBDP)",
+              26400,
+              "Tam akademik yıl; 1 Ağustos 2025 öncesi peşin ödeme için"
+            ],
+            [
+              "Ortaokul eğitim ücreti (IMYC)",
+              22800,
+              "Tam akademik yıl; 1 Ağustos 2025 öncesi peşin ödeme için"
+            ],
+            [
+              "Tam yatılılık (7 gün, iki kişilik oda)",
+              33600,
+              "Eğitim ücreti hariç; tek kişilik oda talep üzerine €50.100"
+            ],
+            [
+              "Esnek yatılılık (hafta içi 4–5 gün, iki kişilik oda)",
+              26900,
+              "Eğitim ücreti hariç; hafta sonu etkinlikleri hariç"
+            ],
+            [
+              "Ortaöğretim kayıt ücreti (tek seferlik)",
+              3650,
+              "İade edilmez, kabul anında ödenir; Mac dizüstü bilgisayar dahildir"
+            ],
+            [
+              "Yatılılık depozitosu (tek seferlik)",
+              2750,
+              "Sorunsuz ayrılışta iade edilir"
+            ],
+            [
+              "Gecelik yatılı konaklama (gündüzlü öğrenciler)",
+              135,
+              "Talep üzerine gecelik; akşam yemeği ve kahvaltı dahil"
+            ]
+          ],
+          "note": "Sınavlar, değerlendirmeler, ek İngilizce dersleri, özel/müzik dersleri, ek öğrenme desteği, eğitim gezileri, ulaşım, sigorta ve kişisel harcamalar ayrı ücretlendirilir."
+        }
+      ],
+      "notes": [
+        "Yayımlanan tutarlar 2025/26 akademik yılına aittir (2026/27 ücretleri okul sitesinde henüz yayımlanmamıştır; başvuru öncesi güncel ücretler teyit edilmelidir).",
+        "Yıl ortasında başlayan öğrenciler için farklı ücret yapıları uygulanır.",
+        "2 taksitte ödeme seçeneğinde %5 ek ücret uygulanır.",
+        "Eğitim ve yatılılık ücretlerine sınavlar, değerlendirmeler, ek İngilizce dersleri, özel dersler, geziler, ulaşım, sigorta ve kişisel harcamalar dahil değildir."
+      ],
+      "payment": "Eğitim ve yatılılık ücretlerinin tamamı başlangıç tarihinden en az bir ay önce ödenir (yayımlanan 2025/26 eğitim ücretleri 1 Ağustos 2025 öncesi peşin ödemeyi esas alır). İki taksitte ödemede %5 ek ücret uygulanır. Hollanda öğrenim vizesi gereken öğrencilerin, vize süreci başlamadan önce toplam ücretin %50’sini ödemesi gerekir."
+    },
+    "admissions": {
+      "intake": "Yıllık başlangıç Ağustos ayındadır (akademik yıl Ağustos–Haziran arasıdır); yıl ortası girişler özel ücretlendirme ile değerlendirilir.",
+      "assessments": [
+        "Evden çevrimiçi yapılan iDAT seviye belirleme sınavı (Matematik, İngilizce ve eleştirel düşünme)",
+        "Gerekli görülürse ek çevrimiçi İngilizce yeterlilik sınavı (ör. Duolingo)",
+        "Öğrenci ve aile ile çevrimiçi veya yüz yüze mülakat (kampüste deneme günü seçeneği)"
+      ],
+      "documents": [
+        "K12 Onboard üzerinden iletilen ön kayıt / başvuru formu",
+        "Güncel okul karneleri ve not dökümleri (sürecin erken aşamasında istenir)",
+        "Gerekli programlar için İngilizce yeterlilik belgesi (Pre-IB için IELTS 4,0+ veya dengi; IBDP için IELTS 6,0+ veya dengi)",
+        "Mevcut öğretmen referans mektupları (IBDP girişi için)"
+      ],
+      "steps": [
+        "Program uygunluğu, yatılılık seçenekleri ve güncel ücretler için K12 Onboard ile iletişime geçin; ilk görüşme veya sanal/yüz yüze kampüs turu planlayın.",
+        "Başvuru ve okul karnelerini belge incelemesi için K12 Onboard üzerinden iletin.",
+        "Aile mülakatını ve çevrimiçi iDAT yerleştirme sınavını (istenirse ek İngilizce sınavını) tamamlayın.",
+        "Yerleştirme duyurusu ve kabul mektubunu aldıktan sonra iade edilmeyen kayıt ücretini ödeyerek kontenjanı kesinleştirin.",
+        "Hollanda öğrenim vizesi gerekiyorsa Eerde üzerinden vize sponsorluğu adımlarını tamamlayın (başvuru öncesi toplam ücretin %50’si ödenir; süreç yaklaşık 6 hafta sürer).",
+        "Yolculuk öncesi bilgilendirme toplantısına katılın, kalan ücretleri başlangıçtan en az bir ay önce ödeyin ve kampüsteki Oryantasyon Haftasına katılın."
+      ],
+      "entry_routes": [
+        {
+          "year": "6–8. sınıflar (11–14 yaş)",
+          "programme": "IMYC & Cambridge Lower Secondary",
+          "requirement": "Yerleştirme; yaş, sosyal-duygusal hazırbulunuşluk, okul karneleri ve iDAT sınavına göre yapılır.",
+          "starts": "Ağustos (talep üzerine yıl ortası)"
+        },
+        {
+          "year": "10. sınıf (15+ yaş)",
+          "programme": "Pre-IB Year",
+          "requirement": "Akademik yıl içinde en az 15 yaşını doldurmak, 9. sınıfı (veya dengini) tamamlamak, IELTS 4,0+ (veya dengi) ve yeterli akademik/disiplin kaydı.",
+          "starts": "Ağustos"
+        },
+        {
+          "year": "11–12. sınıflar (16–19 yaş)",
+          "programme": "IB Diploma Programme (IBDP)",
+          "requirement": "Matematik ve İngilizce/ESL dahil en az 6 IGCSE dersinden A*–C (veya dengi), ana dili İngilizce olmayanlar için IELTS 6,0+ (veya dengi), öğretmen referansları ve güçlü ATL kaydı (koşullar kısmen eksikse Akademik Gözetim altında kabul mümkündür).",
+          "starts": "Ağustos"
+        },
+        {
+          "year": "11–12. sınıflar (16–19 yaş)",
+          "programme": "Eerde High School Diploma (HSD)",
+          "requirement": "Seçilen IBDP derslerini (IB Ders Sertifikalarıyla) ve Eerde derslerini birleştiren esnek program; 4 yıllık lise kredi koşulunu gerektirir (9–10. sınıf kredileri veya Eerde Pre-IB kabul edilir). CIS ve MSA akreditasyonludur; bazı Avrupa devlet üniversitelerinin tam IB Diploma isteyebileceği belirtilir.",
+          "starts": "Ağustos"
+        }
+      ],
+      "note": "Eerde, AB dışından gelen öğrenciler için Hollanda öğrenim vizesinde resmî sponsor (referent) kurumdur. Yatılılık sayfası vize sponsorluğunun (Pre-)IB programına katılan öğrenciler için geçerli olduğunu belirtir; IMYC veya HSD için vize uygunluğu danışmanınızla teyit edilmelidir."
+    },
+    "facilities": [
+      "Ommen (Overijssel) dışında sakin ormanlık malikânede 1715 tarihli hendekli şato",
+      "Yatılı binalara 30 saniye yürüyüş mesafesinde, 2011’de eklenen modern eğimli çatılı cam okul binası",
+      "Hafta içi akşam gözetimli etütler için şato kütüphanesi ve ev yapımı taze yemeklerin sunulduğu şato bodrum bistrosu",
+      "Güney cepheli cam duvarlı, 19. yüzyıl sonundan kalma Orangery sanat ve tasarım atölyesi",
+      "Kampüs içi kapalı spor salonu ve fitness alanı; çevrede yürüyüş, bisiklet ve kamp için orman parkurları",
+      "Ortak oturma odaları, mutfak ve çamaşırhaneye sahip iki yatılı bina (kızlar için oda içi duşlu doğu kanadı, erkekler için batı kanadı)",
+      "Galaxy International Stables (2 km), H&H Stables (5 km) ve De Hazelhorst ile binicilik ortaklıkları; yarışma düzeyinde antrenörlük ve kendi atını getirme imkânı"
+    ],
+    "highlights": [
+      "Hollanda’da tam (7 gün), esnek (5 gün) yatılılık ve gündüzlü eğitimi tek kampüste sunan tek uluslararası okul",
+      "Overijssel’de 1715 tarihli hendekli şato arazisinde; Amsterdam’a yaklaşık 2 saat, Almanya sınırına 70 km mesafede",
+      "Samimi ve küçük topluluk: yaklaşık 110 öğrenci (yaklaşık 85 yatılı), 25+ uyruk (öğrenci ve personel) ve 10–15 kişilik sınıflar",
+      "CIS ve MSA akreditasyonlu ortaöğretim yolları: IMYC, Pre-IB Year, IB Diploma Programme ve Eerde High School Diploma",
+      "2017’den beri Amsterdam Rijksmuseum’un resmî eğitim ortağı; ayrıca esnek sporcu programıyla üst düzey binicilik eğitimi"
+    ],
+    "images": {
+      "hero": {
+        "alt": "Ommen’deki ormanlık malikânede hendek ve taş köprü üzerinden 1715 tarihli Eerde Şatosu"
+      },
+      "card": {
+        "alt": "Hollanda Ommen’de Eerde Şatosu ve malikâne kanatları"
+      },
+      "about": [
+        {
+          "alt": "Eerde ormanlarının kıyısındaki modern eğimli çatılı cam okul binası"
+        },
+        {
+          "alt": "Eerde’de aydınlık bir sınıfta dizüstü bilgisayarlarla çalışan öğrenciler"
+        }
+      ],
+      "boarding": [
+        {
+          "alt": "Şato hendeğine bakan sarmaşık kaplı tuğla yatılı bina kanadı"
+        },
+        {
+          "alt": "Yatılı bina odasındaki çalışma masalarında ders çalışan öğrenciler"
+        }
+      ],
+      "facilities": [
+        {
+          "alt": "Şatonun tonozlu bodrum bistrosunda birlikte yemek yiyen öğrenciler"
+        },
+        {
+          "alt": "Kampüsteki ahşap tavanlı kapalı spor salonu ve basketbol sahası"
+        }
+      ],
+      "credit": "Fotoğraflar: © Eerde International Boarding School"
+    },
+    "review_flags": [
+      "Yayımlanan ücretler 2025/26 akademik yılına aittir (1 Ağustos 2025 öncesi peşin ödemeyi esas alır); 2026/27 ücretleri okul sitesinde henüz yayımlanmamıştır ve teyit edilmelidir.",
+      "Ücretler EUR cinsindendir; katalog sıralamasının EUR ile GBP’yi doğrudan karşılaştırmaması için fees.annual boş bırakıldı.",
+      "Ücret tablosunda “Cambridge IGCSE”, iki sayfada ise kısaca “IBCP” geçmektedir; ancak site menüsünde ayrı IGCSE, 9. sınıf veya IBCP sayfası yoktur (IMYC 6–8, Pre-IB 10, HSD/IBDP 11–12. sınıflar). Güncel sunum teyit edilmelidir.",
+      "Yatılılık sayfası AB dışı öğrenim vizesi sponsorluğunun “(pre)-IB programı” öğrencileri için geçerli olduğunu belirtir; IMYC ve HSD öğrencilerinin vize uygunluğu teyit edilmelidir.",
+      "Tüm okul yaş aralıkları sayfalar arasında küçük farklar gösterir (Misyon 4–19, Akademik İlkokul 6–11 / Ortaöğretim 11–19, Yatılılık 12–19). Katalog yatılılık yaşı 12–19’u, sınıf seviyeleri ise ortaöğretim 11–19’u gösterir.",
+      "Toplam öğrenci (110) ve yatılı öğrenci (85) sayıları tarihsizdir; “25+ uyruk” hem öğrencileri hem personeli kapsar; uluslararası öğrenci oranı ve IBDP sınav sonuçları yayımlanmamıştır.",
+      "Yatılı binalar Yaz, Sonbahar, Kış ve İlkbahar tatillerinde kapalıdır; tatil bakımı/vasilik ve kayıt iptali/iade koşulları (taranmayan harici Google Sites politika kılavuzunda olabilir) teyit edilmelidir.",
+      "Yedi fotoğraf okulun kendi web sitesinden alınmıştır; yayım izni doğrulanmamıştır."
+    ]
+  },
+  "institut-montana-zugerberg": {
+    "region": "Zug Kantonu",
+    "tagline": "Zug Gölü’ne bakan Zugerberg’de 100 yıllık köklü İsviçre uluslararası yatılı ve gündüzlü okulu; IB Diploma, Cambridge IGCSE, High School Diploma ve İsviçre Maturası.",
+    "summary": "1926 yılında Zug Gölü’ne bakan Alp eteklerindeki Zugerberg’de kurulan Institut Montana Zugerberg, Zug şehir merkezine 15 dakika (8 dakikalık füniküler bağlantısıyla), Zürih’e 45 dakika ve Zürih Havalimanı’na 1 saat mesafede karma bir İsviçre uluslararası gündüzlü ve yatılı okuludur. 55’ten fazla uyruktan yaklaşık 390 öğrenci, ortalama 10 kişilik küçük sınıflarda (4:1 öğrenci-öğretmen oranı) eğitim görür; yenilenmiş üç tarihi yatılı binada yaklaşık 120 yatılı öğrenci yaşar. İki dilli ilkokulun (1–6. sınıflar) yanı sıra ortaöğretim ve lisede İngilizce International School (Cambridge Lower Secondary, Cambridge IGCSE, 2022–2026’da %99 başarı oranlı IB Diploma Programme veya High School Diploma), Almanca veya iki dilli Swiss Gymnasium (2026’da %100 başarı oranlı İsviçre Maturası) ve İki Dilli Ortaokul sunulur. Kampüs yaşamı CIS akreditasyonu, yenilenen 1906 tarihli Chalet Suisse inovasyon merkezi, KiVa zorbalık karşıtı program akreditasyonu ve zengin dağ-göl sporlarıyla öne çıkar.",
+    "school_type": "Yatılı ve gündüzlü",
+    "gender": "Karma",
+    "year_groups": "6–12. sınıflar Uluslararası / 7–12. sınıflar İsviçre (tüm okul 1–12. sınıflar, 6–19 yaş; yatılılık 10 yaştan itibaren)",
+    "nationalities": "55+",
+    "boarding": {
+      "from_year": "10 yaş (5. sınıf)",
+      "notes": [
+        "24 farklı uyruktan yaklaşık 120 yatılı öğrenci, yenilenmiş üç tarihi binada kalır: Grosses Haus (büyük erkek öğrenciler), Haus Juventus (küçük erkek öğrenciler) ve Zug Gölü manzaralı Haus Felsenegg (kız öğrenciler).",
+        "Tam zamanlı yatılılık (5–12. sınıflar, 10 yaştan itibaren) iki kişilik oda, deneyimli yatılı ebeveynler, günde beş öğün yemek, hafta içi gözetimli etüt, kampüs içi kısa süreli sağlık bakımı, spor olanakları ve etkinlikleri kapsar.",
+        "Haftalık yatılılık ve esnek yatılılık (gündüzlü öğrencilerin talep üzerine hafta içi veya hafta sonu konaklaması) da sunulur; haftalık ve esnek yatılılık ücretleri talep üzerine paylaşılır.",
+        "Kampüsteki Care Team bünyesinde okul hemşiresi/revir (okul doktoru 10 dakika mesafede) ve gizli rehberlik danışmanları bulunur; Montana, İsviçre’de KiVa Zorbalık Karşıtı Program akreditasyonu alan ilk yatılı okuldur.",
+        "Okul, yatılı öğrencilere İsviçre öğrenim vizesi ve oturma izni (ayrıca aile ziyareti davet mektupları) konusunda destek verir; gündüzlü öğrenciler veya aile bireyleri için oturma izni desteği sağlanmaz."
+      ]
+    },
+    "qualifications": [
+      "IB Diploma",
+      "Cambridge IGCSE",
+      "High School Diploma",
+      "Swiss Matura (German / Bilingual)"
+    ],
+    "english_support": [
+      "International School’da CEFR B1 altındaki öğrenciler için yoğun İngilizce (EAL) destek programı",
+      "İki dilli ve İsviçre programlarında Cambridge English, Goethe-Institut Almanca ve DELF Fransızca hazırlık ve sertifikaları"
+    ],
+    "results": [
+      {
+        "label": "IB Diploma başarı oranı",
+        "value": "%99",
+        "year": "2022–2026"
+      },
+      {
+        "label": "İsviçre Matura başarı oranı",
+        "value": "%100",
+        "year": "2026"
+      }
+    ],
+    "fees": {
+      "academic_year": "Güncel (yıl belirtilmemiş)",
+      "headline": {
+        "label": "Yatılı okul başlangıç (5–12. sınıflar; CHF 72.800’e kadar)",
+        "alt": "Gündüzlü okul yıllık CHF 32.900–36.800 · Kayıt ücreti CHF 5.500"
+      },
+      "deposit": "İade edilebilir depozito: yatılı öğrenciler için CHF 5.000, gündüzlü öğrenciler için CHF 3.000 (ayrılışta kişisel hesapla mahsuplaşılır ve kalan bakiye iade edilir). Tek seferlik CHF 5.500 kabul ücreti sermaye katkısını da içerir.",
+      "includes": [
+        "Yatılılık ücreti: iki kişilik oda, gözetim, tam pansiyon (günde beş öğün), zorunlu dersler, gün içi ve hafta içi akşam etüt gözetimi, medya merkezi/internet/fotokopi, kısa süreli kampüs sağlık bakımı, etkinlik programı ve spor tesisleri",
+        "Gündüzlü ücreti: zorunlu dersler, okul saatlerinde etüt gözetimi, medya merkezi/internet/fotokopi ve öğünler (kakao molası, öğle yemeği ve çay molası)"
+      ],
+      "tiers": [
+        {
+          "label": "Yıllık eğitim ve yatılılık ücretleri (CHF)",
+          "columns": [
+            "Kategori",
+            "Sınıf aralığı",
+            "Yıllık ücret (CHF)"
+          ],
+          "rows": [
+            [
+              "Yatılı okul (tam zamanlı)",
+              "5–12. sınıflar (10 yaştan itibaren)",
+              "CHF 70.400 – 72.800"
+            ],
+            [
+              "Gündüzlü okul",
+              "1–12. sınıflar",
+              "CHF 32.900 – 36.800"
+            ],
+            [
+              "Haftalık / Esnek yatılılık",
+              "Talep üzerine (hafta içi veya hafta sonu)",
+              "Talep üzerine"
+            ]
+          ],
+          "note": "Okulun ücret sayfası akademik yıl veya sınıf bazlı kırılım belirtmeden genel yıllık aralıklar yayımlar. Öğrencinin sınıfı ve programı için kesin 2026/27 ücretlerini danışmanınızla teyit edin."
+        },
+        {
+          "label": "Tek seferlik kayıt ücretleri ve depozitolar (CHF)",
+          "columns": [
+            "Kalem",
+            "Tutar",
+            "Detaylar"
+          ],
+          "rows": [
+            [
+              "Kabul ücreti (tek seferlik)",
+              5500,
+              "Sermaye katkısı dahildir"
+            ],
+            [
+              "Yatılılık depozitosu (tek seferlik)",
+              5000,
+              "Çoğu durumda ayrılışta kişisel hesapla mahsuplaşarak iade edilir"
+            ],
+            [
+              "Gündüzlü depozitosu (tek seferlik)",
+              3000,
+              "Çoğu durumda ayrılışta kişisel hesapla mahsuplaşarak iade edilir"
+            ]
+          ],
+          "note": "Bireysel dil (EAL) veya öğrenme desteği kabul sonrası ayrıca değerlendirilip ücretlendirilir. İsteğe bağlı Montana Basketball Academy (U8/U10 yıllık CHF 3.000; U12/U14 yıllık CHF 4.000) ayrı faturalandırılır."
+        }
+      ],
+      "notes": [
+        "Yayımlanan tutarlar genel aralıklardır ve akademik yıl belirtilmemiştir; başvuru öncesi kesin 2026/27 sınıf bazlı ücretler teyit edilmelidir.",
+        "Olası ek maliyetler, öğrenciye önerilebilecek bireysel dil (EAL) veya öğrenme desteği değerlendirildikten sonra hesaplanır.",
+        "Haftalık ve esnek yatılılık ücretleri talep üzerine paylaşılır.",
+        "Kişisel hesap ve depozito öğrenci okuldan ayrıldığında kapatılır ve kalan bakiye velilere iade edilir."
+      ],
+      "payment": "Eğitim ücretleri her dönemin başında iki taksit halinde faturalandırılır."
+    },
+    "admissions": {
+      "intake": "Yıl boyunca sürekli kabul (rolling admissions) uygulanır; dönem başında başlanması önerilir.",
+      "assessments": [
+        "CAT4 Bilişsel Yetenek Testi",
+        "Dil seviye belirleme sınavları (programa göre İngilizce ve/veya Almanca)",
+        "Kabul Ekibi ve Program Başkanlarıyla mülakat (isteğe bağlı ücretsiz deneme günüyle yüz yüze veya çevrimiçi)"
+      ],
+      "documents": [
+        "K12 Onboard üzerinden iletilen ön kayıt ve başvuru formu",
+        "Akademik geçmiş, güncel okul karneleri ve transkriptler",
+        "Geçerli durumlarda dil sertifikaları (International School 9. sınıf için en az CEFR B1 İngilizce; İsviçre programları için Goethe-Institut Almanca / DELF Fransızca)"
+      ],
+      "steps": [
+        "İsviçre ve uluslararası programları, yatılılık seçeneklerini ve güncel ücretleri karşılaştırmak için K12 Onboard ile iletişime geçin.",
+        "K12 Onboard aracılığıyla yüz yüze kampüs ziyareti (ücretsiz deneme günü dahil) veya çevrimiçi görüşme planlayın.",
+        "CAT4 bilişsel yetenek testini, dil seviye sınavlarını ve Program Başkanı ile kısa mülakatı tamamlayın.",
+        "Kabul Ekibi ve Program Başkanları başvuruyu değerlendirip en uygun programı ve olası dil/öğrenme desteğini önerir.",
+        "Sınıf yerleşimi ve bireysel destek planını içeren kabul mektubunu alın (teklif iki hafta geçerlidir).",
+        "Kaydı onaylayın, son belgeleri iletin ve yatılı öğrenciler için İsviçre öğrenim vizesi ile oturma izni sürecini tamamlayın."
+      ],
+      "entry_routes": [
+        {
+          "year": "6–8. sınıflar (11–14 yaş)",
+          "programme": "Cambridge Lower Secondary (CLSP)",
+          "requirement": "İngilizce eğitim; CEFR B1 altındaki öğrenciler için yoğun EAL desteği sunulur. Cambridge IGCSE’ye hazırlar.",
+          "starts": "Sürekli kabul (dönem başı önerilir)"
+        },
+        {
+          "year": "9–10. sınıflar (14–16 yaş)",
+          "programme": "Cambridge IGCSE",
+          "requirement": "9. sınıfta en az CEFR B1 İngilizce, CAT4 yetenek testi ve dil seviye değerlendirmesi.",
+          "starts": "Sürekli kabul (dönem başı önerilir)"
+        },
+        {
+          "year": "11–12. sınıflar (16–19 yaş)",
+          "programme": "IB Diploma Programme (IBDP) / High School Diploma",
+          "requirement": "İngilizce eğitim ve akademik değerlendirme; %99 IB Diploma başarı oranı (2022–2026). High School Diploma, IB ve Montana derslerini birleştirir; ABD, Kanada ve seçili Avrupa özel üniversitelerinde tanınır.",
+          "starts": "Sürekli kabul (dönem başı önerilir)"
+        },
+        {
+          "year": "7–12. sınıflar (12–19 yaş)",
+          "programme": "Swiss Gymnasium (German or Bilingual Matura)",
+          "requirement": "Uzun dönem giriş 12/13 yaş (kısa dönem 14/15 yaş); Zug Kantonu koşulları Almanca B2, İngilizce B1, Fransızca A2 (8–9. sınıflar) ve 5,2 not ortalaması içerir (Matura için ana dil düzeyinde Almanca gerekir). ETH Zürich, EPFL ve HSG dahil tüm İsviçre üniversitelerine doğrudan geçiş sağlar (2026’da %100 başarı).",
+          "starts": "Sürekli kabul (dönem başı önerilir)"
+        },
+        {
+          "year": "7–9. sınıflar (12–15 yaş)",
+          "programme": "Bilingual Secondary School (Swiss Lehrplan 21)",
+          "requirement": "Almanca ve İngilizce (en az B1) ile Fransızca; Swiss Gymnasium, International School veya mesleki yollara geçiş sağlayan İsviçre Ortaokul Sertifikası verir.",
+          "starts": "Sürekli kabul (dönem başı önerilir)"
+        }
+      ],
+      "note": "Institut Montana, yatılı öğrencilere İsviçre öğrenim vizesi ve oturma izni (ayrıca aile ziyareti davet mektupları) konusunda destek olur; gündüzlü öğrenciler veya aile bireyleri için İsviçre oturma izni desteği veremez. 2022–2025 üniversite kabulleri arasında ETH Zürich, St. Gallen Üniversitesi, EHL, Imperial College London, UCL, NYU, Michigan Üniversitesi, McGill ve Toronto Üniversitesi yer alır."
+    },
+    "facilities": [
+      "Zug Gölü’ne bakan, 8 dakikalık Zugerbergbahn füniküleriyle Zug’a bağlanan Alp eteklerindeki Zugerberg kampüsü",
+      "3D yazıcılar, robotik, VR/CAD, multimedya stüdyoları, fotoğraf laboratuvarı, sanat atölyesi ve yoga alanı içeren yenilenmiş 1906 Expo Chalet Suisse inovasyon merkezi",
+      "Ortak salonlar, öğrenci mutfakları, Blue Room dinlenme alanı ve Sunset Grill terasına sahip üç yenilenmiş tarihi yatılı bina (Grosses Haus, Haus Juventus, Haus Felsenegg)",
+      "Haus Felsenegg içinde kütüphane ve medya merkezi, sanat odası, fitness alanı ve konferans/etkinlik salonu (Aula)",
+      "Doğal çim spor sahası, toprak tenis kortları, plaj voleybolu ve basketbol sahaları (Montana Bulls Arena dahil), iniş dağ bisikleti parkuru ve Zug Gölü’nde yüzme/kürek",
+      "Yatılı öğrencilere günde beş öğün (yerel Zugerberg ürünleriyle) sunan yemek salonu ve okul hemşiresinin bulunduğu kampüs reviri",
+      "Kışın kayak merkezi hafta sonları, buz hokeyi, MUN, Tiyatro, Koro, Girişimcilik Kulübü ve Montana Basketball Academy dahil 50’den fazla ders dışı etkinlik"
+    ],
+    "highlights": [
+      "1926’da kurulan (2026’da 100. yıl) ve Zug Gölü’ne bakan Zugerberg kampüsü; Zürih Havalimanı’na 1 saat mesafede",
+      "Tek çatı altında dört akademik yol: International School (CLSP, IGCSE, IBDP, High School Diploma), Almanca/İki Dilli Swiss Gymnasium (Matura), İki Dilli Ortaokul ve İki Dilli İlkokul",
+      "Güçlü yayımlanan sonuçlar: %99 IB Diploma başarı oranı (2022–2026) ve %100 İsviçre Matura başarı oranı (2026)",
+      "Yaklaşık 390 öğrenci (~120 yatılı), 55+ uyruk, ortalama 10 kişilik sınıflar ve 4:1 öğrenci-öğretmen oranı",
+      "CIS akreditasyonlu, 1987’den beri IB World School, Swiss Learning üyesi ve İsviçre’de KiVa Zorbalık Karşıtı Program akreditasyonuna sahip ilk yatılı okul"
+    ],
+    "images": {
+      "hero": {
+        "alt": "Institut Montana Zugerberg kampüsü, spor sahaları ve aşağıda Zug Gölü’nün havadan görünümü"
+      },
+      "card": {
+        "alt": "İsviçre’de Zug Gölü’ne bakan Institut Montana Zugerberg kampüsü"
+      },
+      "about": [
+        {
+          "alt": "Zugerberg kampüs seyir noktasından Zug Gölü’nü izleyen öğrenciler"
+        },
+        {
+          "alt": "Institut Montana kampüs kütüphanesinde birlikte çalışan öğrenciler"
+        }
+      ],
+      "boarding": [
+        {
+          "alt": "Yeşil spor sahasına bakan Haus Juventus ve Grosses Haus yatılı binaları"
+        },
+        {
+          "alt": "Haus Felsenegg’de Zug Gölü manzaralı aydınlık kız yatılı ortak salonu"
+        }
+      ],
+      "facilities": [
+        {
+          "alt": "İnovasyon ve ders dışı etkinlik merkezi olarak yenilenen 1906 tarihli Chalet Suisse"
+        },
+        {
+          "alt": "Zugerberg yamacında kız yatılı bölümü, kütüphane, sanat atölyesi ve Aula’yı barındıran Haus Felsenegg"
+        }
+      ],
+      "credit": "Fotoğraflar: © Institut Montana Zugerberg"
+    },
+    "review_flags": [
+      "Ücret sayfası akademik yıl veya sınıf bazlı kırılım belirtmeden yıllık aralıklar yayımlar (yatılı CHF 70.400–72.800; gündüzlü CHF 32.900–36.800); haftalık ve esnek yatılılık talep üzerinedir. Kesin 2026/27 sınıf ücretleri teyit edilmelidir.",
+      "Ücretler CHF cinsindendir; katalog sıralamasının CHF ile GBP’yi doğrudan karşılaştırmaması için fees.annual boş bırakıldı.",
+      "Toplam öğrenci sayısı ana sayfa/Hakkımızda bölümlerinde 390, SSS bölümünde “yaklaşık 380” olarak geçer (390 kullanıldı). Uluslararası öğrenci oranı yayımlanmamıştır.",
+      "IB Diploma başarı oranı (%99, 2022–2026) ve İsviçre Matura başarı oranı (%100, 2026) yayımlanmıştır; ancak IB ortalama puanı ve IGCSE sonuçları incelenen sayfalarda yer almamaktadır.",
+      "Yatılılık tatil kapanış tarihleri, tek kişilik oda müsaitliği/farkı, kişisel hesap avansı ve kayıt iptali bildirim kuralları (taranmayan 26-27 School Handbook ve Boarding Guidelines PDF’lerinde olabilir) teyit edilmelidir.",
+      "Yedi fotoğraf okulun kendi web sitesinden alınmıştır; yayım izni doğrulanmamıştır."
+    ]
   }
 }

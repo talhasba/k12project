@@ -2699,5 +2699,547 @@
       },
       "credit": "Photos: © Delta School District"
     }
+  },
+  {
+    "id": "eerde-international-boarding-school",
+    "status": "needs_review",
+    "sample": false,
+    "name": "Eerde International Boarding School",
+    "short_name": "Eerde IBS",
+    "country": "Netherlands",
+    "city": "Ommen",
+    "region": "Overijssel",
+    "tagline": "The only international boarding school in the Netherlands, set in a 1715 moated castle estate offering IB Diploma, Pre-IB and High School Diploma.",
+    "summary": "Founded as an international school in 1934 on a secluded wooded country estate outside Ommen in the eastern Netherlands, Eerde International Boarding School is the only international school in the country offering full (7-day), flexible (5-day) and day schooling on one campus. Around 110 students (about 85 boarders) learn in small classes of 10–15 across 25+ nationalities (students and staff). Alongside its primary section, the secondary school (ages 11–19; boarding from age 12) offers the International Middle Years Curriculum (IMYC) with Cambridge Lower Secondary, a one-year Pre-IB Year, the IB Diploma Programme (IBDP) and the CIS/MSA-accredited Eerde High School Diploma. Campus life centres on the 1715 castle, a modern sloping-roof school building added in 2011, an official Rijksmuseum partnership and competitive equestrian programmes with neighbouring stables.",
+    "school_type": "Boarding and day",
+    "gender": "Co-educational",
+    "age_min": 12,
+    "age_max": 19,
+    "year_groups": "Grades 6–12 (Secondary ages 11–19; boarding ages 12–19)",
+    "students_total": 110,
+    "nationalities": "25+ (students and staff)",
+    "international_share_percent": null,
+    "founded": "1934",
+    "boarding": {
+      "available": true,
+      "types": [
+        "Full-time",
+        "Flexible"
+      ],
+      "from_year": "Age 12 (Secondary)",
+      "day_option": true,
+      "notes": [
+        "Full boarding (7 days/week, 24/7) is open to secondary students aged 12–19; flexible boarding covers 4–5 weekdays (students leave Friday afternoon and return Sunday evening or Monday morning). Boarding requires full-time enrolment at Eerde.",
+        "Two classical boarding houses sit on the castle grounds, a short walk from the school building: east wing for girls (with en-suite showers) and west wing for boys, each with shared lounges, kitchens and laundry facilities.",
+        "Most students share a twin room matched by age and gender; single rooms are available on request and subject to availability at a higher fee (€50,100/year for full boarding).",
+        "Boarding parents act as 24/7 life coaches, and weekday evening study sessions are supervised in the castle library or Learning Enrichment Centre.",
+        "Boarding rooms are closed during Summer, Autumn, Winter and Spring school holidays; confirm holiday care and guardianship arrangements with your adviser.",
+        "Day students can book occasional overnight boarding stays (€135/night, dinner and breakfast included) subject to availability."
+      ]
+    },
+    "qualifications": [
+      "IB Diploma",
+      "Pre-IB",
+      "Eerde High School Diploma",
+      "IMYC"
+    ],
+    "english_support": [
+      "Pre-IB Year (one-year bridge strengthening English and core subjects for IBDP entry, from IELTS 4.0 or equivalent)",
+      "Learning Enrichment Centre (intensive English and study-skills coaching; extra English lessons are charged separately)"
+    ],
+    "results": [],
+    "fees": {
+      "currency": "EUR",
+      "academic_year": "2025/26",
+      "per_term": null,
+      "terms_per_year": null,
+      "registration_fee": 3650,
+      "headline": {
+        "amount": 60000,
+        "unit": "year",
+        "label": "High School tuition + full boarding (shared room, 2025/26)",
+        "alt": "Day tuition €26,400/yr · Flexible boarding + tuition €53,300/yr · Middle School from €22,800/yr"
+      },
+      "deposit": "€2,750 one-time refundable boarding deposit on first enrolment (reimbursed after satisfactory departure). The €3,650 secondary registration fee is non-refundable, due immediately on acceptance, and includes a Mac laptop.",
+      "includes": [
+        "Tuition: class teaching, supervised homework during timetabled hours, refreshments, lunch and media/ICT resources",
+        "Full boarding: shared room, meals, laundry, supervised evening homework, and weekday and weekend activities",
+        "Flexible boarding (4–5 weekdays): shared room, meals, laundry, supervised evening homework and weekday activities (excludes weekend activities)"
+      ],
+      "tiers": [
+        {
+          "label": "Secondary annual totals (tuition + boarding, 2025/26, EUR)",
+          "columns": [
+            "Programme",
+            "Day tuition",
+            "Tuition + Flexible boarding (shared)",
+            "Tuition + Full boarding (shared)",
+            "Tuition + Full boarding (single)"
+          ],
+          "rows": [
+            [
+              "High School (Pre-IB, HSD, IBDP)",
+              26400,
+              53300,
+              60000,
+              76500
+            ],
+            [
+              "Middle School (IMYC, Grades 6–8)",
+              22800,
+              49700,
+              56400,
+              72900
+            ]
+          ],
+          "note": "Combined totals add Eerde’s separately published 2025/26 annual tuition and boarding fees (full boarding shared €33,600; full boarding single €50,100 on request; flexible boarding shared €26,900). Boarding starts from age 12. Primary school day tuition (IPC) is published at €15,700/year with a €750 registration fee. 2026/27 fees are not yet published."
+        },
+        {
+          "label": "Published fee components & one-time charges (2025/26, EUR)",
+          "columns": [
+            "Item",
+            "Amount",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "High School tuition (Pre-IB, HSD, IBDP)",
+              26400,
+              "Full academic year; applies to full payment before 1 August 2025"
+            ],
+            [
+              "Middle School tuition (IMYC)",
+              22800,
+              "Full academic year; applies to full payment before 1 August 2025"
+            ],
+            [
+              "Full boarding (7 days, shared room)",
+              33600,
+              "Tuition not included; single room on request €50,100"
+            ],
+            [
+              "Flexible boarding (4–5 weekdays, shared room)",
+              26900,
+              "Tuition not included; excludes weekend activities"
+            ],
+            [
+              "Secondary registration fee (one-time)",
+              3650,
+              "Non-refundable, due on acceptance; includes a Mac laptop"
+            ],
+            [
+              "Boarding deposit (one-time)",
+              2750,
+              "Refundable on satisfactory departure"
+            ],
+            [
+              "Overnight boarding stay (day students)",
+              135,
+              "Per night on request; includes dinner and breakfast"
+            ]
+          ],
+          "note": "Examinations, assessments, extra English lessons, private/music tuition, additional learning support, educational visits, transport, insurance and personal expenses are charged separately."
+        }
+      ],
+      "notes": [
+        "Published figures are for Academic Year 2025/26 (2026/27 fees are not yet published on the school’s website; confirm current rates before applying).",
+        "Different fee structures apply for students enrolling mid-year.",
+        "Payment in 2 instalments is available with a 5% surcharge.",
+        "Tuition and boarding exclude examinations, assessments, extra English lessons, private tuition, educational trips, transport, insurance and personal expenses."
+      ],
+      "payment": "Full tuition and boarding fees are due at least one month before intake (published 2025/26 tuition rates reference full payment before 1 August 2025). Two-instalment payment carries a 5% surcharge. Students needing a Dutch study visa must pay 50% of total fees before the visa application begins."
+    },
+    "admissions": {
+      "intake": "Annual intake starts in August (academic year runs August to June); mid-year entry is considered with a tailored fee structure.",
+      "assessments": [
+        "Online iDAT placement test (Mathematics, English and critical thinking skills, completed from home)",
+        "Additional online English proficiency test (such as Duolingo) where requested",
+        "Virtual or in-person interview with the student and family (optional trial day on campus)"
+      ],
+      "documents": [
+        "Registration of Interest / application submitted through K12 Onboard",
+        "Recent school report cards and academic transcripts (requested early in the process)",
+        "Proof of English proficiency where required (IELTS 4.0+ or equivalent for Pre-IB; IELTS 6.0+ or equivalent for IBDP)",
+        "Current teacher recommendations (for IBDP entry)"
+      ],
+      "steps": [
+        "Contact K12 Onboard to check programme fit, boarding options and current fees, and arrange an initial consultation or virtual/in-person campus tour.",
+        "Submit the application and school report cards through K12 Onboard for document review.",
+        "Complete the family interview and the online iDAT placement test (plus an online English test if requested).",
+        "Receive the placement announcement and offer letter, then confirm the place by paying the non-refundable registration fee.",
+        "If a Dutch study visa is required, complete the visa sponsorship steps with Eerde (50% of total fees is due before filing; processing takes up to about 6 weeks).",
+        "Attend the pre-departure briefing, pay remaining fees at least one month before intake, and arrive for Orientation Week."
+      ],
+      "entry_routes": [
+        {
+          "year": "Grades 6–8 (Ages 11–14)",
+          "programme": "IMYC & Cambridge Lower Secondary",
+          "requirement": "Placement based on age, social-emotional readiness, school report cards and iDAT assessment.",
+          "starts": "August (mid-year on request)"
+        },
+        {
+          "year": "Grade 10 (Age 15+)",
+          "programme": "Pre-IB Year",
+          "requirement": "At least 15 years old during the academic year, completed Grade 9 (or equivalent), IELTS 4.0+ (or equivalent), satisfactory academic and disciplinary record.",
+          "starts": "August"
+        },
+        {
+          "year": "Grades 11–12 (Ages 16–19)",
+          "programme": "IB Diploma Programme (IBDP)",
+          "requirement": "6 IGCSE grades A*–C (or equivalent) including Mathematics and English/ESL, IELTS 6.0+ (or equivalent) for non-native speakers, teacher recommendations and strong ATL record (academic supervision available if criteria are not fully met).",
+          "starts": "August"
+        },
+        {
+          "year": "Grades 11–12 (Ages 16–19)",
+          "programme": "Eerde High School Diploma (HSD)",
+          "requirement": "Bespoke pathway combining IBDP courses (with IB Course Certificates) and Eerde courses across 4-year high school credit requirements (Grade 9–10 credits or Eerde Pre-IB accepted). CIS and MSA accredited; note some European public universities require the full IB Diploma.",
+          "starts": "August"
+        }
+      ],
+      "note": "Eerde is an official referent (sponsor) for Dutch study visas for non-EU students. The boarding page specifies visa sponsorship for students following the (Pre-)IB programme; confirm visa eligibility for IMYC or HSD with your adviser."
+    },
+    "facilities": [
+      "18th-century moated castle (built 1715) on a secluded wooded country estate outside Ommen, Overijssel",
+      "Modern sloping-roof glass school building (added 2011) a 30-second walk from the boarding houses",
+      "Castle library for weekday evening supervised study and castle basement bistro dining room serving fresh homemade meals",
+      "Late 19th-century south-facing glass Orangery art and design studio",
+      "On-campus indoor sports hall and gym, plus surrounding estate forest trails for hiking, biking and camping",
+      "Two boarding houses (separate east wing for girls with en-suite showers and west wing for boys) with shared lounges, kitchens and laundry rooms",
+      "Equestrian partnerships with Galaxy International Stables (2 km), H&H Stables (5 km) and De Hazelhorst, including competitive coaching and option to bring your own horse"
+    ],
+    "highlights": [
+      "The only international school in the Netherlands offering full (7-day), flexible (5-day) and day schooling on one campus",
+      "Set in a historic 1715 moated castle estate in Overijssel, about 2 hours from Amsterdam and 70 km from the German border",
+      "Small, close-knit community: around 110 students (about 85 boarders), 25+ nationalities (students and staff) and classes of 10–15",
+      "CIS- and MSA-accredited secondary pathways: IMYC, Pre-IB Year, IB Diploma Programme and the bespoke Eerde High School Diploma",
+      "Official educational partner of the Rijksmuseum in Amsterdam (since 2017) plus elite equestrian training with flexible student-athlete schedules"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/eerde-international-boarding-school/castle.jpg",
+        "alt": "Eerde Castle (1715) across the moat and stone bridge on the wooded estate in Ommen",
+        "position": "50% 45%"
+      },
+      "card": {
+        "src": "/images/eerde-international-boarding-school/castle.jpg",
+        "alt": "Eerde Castle and estate wings in Ommen, Netherlands",
+        "position": "50% 45%"
+      },
+      "about": [
+        {
+          "src": "/images/eerde-international-boarding-school/school-building.jpg",
+          "alt": "Modern sloping-roof glass school building beside the Eerde woodland",
+          "position": "50% 50%"
+        },
+        {
+          "src": "/images/eerde-international-boarding-school/classroom.jpg",
+          "alt": "Students working with laptops in a bright classroom at Eerde",
+          "position": "50% 50%"
+        }
+      ],
+      "boarding": [
+        {
+          "src": "/images/eerde-international-boarding-school/boarding-wing.jpg",
+          "alt": "Ivy-clad brick boarding house wing overlooking the castle moat",
+          "position": "50% 50%"
+        },
+        {
+          "src": "/images/eerde-international-boarding-school/boarding-study.jpg",
+          "alt": "Boarding students studying at desks in a boarding house room",
+          "position": "50% 30%"
+        }
+      ],
+      "facilities": [
+        {
+          "src": "/images/eerde-international-boarding-school/bistro.jpg",
+          "alt": "Students eating together in the vaulted castle basement bistro",
+          "position": "50% 50%"
+        },
+        {
+          "src": "/images/eerde-international-boarding-school/sports-hall.jpg",
+          "alt": "Timber-framed indoor sports hall and basketball court on campus",
+          "position": "50% 50%"
+        }
+      ],
+      "credit": "Photos: © Eerde International Boarding School"
+    },
+    "scraped": "2026-11-19",
+    "review_flags": [
+      "Published fees are for Academic Year 2025/26 (referencing full payment before 1 August 2025); 2026/27 fees are not yet published on the school’s website and must be confirmed.",
+      "Fees are in EUR with fees.annual left empty so catalogue fee sorting does not compare EUR directly against GBP.",
+      "The tuition table mentions “Cambridge IGCSE” and two pages mention “IBCP” in passing, yet no standalone IGCSE, Grade 9 or IBCP curriculum pages appear in the site navigation (IMYC covers Grades 6–8, Pre-IB Grade 10, HSD/IBDP Grades 11–12). Confirm active provision.",
+      "The boarding page states non-EU study visa sponsorship applies to students following the “(pre)-IB programme”; confirm visa eligibility for IMYC and HSD students.",
+      "Whole-school age ranges vary slightly across pages (4–19 on Mission, Primary 6–11 and Secondary 11–19 on Academics, boarding 12–19 on Boarding). Catalogue shows boarding ages 12–19 with Secondary ages 11–19 noted in year groups.",
+      "Student total (110) and boarding total (85) are undated; “25+ nationalities” explicitly includes both students and staff; international percentage and IBDP exam results are unpublished.",
+      "Boarding houses close during Summer, Autumn, Winter and Spring holidays; guardianship/holiday care and withdrawal/refund rules (likely in the unscraped Google Sites policy manual) need confirmation.",
+      "Seven photos come from the school’s own website; publication permission is unverified."
+    ]
+  },
+  {
+    "id": "institut-montana-zugerberg",
+    "status": "needs_review",
+    "sample": false,
+    "name": "Institut Montana Zugerberg",
+    "short_name": "Institut Montana",
+    "country": "Switzerland",
+    "city": "Zug",
+    "region": "Canton of Zug",
+    "tagline": "A century-old Swiss international boarding and day school overlooking Lake Zug, offering IB Diploma, Cambridge IGCSE, High School Diploma and the Swiss Matura.",
+    "summary": "Founded in 1926 on the pre-alpine Zugerberg mountain overlooking Lake Zug, Institut Montana Zugerberg is a co-educational Swiss international day and boarding school 15 minutes from Zug (connected by an 8-minute funicular), 45 minutes from Zurich and one hour from Zurich Airport. Around 390 students from 55+ nationalities learn in small classes averaging 10 students (4:1 student-to-teacher ratio), including around 120 boarders across three historic renovated houses. Alongside its Bilingual Primary School (Grades 1–6), secondary and high school pathways span the English-taught International School (Cambridge Lower Secondary, Cambridge IGCSE, IB Diploma Programme with a 99% pass rate in 2022–2026, or High School Diploma), the German or Bilingual Swiss Gymnasium leading to the Swiss Matura (100% pass rate in 2026), and the Bilingual Secondary School. Campus life combines CIS accreditation, the renovated 1906 Chalet Suisse innovation hub, KiVa anti-bullying accreditation and rich mountain and lake sports.",
+    "school_type": "Boarding and day",
+    "gender": "Co-educational",
+    "age_min": 10,
+    "age_max": 19,
+    "year_groups": "Grades 6–12 International / Grades 7–12 Swiss (whole school Grades 1–12, ages 6–19; boarding from age 10)",
+    "students_total": 390,
+    "nationalities": "55+",
+    "international_share_percent": null,
+    "founded": "1926",
+    "boarding": {
+      "available": true,
+      "types": [
+        "Full-time",
+        "Weekly",
+        "Flexible"
+      ],
+      "from_year": "Age 10 (Year 5)",
+      "day_option": true,
+      "notes": [
+        "Around 120 boarding students from 24 nationalities live in three renovated historic houses: Grosses Haus (older boys), Haus Juventus (younger boys) and Haus Felsenegg (girls, overlooking Lake Zug).",
+        "Full boarding (Years 5–12, from age 10) includes twin-room accommodation, experienced house parents, five meals a day, weekday supervised study time, short-term on-campus illness care, sports facilities and activities.",
+        "Weekly boarding and flexible boarding (day students staying for weeks or weekends on request) are also offered; exact weekly and flexi-boarding prices are quoted on request.",
+        "An on-campus Care Team provides an on-site school nurse/infirmary (school doctor 10 minutes away) and confidential counsellors; Montana is the first Swiss boarding school accredited by the KiVa Anti-Bullying Programme.",
+        "The school assists boarding students with Swiss study visas and residence permits (and family visit invitation letters); visa assistance is not provided for day students or family members."
+      ]
+    },
+    "qualifications": [
+      "IB Diploma",
+      "Cambridge IGCSE",
+      "High School Diploma",
+      "Swiss Matura (German / Bilingual)"
+    ],
+    "english_support": [
+      "Intensive English as an Additional Language (EAL) programme for International School students below CEFR B1",
+      "Cambridge English, Goethe-Institut German and DELF French preparation and certificates across bilingual and Swiss tracks"
+    ],
+    "results": [
+      {
+        "label": "IB Diploma pass rate",
+        "value": "99%",
+        "year": "2022–2026"
+      },
+      {
+        "label": "Swiss Matura pass rate",
+        "value": "100%",
+        "year": "2026"
+      }
+    ],
+    "fees": {
+      "currency": "CHF",
+      "academic_year": "Current (year unstated)",
+      "per_term": null,
+      "terms_per_year": null,
+      "registration_fee": 5500,
+      "headline": {
+        "amount": 70400,
+        "unit": "year",
+        "label": "Boarding school from (Years 5–12; up to CHF 72,800)",
+        "alt": "Day school CHF 32,900–36,800/yr · Admission fee CHF 5,500"
+      },
+      "deposit": "Refundable deposit: CHF 5,000 for boarding students, CHF 3,000 for day students (balanced with the personal account on departure, with remaining credit refunded). One-off admission fee CHF 5,500 includes the capital fee.",
+      "includes": [
+        "Boarding fees: twin-room accommodation, supervision, full board (five meals a day), mandatory class instruction, study hall and weekday study supervision, media centre/internet/copying, short-term on-campus illness care, activities programme and sports facilities",
+        "Day fees: mandatory class instruction, study hall supervision during the school day, media centre/internet/copying, and meals (cocoa break, lunch and tea break)"
+      ],
+      "tiers": [
+        {
+          "label": "Annual tuition & boarding fees (CHF)",
+          "columns": [
+            "Category",
+            "Year groups",
+            "Annual fee (CHF)"
+          ],
+          "rows": [
+            [
+              "Boarding school (full boarding)",
+              "Years 5–12 (from age 10)",
+              "CHF 70,400 – 72,800"
+            ],
+            [
+              "Day school",
+              "Years 1–12",
+              "CHF 32,900 – 36,800"
+            ],
+            [
+              "Weekly / Flexi-boarding",
+              "On request (weekdays or weekends)",
+              "Upon request"
+            ]
+          ],
+          "note": "The school’s fees page publishes general annual ranges without specifying an academic year or per-grade breakdown. Confirm exact 2026/27 fees for the student’s grade and track with your adviser."
+        },
+        {
+          "label": "One-off enrolment fees & deposits (CHF)",
+          "columns": [
+            "Fee",
+            "Amount",
+            "Details"
+          ],
+          "rows": [
+            [
+              "Admission fee (one-off)",
+              5500,
+              "Includes the capital fee"
+            ],
+            [
+              "Boarding deposit (one-off)",
+              5000,
+              "Refundable on departure in most cases, balanced with personal account"
+            ],
+            [
+              "Day deposit (one-off)",
+              3000,
+              "Refundable on departure in most cases, balanced with personal account"
+            ]
+          ],
+          "note": "Individually tailored language (EAL) or learning support is assessed separately after admission. Optional Montana Basketball Academy (U8/U10 CHF 3,000/yr; U12/U14 CHF 4,000/yr) is billed separately."
+        }
+      ],
+      "notes": [
+        "Published figures are general ranges and do not state an academic year; confirm exact 2026/27 grade-level fees before applying.",
+        "Full details of extra costs are calculated after assessing any recommended individual language (EAL) or learning support.",
+        "Weekly boarding and flexi-boarding rates are quoted on request.",
+        "The personal account and deposit are balanced when the student leaves, and remaining credit is refunded."
+      ],
+      "payment": "Tuition fees are charged in two instalments at the beginning of each semester."
+    },
+    "admissions": {
+      "intake": "Rolling admissions throughout the year; starting at the beginning of a semester is recommended.",
+      "assessments": [
+        "CAT4 Cognitive Ability Test",
+        "Language placement tests (English and/or German depending on pathway)",
+        "Interview with Admissions and Heads of Programmes (in person with an optional free trial day, or online)"
+      ],
+      "documents": [
+        "Inquiry and application submitted through K12 Onboard",
+        "Academic history, recent school reports and transcripts",
+        "Language certificates where applicable (e.g. CEFR B1+ English by Grade 9 for International School; Goethe-Institut German / DELF French for Swiss tracks)"
+      ],
+      "steps": [
+        "Contact K12 Onboard to compare the Swiss and international tracks, boarding options and current fees.",
+        "Arrange an in-person campus visit (including a free trial day) or a virtual meeting through K12 Onboard.",
+        "Complete the CAT4 cognitive ability test, language placement tests and a short interview with the Head of Programme.",
+        "Admissions and Heads of Programmes evaluate the application and recommend the track and any tailored language or learning support.",
+        "Receive the offer letter (valid for two weeks) stating class placement and individual support details.",
+        "Confirm enrolment, submit final documents and complete Swiss study visa and residence permit arrangements for boarding students."
+      ],
+      "entry_routes": [
+        {
+          "year": "Grades 6–8 (Ages 11–14)",
+          "programme": "Cambridge Lower Secondary (CLSP)",
+          "requirement": "English instruction; intensive EAL support available for students below CEFR B1. Prepares for Cambridge IGCSE.",
+          "starts": "Rolling (start of semester recommended)"
+        },
+        {
+          "year": "Grades 9–10 (Ages 14–16)",
+          "programme": "Cambridge IGCSE",
+          "requirement": "Minimum CEFR B1 English by Grade 9, CAT4 ability test and language placement assessment.",
+          "starts": "Rolling (start of semester recommended)"
+        },
+        {
+          "year": "Grades 11–12 (Ages 16–19)",
+          "programme": "IB Diploma Programme (IBDP) / High School Diploma",
+          "requirement": "English instruction and academic evaluation; 99% IB Diploma pass rate (2022–2026). High School Diploma combines IB and Montana courses and is recognised widely in the US, Canada and selected private European universities.",
+          "starts": "Rolling (start of semester recommended)"
+        },
+        {
+          "year": "Grades 7–12 (Ages 12–19)",
+          "programme": "Swiss Gymnasium (German or Bilingual Matura)",
+          "requirement": "Long-term entry age 12/13 (short-term 14/15); Canton Zug criteria include German B2, English B1, French A2 (Grades 8–9) and GPA 5.2 (native-level German needed for final Matura). Grants direct access to Swiss universities including ETH Zurich, EPFL and HSG (100% pass rate 2026).",
+          "starts": "Rolling (start of semester recommended)"
+        },
+        {
+          "year": "Grades 7–9 (Ages 12–15)",
+          "programme": "Bilingual Secondary School (Swiss Lehrplan 21)",
+          "requirement": "German and English (minimum B1) plus French; leads to the Swiss Secondary School Certificate for Swiss Gymnasium, International School or vocational routes.",
+          "starts": "Rolling (start of semester recommended)"
+        }
+      ],
+      "note": "Institut Montana assists boarding students with Swiss study visas and residence permits (plus invitation letters for visiting family), but cannot assist day students or family members with Swiss residence permits. University destinations (2022–2025) include ETH Zurich, University of St. Gallen, EHL, Imperial College London, UCL, NYU, University of Michigan, McGill and University of Toronto."
+    },
+    "facilities": [
+      "Pre-alpine Zugerberg mountain campus overlooking Lake Zug, connected to Zug by an 8-minute funicular railway (Zugerbergbahn)",
+      "Renovated 1906 Expo Chalet Suisse 21st-century innovation hub with 3D printers, robotics, VR/CAD, multimedia studios, photography lab, art room and yoga studio",
+      "Three historic renovated boarding houses (Grosses Haus, Haus Juventus, Haus Felsenegg) with shared lounges, student kitchens, Blue Room recreation space and Sunset Grill terrace",
+      "Library and media centre, art room, fitness area and Aula event/conference hall in Haus Felsenegg",
+      "Natural grass sports field, clay tennis courts, beach volleyball and basketball courts (including Montana Bulls Arena), downhill mountain bike trail and Lake Zug swimming/rowing",
+      "Dining hall serving five daily meals for boarders (locally sourced Zugerberg produce) and on-site infirmary staffed by a school nurse",
+      "50+ co-curricular activities including winter ski-resort weekends, ice hockey, MUN, Drama, Choir, Entrepreneurship Club and Montana Basketball Academy"
+    ],
+    "highlights": [
+      "Founded in 1926 (100th anniversary in 2026) on the Zugerberg mountain overlooking Lake Zug, 1 hour from Zurich Airport",
+      "Four academic tracks under one roof: International School (CLSP, IGCSE, IBDP, High School Diploma), German/Bilingual Swiss Gymnasium (Matura), Bilingual Secondary and Bilingual Primary",
+      "Strong published outcomes: 99% IB Diploma pass rate (2022–2026) and 100% Swiss Matura pass rate (2026)",
+      "Close-knit community of ~390 students (~120 boarders), 55+ nationalities, average class size 10 and 4:1 student-to-teacher ratio",
+      "CIS accredited, IB World School since 1987, Swiss Learning member and the first boarding school in Switzerland accredited by the KiVa Anti-Bullying Programme"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/institut-montana-zugerberg/campus-aerial.jpg",
+        "alt": "Aerial view of Institut Montana Zugerberg campus, playing fields and Lake Zug below",
+        "position": "50% 55%"
+      },
+      "card": {
+        "src": "/images/institut-montana-zugerberg/campus-aerial.jpg",
+        "alt": "Institut Montana Zugerberg campus overlooking Lake Zug, Switzerland",
+        "position": "50% 55%"
+      },
+      "about": [
+        {
+          "src": "/images/institut-montana-zugerberg/lake-view.jpg",
+          "alt": "Students looking out over Lake Zug from the Zugerberg campus viewpoint",
+          "position": "50% 50%"
+        },
+        {
+          "src": "/images/institut-montana-zugerberg/library.jpg",
+          "alt": "Students collaborating on a project in the Institut Montana campus library",
+          "position": "50% 35%"
+        }
+      ],
+      "boarding": [
+        {
+          "src": "/images/institut-montana-zugerberg/haus-juventus.jpg",
+          "alt": "Haus Juventus and Grosses Haus boarding buildings overlooking the green playing field",
+          "position": "50% 50%"
+        },
+        {
+          "src": "/images/institut-montana-zugerberg/boarding-lounge.jpg",
+          "alt": "Sunlit girls’ boarding common room in Haus Felsenegg overlooking Lake Zug",
+          "position": "50% 50%"
+        }
+      ],
+      "facilities": [
+        {
+          "src": "/images/institut-montana-zugerberg/chalet-suisse.jpg",
+          "alt": "Historic 1906 Chalet Suisse, renovated as the innovation and co-curricular hub",
+          "position": "50% 50%"
+        },
+        {
+          "src": "/images/institut-montana-zugerberg/haus-felsenegg.jpg",
+          "alt": "Haus Felsenegg on the Zugerberg hillside housing girls’ boarding, library, art room and Aula",
+          "position": "50% 45%"
+        }
+      ],
+      "credit": "Photos: © Institut Montana Zugerberg"
+    },
+    "scraped": "2026-11-19",
+    "review_flags": [
+      "The tuition-fees page lists annual ranges (CHF 70,400–72,800 boarding; CHF 32,900–36,800 day) without stating an academic year or exact per-grade breakdown; weekly and flexi-boarding rates are on request only. Confirm exact 2026/27 fees by grade.",
+      "Fees are in CHF with fees.annual left empty so catalogue fee sorting does not compare CHF directly against GBP.",
+      "Total student count is stated as 390 on the homepage/About pages and “around 380” in the FAQ (390 used). International percentage is unpublished.",
+      "IB Diploma pass rate (99%, 2022–2026) and Swiss Matura pass rate (100%, 2026) are published, but IB average score and IGCSE results are not published on the reviewed pages.",
+      "Boarding holiday closure dates, single-room availability/surcharges, personal account advance amounts and withdrawal notice rules (likely in the unscraped 26-27 School Handbook and Boarding Guidelines PDFs) need confirmation.",
+      "Seven photos come from the school’s website; publication permission is unverified."
+    ]
   }
 ]
