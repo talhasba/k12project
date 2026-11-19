@@ -1882,12 +1882,26 @@
       "Taksit planları ve ödeme son tarihleri incelenen sayfalarda yayımlanmamıştır.",
       "Yaş aralığı, öğrenci sayısı, uluslararası öğrenci oranı, cinsiyet politikası ve sınav sonuçları yayımlanmadığı için boş bırakıldı.",
       "Toronto Üniversitesi’nden %100 kabul iddiası tarihsizdir; yerleştirme listeleri on iki yılı kapsıyor.",
-      "Fotoğraf eklenmedi: ana sayfa slayt görsellerinde yazı gömülü, diğer görsellerde adı belli öğrenciler var. Resmî fotoğraf veya basın kiti temin edilmeli.",
+      "İki fotoğraf (bina girişi, sınıf) okulun kendi sitesinden alındı; yayım izni doğrulanmadı. Ana sayfa slayt görsellerinde yazı gömülü, blog ve referans görsellerinde adı belli öğrenciler var; bunlar kullanılmadı.",
       "Kaynak sayfada TPP’nin CGW4U1 dersi fizik açıklaması taşıyor; ders içerikleri eklenmedi."
-    ]
+    ],
+    "images": {
+      "hero": {
+        "alt": "Toronto’daki Braemar College’ın College Street girişi"
+      },
+      "card": {
+        "alt": "Toronto’daki Braemar College binası"
+      },
+      "about": [
+        {
+          "alt": "Braemar College’da bir sınıftaki öğrenciler"
+        }
+      ],
+      "credit": "Fotoğraflar: © Braemar College"
+    }
   },
   "delta-school-district": {
-    "tagline": "Vancouver yakınında 8–12. sınıflar için yedi devlet ortaöğretim okulu; bölgenin kendi homestay ve vasilik programı. Gündüzlü okullar: yatakhane yoktur.",
+    "tagline": "Vancouver yakınında 8–12. sınıflar için yedi devlet ortaöğretim okulu (Burnsview, Delta, Delview, North Delta, Sands, Seaquam, South Delta); bölgenin kendi homestay ve vasilik programı. Gündüzlü okullar: yatakhane yoktur.",
     "summary": "Delta School District International Programs, uluslararası öğrencileri Tsawwassen, Ladner ve North Delta bölgelerindeki yedi devlet ortaöğretim okulundan birine yerleştirir; bu bölgeler Vancouver şehir merkezine ve havalimanına kısa bir mesafededir. Öğrenciler British Columbia müfredatını, BC öğretmenlik sertifikalı öğretmenlerden alır; İngilizce (ESL) eğitimi ücrete dahildir ve her okulda bir uluslararası koordinatör bulunur. Bazı okullarda Advanced Placement, International Baccalaureate ve Fransızca immersion seçenekleri vardır. Uluslararası öğrenciler normalde özel bir şirket değil, okul bölgesi personelinin yürüttüğü bölgenin kendi homestay programında kalır; program vasilik ve havalimanı karşılamayı da kapsar. Öğrenciler bölgeye başvurur ve okulu bölge, boyut ve ders düzenine göre seçer.",
     "school_type": "Devlet okul bölgesi",
     "year_groups": "8. sınıf – 12. sınıf (ortaöğretim okulları)",
@@ -2058,7 +2072,10 @@
           "Fransızca immersion 8–12",
           "Robotik"
         ],
-        "summary": "Yüksek akademik standartları ve güçlü öğrenci başarısıyla küçük bir okul. Fen bilimlerinden ve Robotik’ten Sanat ve Uygulamalı Beceri derslerine kadar geniş bir seçenek yelpazesi sunar; çok aktif öğrenci liderlik grupları, kulüpler ve spor takımları vardır; okul, bağlantı kurmaya ve kendini düzenleyen, akademik olarak ilgili öğrenciler yetiştirmeye odaklanır."
+        "summary": "Yüksek akademik standartları ve güçlü öğrenci başarısıyla küçük bir okul. Fen bilimlerinden ve Robotik’ten Sanat ve Uygulamalı Beceri derslerine kadar geniş bir seçenek yelpazesi sunar; çok aktif öğrenci liderlik grupları, kulüpler ve spor takımları vardır; okul, bağlantı kurmaya ve kendini düzenleyen, akademik olarak ilgili öğrenciler yetiştirmeye odaklanır.",
+        "image": {
+          "alt": "Burnsview Secondary School’in North Delta’daki ön girişi"
+        }
       },
       {
         "schedule": "8–9. sınıflar lineer; 10–12. sınıflar çoğunlukla dönem sistemi",
@@ -2066,7 +2083,10 @@
           "İngilizce 8–12",
           "Advanced Placement"
         ],
-        "summary": "Tarihî çiftçilik ve balıkçılık bölgesi Ladner’da yer alır; okul ve toplulukla paylaşılan sahne gösterileri için 400 kişilik Genesis Theatre burada bulunur. Programlar ve etkinlikler akademik dersleri, işletmeyi, mutfak sanatlarını, güzel ve sahne sanatlarını, uygulamalı tasarım ve beceri teknolojisini ve atletizmi kapsar; çok sayıda takım, kulüp ve ders vardır. Okul, öğrencilerinin yaklaşık %90’ının ana dilinin İngilizce olduğunu belirtir."
+        "summary": "Tarihî çiftçilik ve balıkçılık bölgesi Ladner’da yer alır; okul ve toplulukla paylaşılan sahne gösterileri için 400 kişilik Genesis Theatre burada bulunur. Programlar ve etkinlikler akademik dersleri, işletmeyi, mutfak sanatlarını, güzel ve sahne sanatlarını, uygulamalı tasarım ve beceri teknolojisini ve atletizmi kapsar; çok sayıda takım, kulüp ve ders vardır. Okul, öğrencilerinin yaklaşık %90’ının ana dilinin İngilizce olduğunu belirtir.",
+        "image": {
+          "alt": "Ladner’daki Delta Secondary School’un girişi"
+        }
       },
       {
         "schedule": "Dönem sistemi",
@@ -2075,7 +2095,10 @@
           "Raider Leadership dersi",
           "Delta Gençlik Danışma Kurulu (DYAC)"
         ],
-        "summary": "Bölgedeki en küçük ortaöğretim okulu; North Delta’nın merkezindedir. Kişisel yaklaşım ve bağ kurma, katılım, ruh sağlığı ve iyi oluşa odaklanan ilgili bir kadro sunar. Haftada dört gün 35 dakikalık esnek zaman, öğrencilerin öğretmenlerine ulaşmasına, ödevlerini tamamlamasına veya kendi projelerini sürdürmesine olanak verir. Olanaklar arasında büyük bir spor salonu, fitness merkezi, yenilenmiş bilgisayar laboratuvarları, medya sanatları odası ve marangoz atölyesi vardır; yakında bir toplum spor merkezi bulunur."
+        "summary": "Bölgedeki en küçük ortaöğretim okulu; North Delta’nın merkezindedir. Kişisel yaklaşım ve bağ kurma, katılım, ruh sağlığı ve iyi oluşa odaklanan ilgili bir kadro sunar. Haftada dört gün 35 dakikalık esnek zaman, öğrencilerin öğretmenlerine ulaşmasına, ödevlerini tamamlamasına veya kendi projelerini sürdürmesine olanak verir. Olanaklar arasında büyük bir spor salonu, fitness merkezi, yenilenmiş bilgisayar laboratuvarları, medya sanatları odası ve marangoz atölyesi vardır; yakında bir toplum spor merkezi bulunur.",
+        "image": {
+          "alt": "Delview Secondary School’in North Delta’daki ön girişi"
+        }
       },
       {
         "schedule": "Dönem sistemi",
@@ -2083,7 +2106,10 @@
           "İngilizce 8–12",
           "Atletizm programı"
         ],
-        "summary": "Daha kentsel bir bölgede, ağırlıklı olarak dönem sistemiyle çalışan, çeşitli, çok kültürlü ve kapsayıcı bir okul. Dönem sistemi, yıl ortasında gelen öğrencilere esneklik sağlar. Dersler Fen, Matematik, Sosyal Bilgiler, Dil ve Edebiyat, Beden Eğitimi, Uygulamalı Beceriler, Yabancı Diller ile Güzel ve Sahne Sanatları alanlarını kapsar; okul sonbahar, kış ve ilkbahar sezonlarındaki atletizm programıyla tanınır."
+        "summary": "Daha kentsel bir bölgede, ağırlıklı olarak dönem sistemiyle çalışan, çeşitli, çok kültürlü ve kapsayıcı bir okul. Dönem sistemi, yıl ortasında gelen öğrencilere esneklik sağlar. Dersler Fen, Matematik, Sosyal Bilgiler, Dil ve Edebiyat, Beden Eğitimi, Uygulamalı Beceriler, Yabancı Diller ile Güzel ve Sahne Sanatları alanlarını kapsar; okul sonbahar, kış ve ilkbahar sezonlarındaki atletizm programıyla tanınır.",
+        "image": {
+          "alt": "North Delta Secondary School’un ön cephesi"
+        }
       },
       {
         "schedule": "Dönem sistemi",
@@ -2093,7 +2119,10 @@
           "AP Psychology",
           "AP Art"
         ],
-        "summary": "North Delta’nın banliyö kesiminde, rahat ve samimi bir kampüse sahip küçük bir okul; öğrencilerle daha yakından ilgilenilir. Öğrenci liderlik grubu sosyal sorumluluğu ve küresel vizyonu teşvik eder (okulun sloganı: “Creating Our Future Today”). Haftada dört gün FLEX zamanı, öğrencilerin ek destek almasını sağlar; ders dışı seçenekler arasında atletizm, kulüpler, Öğrenci Konseyi ve Bölge Gençlik Danışma Kurulu bulunur."
+        "summary": "North Delta’nın banliyö kesiminde, rahat ve samimi bir kampüse sahip küçük bir okul; öğrencilerle daha yakından ilgilenilir. Öğrenci liderlik grubu sosyal sorumluluğu ve küresel vizyonu teşvik eder (okulun sloganı: “Creating Our Future Today”). Haftada dört gün FLEX zamanı, öğrencilerin ek destek almasını sağlar; ders dışı seçenekler arasında atletizm, kulüpler, Öğrenci Konseyi ve Bölge Gençlik Danışma Kurulu bulunur.",
+        "image": {
+          "alt": "Sands Secondary School’un Kanada bayraklı girişi"
+        }
       },
       {
         "schedule": "Lineer",
@@ -2103,7 +2132,10 @@
           "Güzel Sanatlar",
           "Kariyer programları"
         ],
-        "summary": "Güçlü bir akademik başarı geleneği vardır; mezunlar Kanada ve ABD’deki üniversitelerde burs kazanır. Seaquam, IB programının yanı sıra geniş bir Güzel Sanatlar ve Kariyer programı seçkisi, çok sayıda atletizm takımı, kulüp ve dış etkinlik sunar; okul North Delta’nın hoş bir semtindedir."
+        "summary": "Güçlü bir akademik başarı geleneği vardır; mezunlar Kanada ve ABD’deki üniversitelerde burs kazanır. Seaquam, IB programının yanı sıra geniş bir Güzel Sanatlar ve Kariyer programı seçkisi, çok sayıda atletizm takımı, kulüp ve dış etkinlik sunar; okul North Delta’nın hoş bir semtindedir.",
+        "image": {
+          "alt": "Seaquam Secondary School ana binası ve spor merkezi"
+        }
       },
       {
         "schedule": "Ağırlıklı lineer; bazı 12. sınıf akademik dersleri dönem sisteminde",
@@ -2116,7 +2148,10 @@
           "Film ve Televizyon Yapımı Akademisi",
           "Eğitim kafeteryası"
         ],
-        "summary": "Plajlara, golf sahalarına ve parklara yakın, küçük, güvenli ve aile odaklı Tsawwassen semtindedir. Öğrenciler tutarlı biçimde güçlü akademik sonuçlar alır. Okul AP, Fransızca immersion, akademik dersler, uygulamalı beceriler ve güzel sanatlar sunar; her yıl Broadway tarzı bir müzikal sahneleyen saygın bir Müzikal Tiyatro programı vardır. Okul, spor takımlarını (Sundevils) eyaletin en güçlüleri arasında gösterir; Öğrenci Konseyi, Interact ve kayak gibi kulüpler de bulunur."
+        "summary": "Plajlara, golf sahalarına ve parklara yakın, küçük, güvenli ve aile odaklı Tsawwassen semtindedir. Öğrenciler tutarlı biçimde güçlü akademik sonuçlar alır. Okul AP, Fransızca immersion, akademik dersler, uygulamalı beceriler ve güzel sanatlar sunar; her yıl Broadway tarzı bir müzikal sahneleyen saygın bir Müzikal Tiyatro programı vardır. Okul, spor takımlarını (Sundevils) eyaletin en güçlüleri arasında gösterir; Öğrenci Konseyi, Interact ve kayak gibi kulüpler de bulunur.",
+        "image": {
+          "alt": "Tsawwassen’daki South Delta Secondary School binası"
+        }
       }
     ],
     "district_schools_note": "Yedi okulun hepsi İngilizce (ESL) eğitimi, rehber öğretmenler ve bir uluslararası koordinatör sunan devlet ortaöğretim okuludur. Öğrenci sayıları yuvarlaktır ve kaynaklara göre değişir; güncel rakamlar ve ders düzeni okulla teyit edilmelidir. Öğrenciler okulu bölgeye, boyuta ve ders düzenine göre seçer.",
@@ -2127,7 +2162,7 @@
       "Her ortaöğretim okulunda özel, güncel kapalı ve açık alan olanakları"
     ],
     "highlights": [
-      "Tsawwassen, Ladner ve North Delta’da 8–12. sınıflar için yedi devlet ortaöğretim okulu",
+      "Tsawwassen, Ladner ve North Delta’da 8–12. sınıflar için yedi devlet ortaöğretim okulu: Burnsview, Delta, Delview, North Delta, Sands, Seaquam ve South Delta",
       "7/24 destekli, bölgenin kendi homestay ve vasilik programı",
       "Ücrete dahil İngilizce (ESL) eğitimi ve her okulda uluslararası koordinatör",
       "Advanced Placement, International Baccalaureate ve Fransızca immersion seçenekleri",
@@ -2139,8 +2174,17 @@
       "Ücret tablosu 2027–28 içindir (Şubat 2026’da güncellendi). Ev sahibi aile sayfası Eylül 2026’dan itibaren aylık $1.300 homestay ücreti yazarken, ücret tablosunda $1.350 yazıyor.",
       "Ücret tablosunda kısa dönem, mezuniyet veya yaz programları ile homestay kullanmayan öğrenciler için fiyat yok; hiçbiri eklenmedi.",
       "Yalnızca yedi ortaöğretim okulu (8–12. sınıflar) eklendi. İlkokullar (24 okul, Anaokulu – 7. sınıf), yaz programları ve Mezuniyet programı kapsam dışıdır.",
-      "Fotoğraf sağlanmadı veya indirilmedi. Bölge için yaş aralığı, öğrenci yapısı ve kuruluş yılı yayımlanmadığı için boş bırakıldı.",
+      "Yedi bina fotoğrafı bölgenin kendi Secondary Schools sayfasından alındı (yayım izni doğrulanmadı). Delta Secondary, bölgenin ana ve kart görseli olarak kullanıldı. Bölge için yaş aralığı, öğrenci yapısı ve kuruluş yılı yayımlanmadığı için boş bırakıldı.",
       "Ücretler Kanada dolarıdır ve çevrilmemiştir; bu nedenle ücrete göre sıralamada yıllık tutar boş bırakıldı."
-    ]
+    ],
+    "images": {
+      "hero": {
+        "alt": "Ladner’daki Delta Secondary School’un girişi"
+      },
+      "card": {
+        "alt": "Ladner’daki Delta Secondary School"
+      },
+      "credit": "Fotoğraflar: © Delta School District"
+    }
   }
 }

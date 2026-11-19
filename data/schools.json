@@ -2406,9 +2406,29 @@
       "Instalment plans and payment deadlines are not published on the reviewed pages.",
       "Age range, pupil numbers, international share, gender policy and exam results are unpublished and left empty.",
       "The 100% University of Toronto offer claim is undated; placement lists cover twelve years.",
-      "No photos imported: homepage slider images carry baked-in text and the other images show named students. Obtain official photos or a press kit.",
+      "Two photos (building entrance, classroom) come from the school’s own site; publication permission is not verified. The homepage slider images carry baked-in text and the blog and testimonial images show named students, so they were not used.",
       "The TPP course CGW4U1 carries a physics description on the source page; course content was not imported."
-    ]
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/braemar-college/campus.jpg",
+        "alt": "Entrance of Braemar College on College Street, Toronto",
+        "position": "50% 62%"
+      },
+      "card": {
+        "src": "/images/braemar-college/campus.jpg",
+        "alt": "Braemar College building, Toronto",
+        "position": "50% 62%"
+      },
+      "about": [
+        {
+          "src": "/images/braemar-college/classroom.jpg",
+          "alt": "Students in a Braemar College classroom",
+          "position": "50% 50%"
+        }
+      ],
+      "credit": "Photos: © Braemar College"
+    }
   },
   {
     "id": "delta-school-district",
@@ -2419,7 +2439,7 @@
     "country": "Canada",
     "city": "Delta",
     "region": "British Columbia",
-    "tagline": "Seven public secondary schools (grades 8–12) near Vancouver, with a district-run homestay and custodianship program. Day schools: no boarding.",
+    "tagline": "Seven public secondary schools for grades 8–12 near Vancouver (Burnsview, Delta, Delview, North Delta, Sands, Seaquam, South Delta), with a district-run homestay and custodianship program. Day schools: no boarding.",
     "summary": "Delta School District International Programs places international students in one of seven public secondary schools across the communities of Tsawwassen, Ladner and North Delta, a short drive from downtown Vancouver and its airport. Students follow the British Columbia curriculum taught by certified BC teachers, with ESL instruction included in tuition and an international coordinator at every school; Advanced Placement, International Baccalaureate and French Immersion options are available at some schools. International students normally live in the district’s own homestay program, run by school district staff rather than a private business, which also provides custodianship and airport pick-up. Students apply to the district and choose a school by community, size and timetable system.",
     "school_type": "Public school district",
     "gender": "",
@@ -2617,7 +2637,12 @@
           "French Immersion 8–12",
           "Robotics"
         ],
-        "summary": "A smaller school with high academic standards and strong student achievement. It keeps a wide range of options, from the sciences and Robotics to the Arts and Applied Skills, with very active student leadership groups, clubs and sports teams, and a focus on connectedness and on self-regulating, academically engaged students."
+        "summary": "A smaller school with high academic standards and strong student achievement. It keeps a wide range of options, from the sciences and Robotics to the Arts and Applied Skills, with very active student leadership groups, clubs and sports teams, and a focus on connectedness and on self-regulating, academically engaged students.",
+        "image": {
+          "src": "/images/delta-school-district/burnsview.jpg",
+          "alt": "Front entrance of Burnsview Secondary School in North Delta",
+          "position": "50% 85%"
+        }
       },
       {
         "name": "Delta Secondary School",
@@ -2629,7 +2654,12 @@
           "English 8–12",
           "Advanced Placement"
         ],
-        "summary": "In the historic farming and fishing community of Ladner, and home to the 400-seat Genesis Theatre for school and community performances. Programs and activities cover academics, business, culinary arts, fine and performing arts, applied design and skills technology, and athletics, with a wide range of teams, clubs and courses. The school says about 90% of its students speak English as a first language."
+        "summary": "In the historic farming and fishing community of Ladner, and home to the 400-seat Genesis Theatre for school and community performances. Programs and activities cover academics, business, culinary arts, fine and performing arts, applied design and skills technology, and athletics, with a wide range of teams, clubs and courses. The school says about 90% of its students speak English as a first language.",
+        "image": {
+          "src": "/images/delta-school-district/delta.jpg",
+          "alt": "Entrance of Delta Secondary School in Ladner",
+          "position": "50% 70%"
+        }
       },
       {
         "name": "Delview Secondary School",
@@ -2642,7 +2672,12 @@
           "Raider Leadership course",
           "Delta Youth Advisory Council (DYAC)"
         ],
-        "summary": "The smallest secondary school in the district, in the heart of North Delta, with a personal approach and a caring staff focused on connection, engagement and mental health and wellness. A 35-minute flex block four days a week lets students reach teachers, finish work or follow their own projects. Facilities include a large gymnasium, fitness centre, updated computer labs, a media arts room and a woodwork shop, with a community recreation centre nearby."
+        "summary": "The smallest secondary school in the district, in the heart of North Delta, with a personal approach and a caring staff focused on connection, engagement and mental health and wellness. A 35-minute flex block four days a week lets students reach teachers, finish work or follow their own projects. Facilities include a large gymnasium, fitness centre, updated computer labs, a media arts room and a woodwork shop, with a community recreation centre nearby.",
+        "image": {
+          "src": "/images/delta-school-district/delview.jpg",
+          "alt": "Front entrance of Delview Secondary School in North Delta",
+          "position": "50% 50%"
+        }
       },
       {
         "name": "North Delta Secondary School",
@@ -2654,7 +2689,12 @@
           "English 8–12",
           "Athletics program"
         ],
-        "summary": "A mainly semestered school in a more urban area, with a diverse, multicultural and inclusive community. The semester system gives flexibility to students who arrive mid-year. Courses span the Sciences, Mathematics, Social Studies, Language Arts, Physical Education, Applied Skills, Modern Languages and Fine and Performing Arts, and the school is well known for its athletics program across the fall, winter and spring seasons."
+        "summary": "A mainly semestered school in a more urban area, with a diverse, multicultural and inclusive community. The semester system gives flexibility to students who arrive mid-year. Courses span the Sciences, Mathematics, Social Studies, Language Arts, Physical Education, Applied Skills, Modern Languages and Fine and Performing Arts, and the school is well known for its athletics program across the fall, winter and spring seasons.",
+        "image": {
+          "src": "/images/delta-school-district/north-delta.jpg",
+          "alt": "Front of North Delta Secondary School",
+          "position": "50% 78%"
+        }
       },
       {
         "name": "Sands Secondary School",
@@ -2668,7 +2708,12 @@
           "AP Psychology",
           "AP Art"
         ],
-        "summary": "A small school in a suburban part of North Delta with a comfortable, intimate campus and more personal attention. Its student leadership body promotes social responsibility and a global vision (motto: “Creating Our Future Today”). FLEX time four days a week lets students choose extra support, and extra-curricular options include athletics, clubs, Student Council and the District Youth Advisory Council."
+        "summary": "A small school in a suburban part of North Delta with a comfortable, intimate campus and more personal attention. Its student leadership body promotes social responsibility and a global vision (motto: “Creating Our Future Today”). FLEX time four days a week lets students choose extra support, and extra-curricular options include athletics, clubs, Student Council and the District Youth Advisory Council.",
+        "image": {
+          "src": "/images/delta-school-district/sands.jpg",
+          "alt": "Entrance of Sands Secondary School with the Canadian flag",
+          "position": "50% 55%"
+        }
       },
       {
         "name": "Seaquam Secondary School",
@@ -2682,7 +2727,12 @@
           "Fine Arts",
           "Career programs"
         ],
-        "summary": "A strong tradition of academic excellence, with graduates winning scholarships and bursaries at universities across Canada and the United States. Seaquam offers the IB program, a wide selection of Fine Arts and Career programs, and many athletics teams, clubs and outside activities in a pleasant North Delta community."
+        "summary": "A strong tradition of academic excellence, with graduates winning scholarships and bursaries at universities across Canada and the United States. Seaquam offers the IB program, a wide selection of Fine Arts and Career programs, and many athletics teams, clubs and outside activities in a pleasant North Delta community.",
+        "image": {
+          "src": "/images/delta-school-district/seaquam.jpg",
+          "alt": "Seaquam Secondary School main building and athletic centre",
+          "position": "50% 40%"
+        }
       },
       {
         "name": "South Delta Secondary School",
@@ -2699,7 +2749,12 @@
           "Film and Television Production Academy",
           "Teaching cafeteria"
         ],
-        "summary": "In the small, safe, family community of Tsawwassen, close to beaches, golf courses and parks. Students show consistently strong academic results. The school offers AP, French Immersion, academics, applied skills and fine arts, a renowned Musical Theatre program that stages a Broadway-style musical each year, and sports teams (the Sundevils) that the school describes as among the strongest in the province, plus clubs including Student Council, Interact and downhill skiing."
+        "summary": "In the small, safe, family community of Tsawwassen, close to beaches, golf courses and parks. Students show consistently strong academic results. The school offers AP, French Immersion, academics, applied skills and fine arts, a renowned Musical Theatre program that stages a Broadway-style musical each year, and sports teams (the Sundevils) that the school describes as among the strongest in the province, plus clubs including Student Council, Interact and downhill skiing.",
+        "image": {
+          "src": "/images/delta-school-district/south-delta.jpg",
+          "alt": "South Delta Secondary School building in Tsawwassen",
+          "position": "50% 55%"
+        }
       }
     ],
     "district_schools_note": "All seven are public secondary schools offering ESL instruction, counsellors and an international coordinator. Populations are rounded and differ between sources; confirm current figures and the timetable with the school. Students choose a school by community, size and timetable system.",
@@ -2710,7 +2765,7 @@
       "Specialized, up-to-date indoor and outdoor facilities at every secondary school"
     ],
     "highlights": [
-      "Seven public secondary schools across Tsawwassen, Ladner and North Delta, grades 8–12",
+      "Seven public secondary schools, grades 8–12, across Tsawwassen, Ladner and North Delta: Burnsview, Delta, Delview, North Delta, Sands, Seaquam and South Delta",
       "District-run homestay and custodianship with 24-hour support",
       "ESL instruction included in tuition and an international coordinator at every school",
       "Advanced Placement, International Baccalaureate and French Immersion options",
@@ -2723,8 +2778,21 @@
       "The fee sheet is for 2027–28 (updated February 2026). The host-family page lists homestay at $1,300 per month from September 2026, against $1,350 on the fee sheet.",
       "The fee sheet has no price for short-term, graduation or summer programs, or for students not in homestay; none was imported.",
       "Only the seven secondary schools (grades 8–12) were imported. Elementary schools (24, Kindergarten to Grade 7), summer programs and the Graduation program are not covered.",
-      "No photos were supplied or downloaded. No age range, gender policy or founding date is published for the district; left empty.",
+      "Seven building photos come from the district’s own Secondary Schools page (publication permission not verified). Delta Secondary is used as the district hero and card image. No age range, gender policy or founding date is published for the district; left empty.",
       "Fees are in Canadian dollars with no conversion; fee sorting leaves the yearly figure empty for this reason."
-    ]
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/delta-school-district/delta.jpg",
+        "alt": "Entrance of Delta Secondary School in Ladner",
+        "position": "50% 70%"
+      },
+      "card": {
+        "src": "/images/delta-school-district/delta.jpg",
+        "alt": "Delta Secondary School in Ladner",
+        "position": "50% 70%"
+      },
+      "credit": "Photos: © Delta School District"
+    }
   }
 ]
