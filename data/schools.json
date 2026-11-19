@@ -1445,5 +1445,1286 @@
       "Pupil total and exact nationality count are unverified. One-third international is a target, not a measured share. A blog’s campus size conflicts with the 26 acres on the homepage.",
       "Confirm holiday boarding dates/costs and the precise guardian accreditation accepted by the school. Detailed GCSE science and IB CAS wording differs across sources."
     ]
+  },
+  {
+    "id": "mpw-london",
+    "status": "needs_review",
+    "sample": false,
+    "name": "MPW London",
+    "short_name": "MPW London",
+    "country": "United Kingdom",
+    "city": "London",
+    "region": "South Kensington",
+    "tagline": "GCSE, A Level and foundation study in South Kensington, with Queen’s Gate House boarding.",
+    "summary": "MPW London is an independent fifth- and sixth-form college with a flexible, exam-focused approach to GCSEs and A Levels. Personal support comes through the Director of Studies system and university application guidance. London also offers the MPW University Foundation Programme and the UAL Foundation Diploma in Art and Design. Queen’s Gate House provides full boarding a short walk from the main college.",
+    "school_type": "Boarding and day college",
+    "gender": "Co-educational",
+    "age_min": null,
+    "age_max": null,
+    "year_groups": "GCSE, Sixth Form, retakes and university foundation",
+    "students_total": null,
+    "nationalities": null,
+    "international_share_percent": null,
+    "founded": null,
+    "boarding": {
+      "available": true,
+      "types": [
+        "Full-time"
+      ],
+      "from_year": null,
+      "day_option": true,
+      "notes": [
+        "Queen’s Gate House offers full boarding in single en-suite bedrooms a few minutes’ walk from the main college. Boarding eligibility and costs must be confirmed for the individual student.",
+        "Resident boarding staff, controlled entry, meals, recreation spaces and an outdoor terrace are provided. Confirm holiday arrangements separately.",
+        "MPW requires international students to have a UK-based educational guardian: an English-speaking adult over 25, available around the clock and within two hours of the college. Confirm approval before appointment."
+      ]
+    },
+    "qualifications": [
+      "GCSE",
+      "A Level",
+      "University Foundation",
+      "UAL Foundation Diploma"
+    ],
+    "english_support": [
+      "English-language assessment during admissions; ongoing EFL support may be required",
+      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test.",
+      "Foundation programmes include or offer academic English support; requirements differ by programme."
+    ],
+    "results": [],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": null,
+      "terms_per_year": 3,
+      "registration_fee": null,
+      "headline": {
+        "amount": null,
+        "unit": "term",
+        "label": "International GCSE / A Level quote required",
+        "alt": "Published reference and foundation fees below"
+      },
+      "deposit": "Confirm the international registration fee, acceptance deposit and refund conditions in the offer.",
+      "includes": [],
+      "tiers": [
+        {
+          "label": "Published campus tuition reference — per term",
+          "columns": [
+            "Programme",
+            "Excluding VAT"
+          ],
+          "rows": [
+            [
+              "Full-time GCSE or A Level",
+              12325
+            ]
+          ],
+          "note": "2026/27 basic fee; 20% VAT is additional where applicable. If applied, this is £14,790 per term. Course mix affects the quote; boarding is not included."
+        },
+        {
+          "label": "MPW University Foundation — whole course",
+          "columns": [
+            "Programme",
+            "Including VAT"
+          ],
+          "rows": [
+            [
+              "Three terms",
+              36566
+            ],
+            [
+              "Two terms: Business and Economics only",
+              25584
+            ]
+          ],
+          "note": "Published for September 2026 / January 2027 starts. Tuition includes 20% VAT; accommodation is separate."
+        },
+        {
+          "label": "UAL Foundation Diploma — whole course",
+          "columns": [
+            "Programme",
+            "Including VAT"
+          ],
+          "rows": [
+            [
+              "Art and Design, three terms",
+              38314
+            ]
+          ],
+          "note": "The key-facts page includes 20% VAT but does not state an academic year. Confirm the rate for the intended intake."
+        }
+      ],
+      "notes": [
+        "An international GCSE/A Level headline price is not verified. Request a course-specific tuition quote and budget separately for accommodation.",
+        "Campus GCSE/A Level reference fees exclude VAT where applicable; foundation tables state VAT-inclusive tuition. These amounts are not interchangeable.",
+        "Confirm English support, examination charges, trips, guardianship and any accommodation supplements before accepting an offer."
+      ],
+      "payment": "Confirm payment dates and contractual terms in the individual offer."
+    },
+    "admissions": {
+      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability. Foundation starts are programme-specific.",
+      "assessments": [
+        "Interview and review of academic background",
+        "English assessment and/or a recognised English test for applicants without suitable prior English-medium study"
+      ],
+      "documents": [
+        "Application form",
+        "Certified English transcripts for the two most recent school years",
+        "English test results where required",
+        "Approved guardian details and completed consent documents before term starts"
+      ],
+      "steps": [
+        "Ask K12 Onboard to check the campus, course, accommodation and current international fees.",
+        "Submit academic records and complete the admissions interview and required assessments.",
+        "Review the offer, confirm fees and accommodation, and complete acceptance and guardianship arrangements."
+      ],
+      "entry_routes": [
+        {
+          "year": "GCSE",
+          "programme": "GCSE",
+          "requirement": "Academic record and interview; course-specific entry requirements. Published IELTS 5.5 for two-year study or 6.0 for one-year study, or equivalent.",
+          "starts": "Confirm course length and campus availability."
+        },
+        {
+          "year": "Sixth Form",
+          "programme": "A Level / retakes",
+          "requirement": "Academic record, interview and subject-specific suitability. Published IELTS 5.5 for two years or 6.0 for one year; confirm requirements for an 18-month route.",
+          "starts": "Normally September; January 18-month route subject to confirmation."
+        },
+        {
+          "year": "17+",
+          "programme": "MPW University Foundation Programme",
+          "requirement": "Normally age 17+; completed 11 or 12 years of schooling with good grades. IELTS 5.0/5.5 depends on pathway; confirm accepted test and required components. Applicants aged 16 may be considered individually.",
+          "starts": "September: three terms. January: two terms, Business and Economics only."
+        },
+        {
+          "year": "17+",
+          "programme": "UAL Foundation Diploma in Art and Design",
+          "requirement": "Age 17+; five GCSEs at grade 4+, including Maths and English, or the published international equivalent of 12 years of schooling with good grades and a strong report. IELTS 5.0 or equivalent.",
+          "starts": "One academic year / three terms; confirm intake."
+        }
+      ],
+      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course. Foundation class sizes can reach 14, unlike the smaller GCSE/A Level groups."
+    },
+    "facilities": [
+      "Science and computer laboratories",
+      "Art, photography, ceramics and textile studios",
+      "Drama, music and film facilities",
+      "Three libraries and study spaces",
+      "Queen’s Gate House restaurant, recreation areas and outdoor terrace"
+    ],
+    "highlights": [
+      "Personal academic guidance through the Director of Studies system",
+      "Small GCSE/A Level classes; foundation courses allow up to 14 students",
+      "University application and interview preparation",
+      "MPW University Foundation: five subject pathways",
+      "UAL Foundation Diploma in Art and Design"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/mpw-london/campus.jpg",
+        "alt": "Entrance to MPW London college",
+        "position": "50% 50%"
+      },
+      "card": {
+        "src": "/images/mpw-london/campus.jpg",
+        "alt": "Entrance to MPW London college",
+        "position": "50% 50%"
+      },
+      "about": [
+        {
+          "src": "/images/mpw-london/campus.jpg",
+          "alt": "Entrance to MPW London college",
+          "position": "50% 50%"
+        }
+      ],
+      "boarding": [
+        {
+          "src": "/images/mpw-london/boarding.jpg",
+          "alt": "En-suite bedroom at Queen’s Gate House",
+          "position": "50% 50%"
+        }
+      ],
+      "facilities": [],
+      "credit": "Photos: © MPW"
+    },
+    "scraped": "2026-11-19",
+    "review_flags": [
+      "Current international GCSE/A Level tuition and any accommodation package need an individual quote. Published campus tuition is retained as a reference, not an international package price.",
+      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified. Foundation programmes normally start at age 17; this is not the age range for the whole college.",
+      "No verified campus-wide GCSE/A Level result percentages are displayed. Individual testimonials and group-wide results are not campus statistics.",
+      "Confirm course-specific entry grades, subject availability, start dates, English assessment, deposits, accommodation and guardian arrangements. 2027/28 fees are not verified.",
+      "London sources differ on the maximum GCSE/A Level class size (nine versus ten) and laboratory counts. Small classes and laboratory provision are stated without a conflicting exact count. Boarding age eligibility, holiday cover and fees remain unverified."
+    ]
+  },
+  {
+    "id": "mpw-birmingham",
+    "status": "needs_review",
+    "sample": false,
+    "name": "MPW Birmingham",
+    "short_name": "MPW Birmingham",
+    "country": "United Kingdom",
+    "city": "Birmingham",
+    "region": "West Midlands",
+    "tagline": "GCSE, A Level and NCUK Foundation in Edgbaston, with small classes and personal tutoring.",
+    "summary": "MPW Birmingham is an independent fifth- and sixth-form college in Edgbaston. Small GCSE/A Level classes, weekly timed assignments and a personal tutor support academic progress and university preparation. Alongside GCSEs and A Levels, the campus offers the NCUK International Foundation Year with September and January entry options. Sports, debating, Model United Nations and community activities form part of its enrichment programme.",
+    "school_type": "Day college",
+    "gender": "Co-educational",
+    "age_min": null,
+    "age_max": null,
+    "year_groups": "GCSE, Sixth Form, retakes and university foundation",
+    "students_total": null,
+    "nationalities": null,
+    "international_share_percent": null,
+    "founded": null,
+    "boarding": {
+      "available": false,
+      "types": [],
+      "from_year": null,
+      "day_option": true,
+      "notes": []
+    },
+    "accommodation": {
+      "summary": "Accommodation must be arranged and confirmed separately for the academic year.",
+      "notes": [
+        "The reviewed sources do not establish a college-operated, year-round boarding house for this campus. Ask for current accommodation options, supervision, meals and fees.",
+        "Summer-school and Easter-course accommodation should not be assumed to cover a full academic year."
+      ],
+      "guardianship": "MPW requires international students to have a UK-based educational guardian: an English-speaking adult over 25, available around the clock and within two hours of the college. Confirm approval before appointment."
+    },
+    "qualifications": [
+      "GCSE",
+      "A Level",
+      "NCUK Foundation Year"
+    ],
+    "english_support": [
+      "English-language assessment during admissions; ongoing EFL support may be required",
+      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test.",
+      "Foundation programmes include or offer academic English support; requirements differ by programme."
+    ],
+    "results": [],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": null,
+      "terms_per_year": 3,
+      "registration_fee": null,
+      "headline": {
+        "amount": null,
+        "unit": "term",
+        "label": "International GCSE / A Level quote required",
+        "alt": "Published reference and foundation fees below"
+      },
+      "deposit": "Confirm the international registration fee, acceptance deposit and refund conditions in the offer.",
+      "includes": [],
+      "tiers": [
+        {
+          "label": "Published campus tuition reference — per term",
+          "columns": [
+            "Programme",
+            "Excluding VAT"
+          ],
+          "rows": [
+            [
+              "Two-year A Level, each year",
+              8609
+            ],
+            [
+              "One-year A Level, one subject",
+              4259
+            ],
+            [
+              "One-year A Level, two subjects",
+              8516
+            ],
+            [
+              "One-year A Level, three subjects",
+              9282
+            ],
+            [
+              "Two-year GCSE core curriculum",
+              6188
+            ],
+            [
+              "One-year GCSE, up to four subjects: per subject",
+              1830
+            ],
+            [
+              "One-year GCSE, five or more subjects",
+              8388
+            ]
+          ],
+          "note": "2026/27. All fees exclude 20% VAT where applicable. The page explicitly directs international applicants to separate international fees; these are not verified international rates."
+        },
+        {
+          "label": "NCUK International Foundation Year — whole course",
+          "columns": [
+            "Programme",
+            "Including VAT"
+          ],
+          "rows": [
+            [
+              "Three terms (September) or two terms (January)",
+              27550
+            ]
+          ],
+          "note": "2026/27 tuition, including 20% VAT, NCUK registration, examinations and placement support. Accommodation is separate."
+        }
+      ],
+      "notes": [
+        "An international GCSE/A Level headline price is not verified. Request a course-specific tuition quote and budget separately for accommodation.",
+        "Campus GCSE/A Level reference fees exclude VAT where applicable; foundation tables state VAT-inclusive tuition. These amounts are not interchangeable.",
+        "Confirm English support, examination charges, trips, guardianship and any accommodation supplements before accepting an offer."
+      ],
+      "payment": "Confirm payment dates and contractual terms in the individual offer."
+    },
+    "admissions": {
+      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability. Foundation starts are programme-specific.",
+      "assessments": [
+        "Interview and review of academic background",
+        "English assessment and/or a recognised English test for applicants without suitable prior English-medium study"
+      ],
+      "documents": [
+        "Application form",
+        "Certified English transcripts for the two most recent school years",
+        "English test results where required",
+        "Approved guardian details and completed consent documents before term starts"
+      ],
+      "steps": [
+        "Ask K12 Onboard to check the campus, course, accommodation and current international fees.",
+        "Submit academic records and complete the admissions interview and required assessments.",
+        "Review the offer, confirm fees and accommodation, and complete acceptance and guardianship arrangements."
+      ],
+      "entry_routes": [
+        {
+          "year": "GCSE",
+          "programme": "GCSE",
+          "requirement": "Academic record and interview; course-specific entry requirements. Published IELTS 5.5 for two-year study or 6.0 for one-year study, or equivalent.",
+          "starts": "Confirm course length and campus availability."
+        },
+        {
+          "year": "Sixth Form",
+          "programme": "A Level / retakes",
+          "requirement": "Academic record, interview and subject-specific suitability. Published IELTS 5.5 for two years or 6.0 for one year; confirm requirements for an 18-month route.",
+          "starts": "Normally September; January 18-month route subject to confirmation."
+        },
+        {
+          "year": "17+",
+          "programme": "NCUK International Foundation Year",
+          "requirement": "Age 17+; 12 years of schooling or equivalent with good grades. September: IELTS 5.5, each band at least 5.0. January: IELTS 6.0, each band at least 5.5.",
+          "starts": "September (three terms) or January (two terms)."
+        }
+      ],
+      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course. Foundation class sizes can reach 14, unlike the smaller GCSE/A Level groups."
+    },
+    "facilities": [
+      "Science laboratories",
+      "Two IT suites",
+      "Study centre with academic resources and computers",
+      "Student common room"
+    ],
+    "highlights": [
+      "Fewer than ten students in GCSE/A Level classes",
+      "Weekly timed assignments and individual progress plans",
+      "Personal tutor and university application support",
+      "NCUK Foundation: September or accelerated January entry",
+      "Debating, Model United Nations and Duke of Edinburgh activities"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/mpw-birmingham/campus.jpg",
+        "alt": "Students outside MPW Birmingham college",
+        "position": "50% 50%"
+      },
+      "card": {
+        "src": "/images/mpw-birmingham/campus.jpg",
+        "alt": "Students outside MPW Birmingham college",
+        "position": "50% 50%"
+      },
+      "about": [
+        {
+          "src": "/images/mpw-birmingham/campus.jpg",
+          "alt": "Students outside MPW Birmingham college",
+          "position": "50% 50%"
+        }
+      ],
+      "boarding": [],
+      "facilities": [],
+      "credit": "Photos: © MPW"
+    },
+    "scraped": "2026-11-19",
+    "review_flags": [
+      "Current international GCSE/A Level tuition and any accommodation package need an individual quote. Published campus tuition is retained as a reference, not an international package price.",
+      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified. Foundation programmes normally start at age 17; this is not the age range for the whole college.",
+      "No verified campus-wide GCSE/A Level result percentages are displayed. Individual testimonials and group-wide results are not campus statistics.",
+      "Confirm course-specific entry grades, subject availability, start dates, English assessment, deposits, accommodation and guardian arrangements. 2027/28 fees are not verified.",
+      "The campus fee page lists £350 registration and £2,000/term EAL, excluding VAT where applicable, but directs international students to separate fees. Neither is assumed to be the international charge."
+    ]
+  },
+  {
+    "id": "mpw-cambridge",
+    "status": "needs_review",
+    "sample": false,
+    "name": "MPW Cambridge",
+    "short_name": "MPW Cambridge",
+    "country": "United Kingdom",
+    "city": "Cambridge",
+    "region": "Cambridgeshire",
+    "tagline": "GCSE, A Level and NCUK Foundation near Cambridge’s Botanic Garden.",
+    "summary": "MPW Cambridge is an independent fifth- and sixth-form college based in adjacent Brookside and Panton Street buildings near the Botanic Garden. GCSE and A Level students study in small classes, with weekly one-to-one personal tutor meetings and university application preparation. The campus also offers the September-entry NCUK International Foundation Year. Sports facilities are provided through The Leys School.",
+    "school_type": "Day college",
+    "gender": "Co-educational",
+    "age_min": null,
+    "age_max": null,
+    "year_groups": "GCSE, Sixth Form, retakes and university foundation",
+    "students_total": null,
+    "nationalities": null,
+    "international_share_percent": null,
+    "founded": null,
+    "boarding": {
+      "available": false,
+      "types": [],
+      "from_year": null,
+      "day_option": true,
+      "notes": []
+    },
+    "accommodation": {
+      "summary": "Accommodation must be arranged and confirmed separately for the academic year.",
+      "notes": [
+        "The reviewed sources do not establish a college-operated, year-round boarding house for this campus. Ask for current accommodation options, supervision, meals and fees.",
+        "Summer-school and Easter-course accommodation should not be assumed to cover a full academic year."
+      ],
+      "guardianship": "MPW requires international students to have a UK-based educational guardian: an English-speaking adult over 25, available around the clock and within two hours of the college. Confirm approval before appointment."
+    },
+    "qualifications": [
+      "GCSE",
+      "A Level",
+      "NCUK Foundation Year"
+    ],
+    "english_support": [
+      "English-language assessment during admissions; ongoing EFL support may be required",
+      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test.",
+      "Foundation programmes include or offer academic English support; requirements differ by programme."
+    ],
+    "results": [],
+    "fees": {
+      "currency": "GBP",
+      "academic_year": "2026/27",
+      "per_term": null,
+      "terms_per_year": 3,
+      "registration_fee": null,
+      "headline": {
+        "amount": null,
+        "unit": "term",
+        "label": "International GCSE / A Level quote required",
+        "alt": "Published reference and foundation fees below"
+      },
+      "deposit": "Confirm the international registration fee, acceptance deposit and refund conditions in the offer.",
+      "includes": [],
+      "tiers": [
+        {
+          "label": "Published campus tuition reference — per term",
+          "columns": [
+            "Programme",
+            "Excluding VAT"
+          ],
+          "rows": [
+            [
+              "GCSE",
+              9310
+            ],
+            [
+              "A Level",
+              9703
+            ]
+          ],
+          "note": "2026/27; 20% VAT is additional where applicable. With 20% VAT: GCSE £11,172; A Level £11,643.60 per term. Confirm international pricing and the individual course mix. Accommodation is separate."
+        },
+        {
+          "label": "NCUK International Foundation Year — whole course",
+          "columns": [
+            "Programme",
+            "Including VAT"
+          ],
+          "rows": [
+            [
+              "Three terms (September)",
+              31138
+            ]
+          ],
+          "note": "2026/27 tuition, including 20% VAT, NCUK registration, examinations and placement support. January entry is advertised for Birmingham only."
+        }
+      ],
+      "notes": [
+        "An international GCSE/A Level headline price is not verified. Request a course-specific tuition quote and budget separately for accommodation.",
+        "Campus GCSE/A Level reference fees exclude VAT where applicable; foundation tables state VAT-inclusive tuition. These amounts are not interchangeable.",
+        "Confirm English support, examination charges, trips, guardianship and any accommodation supplements before accepting an offer."
+      ],
+      "payment": "Confirm payment dates and contractual terms in the individual offer."
+    },
+    "admissions": {
+      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability. Foundation starts are programme-specific.",
+      "assessments": [
+        "Interview and review of academic background",
+        "English assessment and/or a recognised English test for applicants without suitable prior English-medium study"
+      ],
+      "documents": [
+        "Application form",
+        "Certified English transcripts for the two most recent school years",
+        "English test results where required",
+        "Approved guardian details and completed consent documents before term starts"
+      ],
+      "steps": [
+        "Ask K12 Onboard to check the campus, course, accommodation and current international fees.",
+        "Submit academic records and complete the admissions interview and required assessments.",
+        "Review the offer, confirm fees and accommodation, and complete acceptance and guardianship arrangements."
+      ],
+      "entry_routes": [
+        {
+          "year": "GCSE",
+          "programme": "GCSE",
+          "requirement": "Academic record and interview; course-specific entry requirements. Published IELTS 5.5 for two-year study or 6.0 for one-year study, or equivalent.",
+          "starts": "Confirm course length and campus availability."
+        },
+        {
+          "year": "Sixth Form",
+          "programme": "A Level / retakes",
+          "requirement": "Academic record, interview and subject-specific suitability. Published IELTS 5.5 for two years or 6.0 for one year; confirm requirements for an 18-month route.",
+          "starts": "Normally September; January 18-month route subject to confirmation."
+        },
+        {
+          "year": "17+",
+          "programme": "NCUK International Foundation Year",
+          "requirement": "Age 17+; 12 years of schooling or equivalent with good grades. September: IELTS 5.5, each band at least 5.0.",
+          "starts": "September (three terms)."
+        }
+      ],
+      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course. Foundation class sizes can reach 14, unlike the smaller GCSE/A Level groups."
+    },
+    "facilities": [
+      "Three science laboratories and an art room",
+      "Two supervised study rooms",
+      "ICT suite and internet library",
+      "On-site examination rooms",
+      "Common room and café",
+      "Access to sports facilities at The Leys School"
+    ],
+    "highlights": [
+      "GCSE/A Level classes of one to nine students",
+      "Weekly individual meetings with a personal tutor",
+      "University entrance test and interview preparation",
+      "NCUK International Foundation Year, September entry",
+      "Central Cambridge location"
+    ],
+    "images": {
+      "hero": {
+        "src": "/images/mpw-cambridge/campus.jpg",
+        "alt": "Students at the entrance to MPW Cambridge college",
+        "position": "50% 50%"
+      },
+      "card": {
+        "src": "/images/mpw-cambridge/campus.jpg",
+        "alt": "Students at the entrance to MPW Cambridge college",
+        "position": "50% 50%"
+      },
+      "about": [
+        {
+          "src": "/images/mpw-cambridge/campus.jpg",
+          "alt": "Students at the entrance to MPW Cambridge college",
+          "position": "50% 50%"
+        }
+      ],
+      "boarding": [],
+      "facilities": [],
+      "credit": "Photos: © MPW"
+    },
+    "scraped": "2026-11-19",
+    "review_flags": [
+      "Current international GCSE/A Level tuition and any accommodation package need an individual quote. Published campus tuition is retained as a reference, not an international package price.",
+      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified. Foundation programmes normally start at age 17; this is not the age range for the whole college.",
+      "No verified campus-wide GCSE/A Level result percentages are displayed. Individual testimonials and group-wide results are not campus statistics.",
+      "Confirm course-specific entry grades, subject availability, start dates, English assessment, deposits, accommodation and guardian arrangements. 2027/28 fees are not verified.",
+      "The accommodation page describes Tripos Court in a summer-school context. It is not used as evidence of year-round college boarding. The Leys sports facilities are shared provision, not owned by MPW."
+    ]
+  },
+  {
+    "id": "braemar-college",
+    "status": "needs_review",
+    "sample": false,
+    "name": "Braemar College",
+    "short_name": "Braemar College",
+    "country": "Canada",
+    "city": "Toronto",
+    "region": "Ontario",
+    "tagline": "A private Ontario high school and university pathway provider on the University of Toronto campus. Day school with homestay: no boarding house.",
+    "summary": "Braemar College, founded in 1995, teaches grades 9–12 of the Ontario Secondary School Curriculum in a heritage building on the edge of the University of Toronto’s St. George campus; graduates receive the Ontario Secondary School Diploma (OSSD). Its year is made of four nine-week terms, so most students study two courses at a time, and an Express Option allows three. Pathway and Toronto Pathway programmes prepare students for Canadian universities and colleges, with official partnerships with the University of Toronto, York, Waterloo and Toronto Metropolitan University. Braemar is not a boarding school: international students live with Braemar-vetted homestay families.",
+    "school_type": "Day school with homestay",
+    "gender": "",
+    "age_min": null,
+    "age_max": null,
+    "year_groups": "Grade 9 to Grade 12 (OSSD)",
+    "students_total": null,
+    "nationalities": "Over 40 countries",
+    "international_share_percent": null,
+    "founded": "1995",
+    "boarding": {
+      "available": false,
+      "types": [],
+      "from_year": "",
+      "notes": []
+    },
+    "accommodation": {
+      "summary": "No boarding house: international students normally live in a Braemar homestay. Residence places exist only subject to seasonal availability.",
+      "notes": [
+        "Homestay families provide a private furnished room, wifi and three meals a day. Published price: $400 CAD per week plus a $300 placement fee.",
+        "Families are visited in person before joining the programme, re-inspected every three years, and every adult in the household needs a valid criminal record check or vulnerable sector scan.",
+        "Most homestays are 30–50 minutes from the school by public transport (TTC). The school is downtown, surrounded mainly by apartments and condos.",
+        "Minimum homestay is three months (12 weeks) for standard programmes; if paid in advance, the first three months are not refundable once the study permit is approved. Students may change homestay without notice during the first two weeks; afterwards two weeks’ notice is required.",
+        "Students are encouraged to arrive the week before classes. Weekday flights landing after 5 pm are preferred so the family is home."
+      ],
+      "guardianship": "Students under 18 who need custodianship services through Braemar must also submit a signed custodianship form for notarization, and these services are provided only to students staying in a Braemar homestay. The $200 notarization fee is non-refundable if the study permit is refused."
+    },
+    "qualifications": [
+      "OSSD",
+      "University Pathway"
+    ],
+    "english_support": [],
+    "results": [],
+    "fees": {
+      "currency": "CAD",
+      "academic_year": "2026/27",
+      "per_term": null,
+      "terms_per_year": null,
+      "registration_fee": 300,
+      "headline": {
+        "amount": 22400,
+        "unit": "year",
+        "label": "Full-year tuition (8 credits), before scholarship",
+        "alt": "Total with homestay and services from $37,190; 2027/28 tables are identical"
+      },
+      "deposit": "The pre-acceptance invoice normally covers one full academic year (8 credits); paying it confirms the offer and triggers the Letter of Acceptance. The application fee is non-refundable.",
+      "includes": [
+        "Tuition (headline)"
+      ],
+      "tiers": [
+        {
+          "label": "Full-year program (42 weeks, 8 courses): totals by scholarship category, 2026/27",
+          "columns": [
+            "Item",
+            "Asia & Middle East (A)",
+            "South East Asia (B)",
+            "Europe, Latin America & Brazil (C)",
+            "Rest of world (D)"
+          ],
+          "rows": [
+            [
+              "Application fee",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Tuition",
+              22400,
+              22400,
+              22400,
+              22400
+            ],
+            [
+              "Renaissance Scholarship",
+              "None",
+              -4200,
+              -5400,
+              -5800
+            ],
+            [
+              "Textbooks",
+              600,
+              600,
+              600,
+              600
+            ],
+            [
+              "Airport pick-up",
+              200,
+              200,
+              200,
+              200
+            ],
+            [
+              "Airport drop-off",
+              150,
+              150,
+              150,
+              150
+            ],
+            [
+              "Guardianship",
+              1000,
+              1000,
+              1000,
+              1000
+            ],
+            [
+              "Health insurance",
+              840,
+              840,
+              840,
+              840
+            ],
+            [
+              "Homestay placement",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Homestay (room, three meals, $400/week)",
+              16800,
+              16800,
+              16800,
+              16800
+            ],
+            [
+              "Activity fee",
+              400,
+              400,
+              400,
+              400
+            ],
+            [
+              "Total",
+              42990,
+              38790,
+              37590,
+              37190
+            ]
+          ],
+          "note": "All amounts in Canadian dollars. Categories A and B name their countries on the school’s page (A: China, South Korea, Japan, Taiwan, Hong Kong, Saudi Arabia; B: Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam). The source describes C as “Europe, Latin America and Brazil” and D as “Rest of world”: confirm the category for the student’s country of residence. Whether HST applies is not stated."
+        },
+        {
+          "label": "Half-year program (21 weeks, 4 courses): totals by scholarship category, 2026/27",
+          "columns": [
+            "Item",
+            "Asia & Middle East (A)",
+            "South East Asia (B)",
+            "Europe, Latin America & Brazil (C)",
+            "Rest of world (D)"
+          ],
+          "rows": [
+            [
+              "Application fee",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Tuition",
+              11200,
+              11200,
+              11200,
+              11200
+            ],
+            [
+              "Renaissance Scholarship",
+              "None",
+              -2100,
+              -2700,
+              -2900
+            ],
+            [
+              "Textbooks",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Airport pick-up",
+              200,
+              200,
+              200,
+              200
+            ],
+            [
+              "Airport drop-off",
+              150,
+              150,
+              150,
+              150
+            ],
+            [
+              "Guardianship",
+              600,
+              600,
+              600,
+              600
+            ],
+            [
+              "Health insurance",
+              420,
+              420,
+              420,
+              420
+            ],
+            [
+              "Homestay placement",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Homestay (room, three meals, $400/week)",
+              8400,
+              8400,
+              8400,
+              8400
+            ],
+            [
+              "Activity fee",
+              200,
+              200,
+              200,
+              200
+            ],
+            [
+              "Total",
+              22070,
+              19970,
+              19370,
+              19170
+            ]
+          ],
+          "note": "Starts September to January, or February to June. Tuition per course is $2,800 (calculated from the published 8-course price)."
+        },
+        {
+          "label": "Renaissance Scholarship, full year",
+          "columns": [
+            "Category",
+            "Regions",
+            "2026/27",
+            "2027/28"
+          ],
+          "rows": [
+            [
+              "A",
+              "Asia & Middle East",
+              "None",
+              "None"
+            ],
+            [
+              "B",
+              "South East Asia",
+              4200,
+              4200
+            ],
+            [
+              "C",
+              "Europe, Latin America & Brazil",
+              5400,
+              5400
+            ],
+            [
+              "D",
+              "Rest of world",
+              5800,
+              5800
+            ]
+          ],
+          "note": "Applied automatically at admission. Half-year scholarships are half these amounts. 2027/28 prices and scholarships are published and match 2026/27."
+        }
+      ],
+      "notes": [
+        "Toronto Pathway prices are published in a separate PDF that has not been reviewed; the tables above are the High School and Pathway programme prices.",
+        "Payment by PayMyTuition, bank draft, money order, certified cheque or wire transfer, in Canadian or US dollars only. Credit cards carry a 3% surcharge.",
+        "Refunds depend on the applicant category. A study-permit refusal allows a full tuition refund less administrative fees on production of the refusal letter; postponing with two weeks’ written notice carries no penalty. The application fee is non-refundable.",
+        "Toronto Pathway graduates are eligible for University of Toronto entry scholarships of $1,000–$5,000."
+      ],
+      "payment": "Pay the pre-acceptance invoice (normally one academic year) to confirm the offer; instalment terms are not published on the reviewed pages."
+    },
+    "admissions": {
+      "intake": "Five intakes a year. 2026/27 terms start 8 Sep, 13 Nov, 2 Feb, 19 Apr and 2 Jul (summer term); 2027/28 start 13 Sep, 18 Nov, 4 Feb, 20 Apr and 4 Jul. Orientation takes place in the days before each term.",
+      "assessments": [
+        "English and Mathematics placement tests, recommended before travel",
+        "Review of transcripts and suitability by the Admissions Department"
+      ],
+      "documents": [
+        "Application form (online or PDF)",
+        "Homestay application, if accommodation is needed (can follow later)",
+        "Passport photo page, valid for more than 18 months",
+        "Transcripts from the current school: at least the latest year, preferably the last two or three, with English translations"
+      ],
+      "steps": [
+        "Ask K12 Onboard to check the programme, start date, scholarship category and homestay options.",
+        "Submit the application form, passport page and transcripts.",
+        "Receive a conditional pre-acceptance letter and invoice; pay to confirm the offer.",
+        "Receive the Letter of Acceptance and apply for the Canadian study permit (the DLI field may be left blank).",
+        "Choose a homestay from the profiles provided and send flight details for airport pick-up."
+      ],
+      "entry_routes": [
+        {
+          "year": "9–12",
+          "programme": "High School Program (OSSD)",
+          "requirement": "Transcripts and suitability; regular students take two courses at a time, Express Option students three.",
+          "starts": "Five intakes a year"
+        },
+        {
+          "year": "10–12",
+          "programme": "Pathway Program",
+          "requirement": "Study plan customized to completed studies and university or college goals. Qualified students (e.g. with IGCSEs) can complete the final OSSD year in about five months.",
+          "starts": "Express Option typically February to mid-June; confirm other starts"
+        },
+        {
+          "year": "Pathway",
+          "programme": "Toronto Pathway Program",
+          "requirement": "Strong academic background and University of Toronto entry requirements; four thematic pathways. Confirm requirements and fees.",
+          "starts": "Confirm availability"
+        }
+      ],
+      "note": "Braemar has no DLI number because it is an Ontario Ministry of Education high school; the study permit field can be left blank. Pre-acceptance is conditional until the invoice is paid."
+    },
+    "facilities": [
+      "Heritage building on the southern edge of the University of Toronto St. George campus",
+      "Close to downtown libraries, museums and public transport",
+      "Activity programme and Life Skills Academy training"
+    ],
+    "highlights": [
+      "Ontario high school on the University of Toronto St. George campus, graduating with the OSSD",
+      "Four nine-week terms: two courses at a time, three on the Express Option",
+      "Official pathway agreements with the University of Toronto, York, Waterloo and Toronto Metropolitan University",
+      "Renaissance Scholarship applied automatically for eligible regions",
+      "Toronto Pathway: the school states 100% of its graduates received a University of Toronto offer (undated)"
+    ],
+    "scraped": "2026-11-19",
+    "review_flags": [
+      "Confirm the scholarship category for Turkish applicants: Turkey is not named in categories A–D (C: Europe, Latin America and Brazil, $5,400; D: rest of world, $5,800).",
+      "Toronto Pathway prices are in a PDF that was not downloaded; fee tables show the High School and Pathway programmes only.",
+      "Fees are in Canadian dollars with no conversion. Whether HST is included is not stated.",
+      "Instalment plans and payment deadlines are not published on the reviewed pages.",
+      "Age range, pupil numbers, international share, gender policy and exam results are unpublished and left empty.",
+      "The 100% University of Toronto offer claim is undated; placement lists cover twelve years.",
+      "No photos imported: homepage slider images carry baked-in text and the other images show named students. Obtain official photos or a press kit.",
+      "The TPP course CGW4U1 carries a physics description on the source page; course content was not imported."
+    ]
+  },
+  {
+    "id": "delta-school-district",
+    "status": "needs_review",
+    "sample": false,
+    "name": "Delta School District International Programs",
+    "short_name": "Delta School District",
+    "country": "Canada",
+    "city": "Delta",
+    "region": "British Columbia",
+    "tagline": "Seven public secondary schools (grades 8–12) near Vancouver, with a district-run homestay and custodianship program. Day schools: no boarding.",
+    "summary": "Delta School District International Programs places international students in one of seven public secondary schools across the communities of Tsawwassen, Ladner and North Delta, a short drive from downtown Vancouver and its airport. Students follow the British Columbia curriculum taught by certified BC teachers, with ESL instruction included in tuition and an international coordinator at every school; Advanced Placement, International Baccalaureate and French Immersion options are available at some schools. International students normally live in the district’s own homestay program, run by school district staff rather than a private business, which also provides custodianship and airport pick-up. Students apply to the district and choose a school by community, size and timetable system.",
+    "school_type": "Public school district",
+    "gender": "",
+    "age_min": null,
+    "age_max": null,
+    "year_groups": "Grade 8 to Grade 12 (secondary schools)",
+    "students_total": null,
+    "nationalities": "35 countries",
+    "international_share_percent": null,
+    "founded": "",
+    "boarding": {
+      "available": false,
+      "types": [],
+      "from_year": "",
+      "notes": []
+    },
+    "accommodation": {
+      "summary": "No boarding houses: international students normally live in the district’s own homestay program, run by school district staff rather than a private business.",
+      "notes": [
+        "Host families are screened with a criminal record check, interviewed and inspected. Students get a private bedroom with a bed, study table and lamp, bathroom and laundry facilities, three meals a day and snacks, in a home where English is the main language.",
+        "Transport assistance is provided if the school is more than a 20-minute walk away. Airport pick-up and drop-off is free for homestay students.",
+        "Students describe their needs on the application. Once matched, they receive a profile with photos and contact details so they can get in touch before arrival.",
+        "Each area has a homestay coordinator (Tsawwassen; Delta and Delview; Seaquam and Burnsview; North Delta and Sands), backed by the Homestay Manager and cultural support staff, with 24-hour emergency contact and care.",
+        "Students must give host families at least two weeks’ notice before moving out, or pay two weeks.",
+        "Published homestay price: $1,350 per month in the 2027–28 fee sheet, plus a $500 annual management fee."
+      ],
+      "guardianship": "District custodianship is provided for students in the district homestay ($500); private custodianship is also accepted for homestay students. Students may instead live with parents, family or family friends, or use a private homestay and custodianship company. For parents living in Delta the district runs orientations and meet-and-greets and refers them to rental resources; parents who need custodian documents for IRCC pay a one-time $200."
+    },
+    "qualifications": [
+      "BC Curriculum",
+      "Advanced Placement (AP)",
+      "International Baccalaureate (IB)",
+      "French Immersion"
+    ],
+    "english_support": [
+      "ESL instruction is included in tuition at every secondary school",
+      "An international coordinator at each school looks after international students’ needs",
+      "English level is assessed at school orientation; smaller orientations run at the start of every month"
+    ],
+    "results": [],
+    "fees": {
+      "currency": "CAD",
+      "academic_year": "2027/28",
+      "per_term": null,
+      "terms_per_year": null,
+      "registration_fee": 200,
+      "headline": {
+        "amount": 17900,
+        "unit": "year",
+        "label": "Program fee, full year (10 months, includes medical insurance)",
+        "alt": "Total with homestay, custodian and orientation fees: $32,900"
+      },
+      "deposit": "",
+      "includes": [
+        "Tuition and ESL instruction",
+        "Medical insurance"
+      ],
+      "tiers": [
+        {
+          "label": "Fees for 2027–28: full year and one semester",
+          "columns": [
+            "Item",
+            "Full year (10 months)",
+            "One semester (5 months)"
+          ],
+          "rows": [
+            [
+              "Application fee (non-refundable, paid with the application)",
+              200,
+              200
+            ],
+            [
+              "Program fee (includes medical insurance; $1,790 per month)",
+              17900,
+              8950
+            ],
+            [
+              "Annual homestay management fee",
+              500,
+              500
+            ],
+            [
+              "Homestay fees ($1,350 per month; the family receives the full amount)",
+              13500,
+              6750
+            ],
+            [
+              "Custodian fee (students in Delta homestay)",
+              500,
+              500
+            ],
+            [
+              "Airport pick-up and drop-off",
+              "Free for homestay students",
+              "Free for homestay students"
+            ],
+            [
+              "Orientation fee (new secondary students starting in September only)",
+              300,
+              300
+            ],
+            [
+              "Total",
+              32900,
+              17200
+            ]
+          ],
+          "note": "Canadian dollars. The homestay management fee is non-refundable within 90 days of the program start. The total assumes homestay and district custodianship."
+        },
+        {
+          "label": "Other charges",
+          "columns": [
+            "Charge",
+            "Amount"
+          ],
+          "rows": [
+            [
+              "Renewal fee (returning students)",
+              100
+            ],
+            [
+              "Summer medical insurance (returning students)",
+              260
+            ],
+            [
+              "Extension fee (extending students)",
+              100
+            ],
+            [
+              "Custodian documents for IRCC (students living with parents, one time)",
+              200
+            ]
+          ],
+          "note": "Charged in addition to the table above when they apply. Summer courses carry additional fees."
+        }
+      ],
+      "notes": [
+        "This is the 2027–28 fee sheet (updated February 2026). Fees are reviewed and may change each year.",
+        "The fee sheet has no separate prices for short-term, graduation or summer programs, or for students who do not use the district homestay.",
+        "Refunds: the program fee is refunded in full, less the $200 application fee, if a study permit is refused and the original refusal letter is provided (not available to students applying for a new permit from inside Canada once classes start). 50% is refunded if the student withdraws before the program starts or within the first calendar month; nothing after one month, or if the student is dismissed for breaching the agreement.",
+        "All refunds carry a $500 administration fee, except for a study permit or visa rejection. Deferrals are rare, at the Director’s discretion, and cost $500 plus any fee difference.",
+        "The application fee is non-refundable; homestay management and custodianship fees are not refundable within 90 days of the program start."
+      ],
+      "payment": "Approved applicants are invoiced and pay the full program fees before the Letter of Acceptance is issued. Payment is by bank transfer (the student’s name must appear on it) or by a certified cheque or bank draft payable to Delta School District."
+    },
+    "admissions": {
+      "intake": "Flexible programs with orientations at the start of every month, and a September activity trip for new international students. Semester schools suit students arriving mid-year. Confirm the start date and timetable with the chosen school.",
+      "assessments": [
+        "English-level assessment at school orientation",
+        "Confirmation of school schedule and courses at orientation"
+      ],
+      "documents": [
+        "Application form (online or by email)",
+        "Report cards from the past 3 years",
+        "Application fee ($200, non-refundable)",
+        "Homestay and custodianship preferences on the application form"
+      ],
+      "steps": [
+        "Ask K12 Onboard to compare the seven secondary schools and check availability and start dates.",
+        "Submit the application form, the last three years’ report cards and the application fee.",
+        "After approval, receive the invoice and offer letter and pay the full program fees.",
+        "Receive the Letter of Acceptance, confirm homestay and custodianship, and join the pre-departure orientation on Zoom."
+      ],
+      "entry_routes": [
+        {
+          "year": "8–12",
+          "programme": "Full year (10 months)",
+          "requirement": "Report cards from the past 3 years. Students choose a school by community, size and a semester or linear timetable.",
+          "starts": "Flexible; monthly orientations. Confirm availability"
+        },
+        {
+          "year": "8–12",
+          "programme": "One semester (5 months)",
+          "requirement": "As for the full year. Semester schools suit mid-year arrivals; at a linear school a half-year student still takes all eight classes.",
+          "starts": "Flexible. Confirm availability"
+        },
+        {
+          "year": "8–12",
+          "programme": "Short term and graduation programs",
+          "requirement": "Offered by the district; entry rules and fees are not on the reviewed pages.",
+          "starts": "Short term: start of any month (older brochure). Confirm"
+        }
+      ],
+      "note": "Applications are processed by the district, which works with approved agent partners. Students under 18 in the district homestay are covered by district custodianship. Elementary (Kindergarten to Grade 7) and summer programs also exist but are not listed here."
+    },
+    "district_schools": [
+      {
+        "name": "Burnsview Secondary School",
+        "community": "North Delta",
+        "students": 800,
+        "international": 75,
+        "schedule": "Grade 8 linear; grades 9–12 semester",
+        "programmes": [
+          "English 8–12",
+          "French Immersion 8–12",
+          "Robotics"
+        ],
+        "summary": "A smaller school with high academic standards and strong student achievement. It keeps a wide range of options, from the sciences and Robotics to the Arts and Applied Skills, with very active student leadership groups, clubs and sports teams, and a focus on connectedness and on self-regulating, academically engaged students."
+      },
+      {
+        "name": "Delta Secondary School",
+        "community": "Ladner",
+        "students": 1500,
+        "international": 125,
+        "schedule": "Grades 8–9 linear; grades 10–12 mostly semester",
+        "programmes": [
+          "English 8–12",
+          "Advanced Placement"
+        ],
+        "summary": "In the historic farming and fishing community of Ladner, and home to the 400-seat Genesis Theatre for school and community performances. Programs and activities cover academics, business, culinary arts, fine and performing arts, applied design and skills technology, and athletics, with a wide range of teams, clubs and courses. The school says about 90% of its students speak English as a first language."
+      },
+      {
+        "name": "Delview Secondary School",
+        "community": "North Delta",
+        "students": 800,
+        "international": 50,
+        "schedule": "Semester",
+        "programmes": [
+          "English 8–12",
+          "Raider Leadership course",
+          "Delta Youth Advisory Council (DYAC)"
+        ],
+        "summary": "The smallest secondary school in the district, in the heart of North Delta, with a personal approach and a caring staff focused on connection, engagement and mental health and wellness. A 35-minute flex block four days a week lets students reach teachers, finish work or follow their own projects. Facilities include a large gymnasium, fitness centre, updated computer labs, a media arts room and a woodwork shop, with a community recreation centre nearby."
+      },
+      {
+        "name": "North Delta Secondary School",
+        "community": "North Delta",
+        "students": 1400,
+        "international": 65,
+        "schedule": "Semester",
+        "programmes": [
+          "English 8–12",
+          "Athletics program"
+        ],
+        "summary": "A mainly semestered school in a more urban area, with a diverse, multicultural and inclusive community. The semester system gives flexibility to students who arrive mid-year. Courses span the Sciences, Mathematics, Social Studies, Language Arts, Physical Education, Applied Skills, Modern Languages and Fine and Performing Arts, and the school is well known for its athletics program across the fall, winter and spring seasons."
+      },
+      {
+        "name": "Sands Secondary School",
+        "community": "North Delta",
+        "students": 800,
+        "international": 80,
+        "schedule": "Semester",
+        "programmes": [
+          "English 8–12",
+          "AP Calculus",
+          "AP Psychology",
+          "AP Art"
+        ],
+        "summary": "A small school in a suburban part of North Delta with a comfortable, intimate campus and more personal attention. Its student leadership body promotes social responsibility and a global vision (motto: “Creating Our Future Today”). FLEX time four days a week lets students choose extra support, and extra-curricular options include athletics, clubs, Student Council and the District Youth Advisory Council."
+      },
+      {
+        "name": "Seaquam Secondary School",
+        "community": "North Delta (Sunshine Hills)",
+        "students": 1500,
+        "international": 80,
+        "schedule": "Linear",
+        "programmes": [
+          "English 8–12",
+          "International Baccalaureate (IB)",
+          "Fine Arts",
+          "Career programs"
+        ],
+        "summary": "A strong tradition of academic excellence, with graduates winning scholarships and bursaries at universities across Canada and the United States. Seaquam offers the IB program, a wide selection of Fine Arts and Career programs, and many athletics teams, clubs and outside activities in a pleasant North Delta community."
+      },
+      {
+        "name": "South Delta Secondary School",
+        "community": "Tsawwassen",
+        "students": 1500,
+        "international": 130,
+        "schedule": "Mainly linear; some grade 12 academic subjects on semester",
+        "programmes": [
+          "English 8–12",
+          "French Immersion 8–12",
+          "Advanced Placement",
+          "Musical Theatre",
+          "First Responders",
+          "Film and Television Production Academy",
+          "Teaching cafeteria"
+        ],
+        "summary": "In the small, safe, family community of Tsawwassen, close to beaches, golf courses and parks. Students show consistently strong academic results. The school offers AP, French Immersion, academics, applied skills and fine arts, a renowned Musical Theatre program that stages a Broadway-style musical each year, and sports teams (the Sundevils) that the school describes as among the strongest in the province, plus clubs including Student Council, Interact and downhill skiing."
+      }
+    ],
+    "district_schools_note": "All seven are public secondary schools offering ESL instruction, counsellors and an international coordinator. Populations are rounded and differ between sources; confirm current figures and the timetable with the school. Students choose a school by community, size and timetable system.",
+    "facilities": [
+      "Genesis Theatre, a 400-seat theatre, at Delta Secondary",
+      "Large gymnasium, fitness centre, computer labs, media arts room and woodwork shop at Delview",
+      "Teaching cafeteria and Film and Television Production Academy at South Delta",
+      "Specialized, up-to-date indoor and outdoor facilities at every secondary school"
+    ],
+    "highlights": [
+      "Seven public secondary schools across Tsawwassen, Ladner and North Delta, grades 8–12",
+      "District-run homestay and custodianship with 24-hour support",
+      "ESL instruction included in tuition and an international coordinator at every school",
+      "Advanced Placement, International Baccalaureate and French Immersion options",
+      "Monthly supervised sightseeing activities and a University Fair every November"
+    ],
+    "scraped": "2026-11-19",
+    "review_flags": [
+      "Populations differ across sources: Delta Secondary shows 1,500 students and 125 international in its facts but about 1,400 and 120 in its text; North Delta shows 1,400 on the website, about 1,300 in its text and 1,200 in the brochures. Website figures were used.",
+      "The Delta Secondary page lists no AP courses; AP comes from the 2024 brochure. Academies, course counts and sports lists appear only in the 2019 brochure and were not imported.",
+      "The fee sheet is for 2027–28 (updated February 2026). The host-family page lists homestay at $1,300 per month from September 2026, against $1,350 on the fee sheet.",
+      "The fee sheet has no price for short-term, graduation or summer programs, or for students not in homestay; none was imported.",
+      "Only the seven secondary schools (grades 8–12) were imported. Elementary schools (24, Kindergarten to Grade 7), summer programs and the Graduation program are not covered.",
+      "No photos were supplied or downloaded. No age range, gender policy or founding date is published for the district; left empty.",
+      "Fees are in Canadian dollars with no conversion; fee sorting leaves the yearly figure empty for this reason."
+    ]
   }
 ]

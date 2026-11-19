@@ -1089,5 +1089,1058 @@
       "Öğrenci sayısı ve kesin milliyet sayısı doğrulanmadı. Üçte bir uluslararası öğrenci oranı bir hedeftir. Bir blogdaki kampüs büyüklüğü, ana sayfadaki 26 acre ile çelişiyor.",
       "Tatil konaklaması tarih/ücretleri ve kabul edilen vasi akreditasyonu teyit edilmeli. GCSE fen ve IB CAS ayrıntıları kaynaklar arasında farklı."
     ]
+  },
+  "mpw-london": {
+    "tagline": "South Kensington’da GCSE, A Level ve foundation eğitimi; Queen’s Gate House’ta yatılı konaklama.",
+    "summary": "MPW London, GCSE ve A Level eğitiminde esnek ve sınav odaklı bir yaklaşım benimseyen bağımsız bir lise kolejidir. Director of Studies sistemiyle bireysel akademik destek ve üniversite başvuru rehberliği sunulur. Londra kampüsünde ayrıca MPW University Foundation Programme ve UAL Foundation Diploma in Art and Design bulunur. Ana okul binasına kısa yürüyüş mesafesindeki Queen’s Gate House tam yatılı konaklama sağlar.",
+    "school_type": "Yatılı ve gündüzlü kolej",
+    "gender": "Karma",
+    "year_groups": "GCSE, Sixth Form, sınav tekrarı ve üniversite hazırlığı",
+    "boarding": {
+      "notes": [
+        "Queen’s Gate House, ana okul binasına birkaç dakika yürüme mesafesinde, banyolu tek kişilik odalarda tam yatılı konaklama sunar. Öğrencinin yatılılığa uygunluğu ve ücretler bireysel olarak teyit edilmelidir.",
+        "Yerleşik yatılılık personeli, kontrollü giriş, yemekler, dinlenme alanları ve açık teras bulunur. Tatil dönemleri ayrıca teyit edilmelidir.",
+        "MPW, uluslararası öğrencilerden Birleşik Krallık’ta yaşayan bir eğitim vasisi ister: 25 yaşından büyük, İngilizce konuşan, günün her saatinde ulaşılabilen ve okula en fazla iki saat uzaklıkta bir yetişkin. Vasi seçmeden önce okulun onayı alınmalıdır."
+      ]
+    },
+    "english_support": [
+      "Kabul sırasında İngilizce seviye değerlendirmesi; eğitim boyunca ek İngilizce desteği gerekebilir",
+      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir.",
+      "Foundation programlarında akademik İngilizce desteği bulunur veya sunulur; koşullar programa göre değişir."
+    ],
+    "fees": {
+      "headline": {
+        "label": "Uluslararası GCSE / A Level için fiyat teklifi gerekli",
+        "alt": "Yayımlanan referans ve foundation ücretleri aşağıdadır"
+      },
+      "deposit": "Uluslararası kayıt ücreti, kabul depozitosu ve iade koşulları teklif üzerinden teyit edilmelidir.",
+      "tiers": [
+        {
+          "label": "Yayımlanan kampüs eğitim ücreti — dönemlik referans",
+          "columns": [
+            "Program",
+            "KDV hariç"
+          ],
+          "rows": [
+            [
+              "Tam zamanlı GCSE veya A Level",
+              12325
+            ]
+          ],
+          "note": "2026/27 temel ücreti; uygulanması halinde %20 KDV eklenir ve dönemlik tutar £14.790 olur. Ders seçimi teklifi etkiler; yatılı konaklama dahil değildir."
+        },
+        {
+          "label": "MPW University Foundation — programın tamamı",
+          "columns": [
+            "Program",
+            "KDV dahil"
+          ],
+          "rows": [
+            [
+              "Üç dönem",
+              36566
+            ],
+            [
+              "İki dönem: yalnızca Business and Economics",
+              25584
+            ]
+          ],
+          "note": "Eylül 2026 / Ocak 2027 başlangıçları için yayımlanmıştır. Eğitim ücretine %20 KDV dahildir; konaklama ayrıdır."
+        },
+        {
+          "label": "UAL Foundation Diploma — programın tamamı",
+          "columns": [
+            "Program",
+            "KDV dahil"
+          ],
+          "rows": [
+            [
+              "Art and Design, üç dönem",
+              38314
+            ]
+          ],
+          "note": "Temel bilgiler sayfasında %20 KDV dahil olduğu belirtilir; akademik yıl belirtilmez. Hedeflenen başlangıç için ücret teyit edilmelidir."
+        }
+      ],
+      "notes": [
+        "Uluslararası GCSE/A Level için gösterilebilecek kesin bir ana ücret doğrulanmadı. Programa özel eğitim teklifi alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
+        "Kampüs GCSE/A Level referans ücretleri, uygulanması halinde KDV hariçtir; foundation tablolarında KDV dahil eğitim ücretleri yer alır. Bu tutarlar birbirinin yerine kullanılamaz.",
+        "Kabul öncesinde İngilizce desteği, sınav ücretleri, geziler, vasilik ve konaklama ek ücretleri teyit edilmelidir."
+      ],
+      "payment": "Ödeme tarihleri ve sözleşme koşulları kişiye özel tekliften teyit edilmelidir."
+    },
+    "admissions": {
+      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir. Foundation başlangıçları programa göre değişir.",
+      "assessments": [
+        "Mülakat ve akademik geçmişin değerlendirilmesi",
+        "Uygun İngilizce eğitim geçmişi bulunmayan adaylar için İngilizce değerlendirmesi ve/veya tanınan bir İngilizce sınavı"
+      ],
+      "documents": [
+        "Başvuru formu",
+        "Son iki okul yılına ait onaylı İngilizce transkriptler",
+        "Gerekliyse İngilizce sınav sonuçları",
+        "Dönem başlamadan önce onaylı vasi bilgileri ve tamamlanmış izin belgeleri"
+      ],
+      "steps": [
+        "Kampüs, program, konaklama ve güncel uluslararası ücretleri kontrol etmek için K12 Onboard’a başvurun.",
+        "Akademik belgeleri sunun; kabul mülakatını ve gerekli değerlendirmeleri tamamlayın.",
+        "Teklifi inceleyin, ücret ve konaklamayı teyit edin; kabul ve vasi düzenlemelerini tamamlayın."
+      ],
+      "entry_routes": [
+        {
+          "programme": "GCSE",
+          "requirement": "Akademik geçmiş, mülakat ve programa özel kabul koşulları. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0 veya dengidir.",
+          "starts": "Program süresi ve kampüs kontenjanı teyit edilmelidir."
+        },
+        {
+          "programme": "A Level / sınav tekrarı",
+          "requirement": "Akademik geçmiş, mülakat ve derslere uygunluk. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0; 18 aylık programın koşulları teyit edilmelidir.",
+          "starts": "Normalde eylül; ocak başlangıçlı 18 aylık seçenek teyide tabidir."
+        },
+        {
+          "programme": "MPW University Foundation Programme",
+          "requirement": "Normalde 17 yaş ve üzeri; 11 veya 12 yıllık eğitimin iyi notlarla tamamlanması. Alana göre IELTS 5.0/5.5; kabul edilen sınav ve alt puanlar teyit edilmelidir. 16 yaşındaki adaylar bireysel olarak değerlendirilebilir.",
+          "starts": "Eylül: üç dönem. Ocak: iki dönem, yalnızca Business and Economics."
+        },
+        {
+          "programme": "UAL Foundation Diploma in Art and Design",
+          "requirement": "17 yaş ve üzeri; matematik ve İngilizce dahil beş GCSE dersinde en az 4 veya yayımlanan uluslararası denklik kapsamında iyi notlarla tamamlanmış 12 yıllık eğitim ve güçlü okul raporu. IELTS 5.0 veya dengi.",
+          "starts": "Bir akademik yıl / üç dönem; başlangıç teyit edilmelidir."
+        }
+      ],
+      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir. GCSE/A Level gruplarından farklı olarak foundation sınıfları 14 öğrenciye ulaşabilir."
+    },
+    "facilities": [
+      "Fen ve bilgisayar laboratuvarları",
+      "Sanat, fotoğraf, seramik ve tekstil atölyeleri",
+      "Drama, müzik ve film olanakları",
+      "Üç kütüphane ve çalışma alanları",
+      "Queen’s Gate House yemek salonu, dinlenme alanları ve açık teras"
+    ],
+    "highlights": [
+      "Director of Studies sistemiyle bireysel akademik rehberlik",
+      "Küçük GCSE/A Level sınıfları; foundation programlarında en fazla 14 öğrenci",
+      "Üniversite başvurusu ve mülakat hazırlığı",
+      "MPW University Foundation: beş alan seçeneği",
+      "UAL Foundation Diploma in Art and Design"
+    ],
+    "images": {
+      "hero": {
+        "alt": "MPW London okulunun girişi"
+      },
+      "card": {
+        "alt": "MPW London okulunun girişi"
+      },
+      "about": [
+        {
+          "alt": "MPW London okulunun girişi"
+        }
+      ],
+      "boarding": [
+        {
+          "alt": "Queen’s Gate House’ta banyolu yatılı öğrenci odası"
+        }
+      ],
+      "credit": "Fotoğraflar: © MPW"
+    },
+    "review_flags": [
+      "Uluslararası GCSE/A Level eğitimi ve varsa konaklama paketi için kişiye özel güncel teklif alınmalıdır. Yayımlanan kampüs eğitim ücretleri referanstır; uluslararası öğrenci paket fiyatı değildir.",
+      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı. Foundation programları normalde 17 yaşında başlar; bu, okulun tamamının yaş aralığı değildir.",
+      "Doğrulanmış kampüs geneli GCSE/A Level başarı yüzdeleri gösterilmiyor. Bireysel öğrenci yorumları ve grup genelindeki sonuçlar kampüs istatistiği olarak kullanılmadı.",
+      "Programa özel not koşulları, dersler, başlangıç tarihleri, İngilizce değerlendirmesi, depozitolar, konaklama ve vasi düzenlemeleri teyit edilmelidir. 2027/28 ücretleri doğrulanmadı.",
+      "Londra kaynaklarında GCSE/A Level sınıf mevcudu üst sınırı (dokuz veya on) ve laboratuvar sayıları farklıdır. Bu nedenle küçük sınıflar ve laboratuvar olanakları, çelişkili kesin sayı verilmeden belirtilmiştir. Yatılılık yaş koşulları, tatil konaklaması ve ücretleri doğrulanmadı."
+    ]
+  },
+  "mpw-birmingham": {
+    "tagline": "Edgbaston’da küçük sınıflar ve bireysel rehberlikle GCSE, A Level ve NCUK Foundation.",
+    "summary": "MPW Birmingham, Edgbaston’da bulunan bağımsız bir lise kolejidir. Küçük GCSE/A Level sınıfları, haftalık süreli sınav çalışmaları ve bireysel danışmanlık, akademik gelişimi ve üniversite hazırlığını destekler. Kampüste GCSE ve A Level yanında eylül ve ocak başlangıç seçenekleriyle NCUK International Foundation Year sunulur. Spor, münazara, Model Birleşmiş Milletler ve toplum hizmeti çalışmaları ders dışı etkinlikler arasındadır.",
+    "school_type": "Gündüzlü kolej",
+    "gender": "Karma",
+    "year_groups": "GCSE, Sixth Form, sınav tekrarı ve üniversite hazırlığı",
+    "boarding": {
+      "notes": []
+    },
+    "accommodation": {
+      "summary": "Akademik yıl konaklaması ayrıca düzenlenmeli ve teyit edilmelidir.",
+      "notes": [
+        "İncelenen kaynaklar, bu kampüste okulun işlettiği ve akademik yıl boyunca hizmet veren bir yatılı öğrenci evini doğrulamıyor. Güncel konaklama seçenekleri, gözetim, yemekler ve ücretler sorulmalıdır.",
+        "Yaz okulu ve Paskalya kursu konaklamasının tüm akademik yılı kapsadığı varsayılmamalıdır."
+      ],
+      "guardianship": "MPW, uluslararası öğrencilerden Birleşik Krallık’ta yaşayan bir eğitim vasisi ister: 25 yaşından büyük, İngilizce konuşan, günün her saatinde ulaşılabilen ve okula en fazla iki saat uzaklıkta bir yetişkin. Vasi seçmeden önce okulun onayı alınmalıdır."
+    },
+    "english_support": [
+      "Kabul sırasında İngilizce seviye değerlendirmesi; eğitim boyunca ek İngilizce desteği gerekebilir",
+      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir.",
+      "Foundation programlarında akademik İngilizce desteği bulunur veya sunulur; koşullar programa göre değişir."
+    ],
+    "fees": {
+      "headline": {
+        "label": "Uluslararası GCSE / A Level için fiyat teklifi gerekli",
+        "alt": "Yayımlanan referans ve foundation ücretleri aşağıdadır"
+      },
+      "deposit": "Uluslararası kayıt ücreti, kabul depozitosu ve iade koşulları teklif üzerinden teyit edilmelidir.",
+      "tiers": [
+        {
+          "label": "Yayımlanan kampüs eğitim ücreti — dönemlik referans",
+          "columns": [
+            "Program",
+            "KDV hariç"
+          ],
+          "rows": [
+            [
+              "İki yıllık A Level, her yıl",
+              8609
+            ],
+            [
+              "Bir yıllık A Level, bir ders",
+              4259
+            ],
+            [
+              "Bir yıllık A Level, iki ders",
+              8516
+            ],
+            [
+              "Bir yıllık A Level, üç ders",
+              9282
+            ],
+            [
+              "İki yıllık GCSE temel müfredatı",
+              6188
+            ],
+            [
+              "Bir yıllık GCSE, en fazla dört ders: ders başına",
+              1830
+            ],
+            [
+              "Bir yıllık GCSE, beş veya daha fazla ders",
+              8388
+            ]
+          ],
+          "note": "2026/27. Uygulanması halinde %20 KDV eklenir. Sayfa, uluslararası adayları ayrı uluslararası ücretlere yönlendirir; bunlar doğrulanmış uluslararası öğrenci ücretleri değildir."
+        },
+        {
+          "label": "NCUK International Foundation Year — programın tamamı",
+          "columns": [
+            "Program",
+            "KDV dahil"
+          ],
+          "rows": [
+            [
+              "Üç dönem (eylül) veya iki dönem (ocak)",
+              27550
+            ]
+          ],
+          "note": "2026/27 eğitim ücretine %20 KDV, NCUK kaydı, sınavlar ve üniversiteye yerleşme desteği dahildir. Konaklama ayrıdır."
+        }
+      ],
+      "notes": [
+        "Uluslararası GCSE/A Level için gösterilebilecek kesin bir ana ücret doğrulanmadı. Programa özel eğitim teklifi alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
+        "Kampüs GCSE/A Level referans ücretleri, uygulanması halinde KDV hariçtir; foundation tablolarında KDV dahil eğitim ücretleri yer alır. Bu tutarlar birbirinin yerine kullanılamaz.",
+        "Kabul öncesinde İngilizce desteği, sınav ücretleri, geziler, vasilik ve konaklama ek ücretleri teyit edilmelidir."
+      ],
+      "payment": "Ödeme tarihleri ve sözleşme koşulları kişiye özel tekliften teyit edilmelidir."
+    },
+    "admissions": {
+      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir. Foundation başlangıçları programa göre değişir.",
+      "assessments": [
+        "Mülakat ve akademik geçmişin değerlendirilmesi",
+        "Uygun İngilizce eğitim geçmişi bulunmayan adaylar için İngilizce değerlendirmesi ve/veya tanınan bir İngilizce sınavı"
+      ],
+      "documents": [
+        "Başvuru formu",
+        "Son iki okul yılına ait onaylı İngilizce transkriptler",
+        "Gerekliyse İngilizce sınav sonuçları",
+        "Dönem başlamadan önce onaylı vasi bilgileri ve tamamlanmış izin belgeleri"
+      ],
+      "steps": [
+        "Kampüs, program, konaklama ve güncel uluslararası ücretleri kontrol etmek için K12 Onboard’a başvurun.",
+        "Akademik belgeleri sunun; kabul mülakatını ve gerekli değerlendirmeleri tamamlayın.",
+        "Teklifi inceleyin, ücret ve konaklamayı teyit edin; kabul ve vasi düzenlemelerini tamamlayın."
+      ],
+      "entry_routes": [
+        {
+          "programme": "GCSE",
+          "requirement": "Akademik geçmiş, mülakat ve programa özel kabul koşulları. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0 veya dengidir.",
+          "starts": "Program süresi ve kampüs kontenjanı teyit edilmelidir."
+        },
+        {
+          "programme": "A Level / sınav tekrarı",
+          "requirement": "Akademik geçmiş, mülakat ve derslere uygunluk. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0; 18 aylık programın koşulları teyit edilmelidir.",
+          "starts": "Normalde eylül; ocak başlangıçlı 18 aylık seçenek teyide tabidir."
+        },
+        {
+          "programme": "NCUK International Foundation Year",
+          "requirement": "17 yaş ve üzeri; iyi notlarla tamamlanmış 12 yıllık eğitim veya dengi. Eylül: IELTS 5.5, her bölüm en az 5.0. Ocak: IELTS 6.0, her bölüm en az 5.5.",
+          "starts": "Eylül (üç dönem) veya ocak (iki dönem)."
+        }
+      ],
+      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir. GCSE/A Level gruplarından farklı olarak foundation sınıfları 14 öğrenciye ulaşabilir."
+    },
+    "facilities": [
+      "Fen laboratuvarları",
+      "İki bilgisayar dersliği",
+      "Akademik kaynaklar ve bilgisayarlar bulunan çalışma merkezi",
+      "Öğrenci ortak salonu"
+    ],
+    "highlights": [
+      "GCSE/A Level sınıflarında ondan az öğrenci",
+      "Haftalık süreli sınav çalışmaları ve bireysel gelişim planları",
+      "Bireysel danışman ve üniversite başvuru desteği",
+      "NCUK Foundation: eylül veya hızlandırılmış ocak başlangıcı",
+      "Münazara, Model Birleşmiş Milletler ve Duke of Edinburgh etkinlikleri"
+    ],
+    "images": {
+      "hero": {
+        "alt": "MPW Birmingham okulunun önündeki öğrenciler"
+      },
+      "card": {
+        "alt": "MPW Birmingham okulunun önündeki öğrenciler"
+      },
+      "about": [
+        {
+          "alt": "MPW Birmingham okulunun önündeki öğrenciler"
+        }
+      ],
+      "boarding": [],
+      "credit": "Fotoğraflar: © MPW"
+    },
+    "review_flags": [
+      "Uluslararası GCSE/A Level eğitimi ve varsa konaklama paketi için kişiye özel güncel teklif alınmalıdır. Yayımlanan kampüs eğitim ücretleri referanstır; uluslararası öğrenci paket fiyatı değildir.",
+      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı. Foundation programları normalde 17 yaşında başlar; bu, okulun tamamının yaş aralığı değildir.",
+      "Doğrulanmış kampüs geneli GCSE/A Level başarı yüzdeleri gösterilmiyor. Bireysel öğrenci yorumları ve grup genelindeki sonuçlar kampüs istatistiği olarak kullanılmadı.",
+      "Programa özel not koşulları, dersler, başlangıç tarihleri, İngilizce değerlendirmesi, depozitolar, konaklama ve vasi düzenlemeleri teyit edilmelidir. 2027/28 ücretleri doğrulanmadı.",
+      "Kampüs ücret sayfası, uygulanması halinde KDV hariç £350 kayıt ve dönemlik £2.000 EAL belirtir; uluslararası öğrencileri ayrı ücretlere yönlendirir. Bu tutarlar uluslararası öğrenci ücreti olarak kabul edilmedi."
+    ]
+  },
+  "mpw-cambridge": {
+    "tagline": "Cambridge Botanik Bahçesi yakınında GCSE, A Level ve NCUK Foundation.",
+    "summary": "MPW Cambridge, Botanik Bahçesi yakınındaki Brookside ve Panton Street’te birbirine bitişik binalarda eğitim veren bağımsız bir lise kolejidir. GCSE ve A Level öğrencileri küçük sınıflarda öğrenim görür; haftalık bire bir danışman görüşmeleri ve üniversite başvuru hazırlığıyla desteklenir. Kampüste eylül başlangıçlı NCUK International Foundation Year da sunulur. Spor olanakları The Leys School aracılığıyla sağlanır.",
+    "school_type": "Gündüzlü kolej",
+    "gender": "Karma",
+    "year_groups": "GCSE, Sixth Form, sınav tekrarı ve üniversite hazırlığı",
+    "boarding": {
+      "notes": []
+    },
+    "accommodation": {
+      "summary": "Akademik yıl konaklaması ayrıca düzenlenmeli ve teyit edilmelidir.",
+      "notes": [
+        "İncelenen kaynaklar, bu kampüste okulun işlettiği ve akademik yıl boyunca hizmet veren bir yatılı öğrenci evini doğrulamıyor. Güncel konaklama seçenekleri, gözetim, yemekler ve ücretler sorulmalıdır.",
+        "Yaz okulu ve Paskalya kursu konaklamasının tüm akademik yılı kapsadığı varsayılmamalıdır."
+      ],
+      "guardianship": "MPW, uluslararası öğrencilerden Birleşik Krallık’ta yaşayan bir eğitim vasisi ister: 25 yaşından büyük, İngilizce konuşan, günün her saatinde ulaşılabilen ve okula en fazla iki saat uzaklıkta bir yetişkin. Vasi seçmeden önce okulun onayı alınmalıdır."
+    },
+    "english_support": [
+      "Kabul sırasında İngilizce seviye değerlendirmesi; eğitim boyunca ek İngilizce desteği gerekebilir",
+      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir.",
+      "Foundation programlarında akademik İngilizce desteği bulunur veya sunulur; koşullar programa göre değişir."
+    ],
+    "fees": {
+      "headline": {
+        "label": "Uluslararası GCSE / A Level için fiyat teklifi gerekli",
+        "alt": "Yayımlanan referans ve foundation ücretleri aşağıdadır"
+      },
+      "deposit": "Uluslararası kayıt ücreti, kabul depozitosu ve iade koşulları teklif üzerinden teyit edilmelidir.",
+      "tiers": [
+        {
+          "label": "Yayımlanan kampüs eğitim ücreti — dönemlik referans",
+          "columns": [
+            "Program",
+            "KDV hariç"
+          ],
+          "rows": [
+            [
+              "GCSE",
+              9310
+            ],
+            [
+              "A Level",
+              9703
+            ]
+          ],
+          "note": "2026/27; uygulanması halinde %20 KDV eklenir. %20 KDV ile dönemlik GCSE £11.172; A Level £11.643,60 olur. Uluslararası ücret ve bireysel ders seçimi teyit edilmelidir. Konaklama ayrıdır."
+        },
+        {
+          "label": "NCUK International Foundation Year — programın tamamı",
+          "columns": [
+            "Program",
+            "KDV dahil"
+          ],
+          "rows": [
+            [
+              "Üç dönem (eylül)",
+              31138
+            ]
+          ],
+          "note": "2026/27 eğitim ücretine %20 KDV, NCUK kaydı, sınavlar ve üniversiteye yerleşme desteği dahildir. Ocak başlangıcı yalnızca Birmingham için duyurulmuştur."
+        }
+      ],
+      "notes": [
+        "Uluslararası GCSE/A Level için gösterilebilecek kesin bir ana ücret doğrulanmadı. Programa özel eğitim teklifi alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
+        "Kampüs GCSE/A Level referans ücretleri, uygulanması halinde KDV hariçtir; foundation tablolarında KDV dahil eğitim ücretleri yer alır. Bu tutarlar birbirinin yerine kullanılamaz.",
+        "Kabul öncesinde İngilizce desteği, sınav ücretleri, geziler, vasilik ve konaklama ek ücretleri teyit edilmelidir."
+      ],
+      "payment": "Ödeme tarihleri ve sözleşme koşulları kişiye özel tekliften teyit edilmelidir."
+    },
+    "admissions": {
+      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir. Foundation başlangıçları programa göre değişir.",
+      "assessments": [
+        "Mülakat ve akademik geçmişin değerlendirilmesi",
+        "Uygun İngilizce eğitim geçmişi bulunmayan adaylar için İngilizce değerlendirmesi ve/veya tanınan bir İngilizce sınavı"
+      ],
+      "documents": [
+        "Başvuru formu",
+        "Son iki okul yılına ait onaylı İngilizce transkriptler",
+        "Gerekliyse İngilizce sınav sonuçları",
+        "Dönem başlamadan önce onaylı vasi bilgileri ve tamamlanmış izin belgeleri"
+      ],
+      "steps": [
+        "Kampüs, program, konaklama ve güncel uluslararası ücretleri kontrol etmek için K12 Onboard’a başvurun.",
+        "Akademik belgeleri sunun; kabul mülakatını ve gerekli değerlendirmeleri tamamlayın.",
+        "Teklifi inceleyin, ücret ve konaklamayı teyit edin; kabul ve vasi düzenlemelerini tamamlayın."
+      ],
+      "entry_routes": [
+        {
+          "programme": "GCSE",
+          "requirement": "Akademik geçmiş, mülakat ve programa özel kabul koşulları. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0 veya dengidir.",
+          "starts": "Program süresi ve kampüs kontenjanı teyit edilmelidir."
+        },
+        {
+          "programme": "A Level / sınav tekrarı",
+          "requirement": "Akademik geçmiş, mülakat ve derslere uygunluk. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0; 18 aylık programın koşulları teyit edilmelidir.",
+          "starts": "Normalde eylül; ocak başlangıçlı 18 aylık seçenek teyide tabidir."
+        },
+        {
+          "programme": "NCUK International Foundation Year",
+          "requirement": "17 yaş ve üzeri; iyi notlarla tamamlanmış 12 yıllık eğitim veya dengi. Eylül: IELTS 5.5, her bölüm en az 5.0.",
+          "starts": "Eylül (üç dönem)."
+        }
+      ],
+      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir. GCSE/A Level gruplarından farklı olarak foundation sınıfları 14 öğrenciye ulaşabilir."
+    },
+    "facilities": [
+      "Üç fen laboratuvarı ve bir sanat dersliği",
+      "Gözetimli iki çalışma odası",
+      "Bilgisayar dersliği ve internet kütüphanesi",
+      "Okul içindeki sınav salonları",
+      "Ortak salon ve kafe",
+      "The Leys School’daki spor olanaklarına erişim"
+    ],
+    "highlights": [
+      "GCSE/A Level sınıflarında bir ila dokuz öğrenci",
+      "Bireysel danışmanla haftalık bire bir görüşmeler",
+      "Üniversite giriş sınavı ve mülakat hazırlığı",
+      "Eylül başlangıçlı NCUK International Foundation Year",
+      "Cambridge merkezinde konum"
+    ],
+    "images": {
+      "hero": {
+        "alt": "MPW Cambridge okulunun girişindeki öğrenciler"
+      },
+      "card": {
+        "alt": "MPW Cambridge okulunun girişindeki öğrenciler"
+      },
+      "about": [
+        {
+          "alt": "MPW Cambridge okulunun girişindeki öğrenciler"
+        }
+      ],
+      "boarding": [],
+      "credit": "Fotoğraflar: © MPW"
+    },
+    "review_flags": [
+      "Uluslararası GCSE/A Level eğitimi ve varsa konaklama paketi için kişiye özel güncel teklif alınmalıdır. Yayımlanan kampüs eğitim ücretleri referanstır; uluslararası öğrenci paket fiyatı değildir.",
+      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı. Foundation programları normalde 17 yaşında başlar; bu, okulun tamamının yaş aralığı değildir.",
+      "Doğrulanmış kampüs geneli GCSE/A Level başarı yüzdeleri gösterilmiyor. Bireysel öğrenci yorumları ve grup genelindeki sonuçlar kampüs istatistiği olarak kullanılmadı.",
+      "Programa özel not koşulları, dersler, başlangıç tarihleri, İngilizce değerlendirmesi, depozitolar, konaklama ve vasi düzenlemeleri teyit edilmelidir. 2027/28 ücretleri doğrulanmadı.",
+      "Konaklama sayfası Tripos Court’u yaz okulu bağlamında anlatır. Bu bilgi, akademik yıl boyunca okul yatılılığının kanıtı olarak kullanılmadı. The Leys spor olanakları MPW’ye ait değildir; erişim sağlanan tesislerdir."
+    ]
+  },
+  "braemar-college": {
+    "tagline": "Toronto Üniversitesi kampüsünde özel bir Ontario lisesi ve üniversite hazırlık programı sağlayıcısı. Homestay’li gündüzlü okul: yatakhane yoktur.",
+    "summary": "1995’te kurulan Braemar College, Toronto Üniversitesi St. George kampüsünün kenarındaki tarihi bir binada Ontario Ortaöğretim Müfredatı’nın 9–12. sınıflarını okutur; mezunlar Ontario Secondary School Diploma (OSSD) alır. Eğitim yılı dokuz haftalık dört dönemden oluşur; öğrenciler çoğunlukla aynı anda iki ders alır, Express Option ile üç ders alınabilir. Pathway ve Toronto Pathway programları öğrencileri Kanada’daki üniversite ve kolejlere hazırlar; okulun Toronto Üniversitesi, York, Waterloo ve Toronto Metropolitan Üniversitesi ile resmî iş birlikleri vardır. Braemar yatılı okul değildir: uluslararası öğrenciler okulun incelediği homestay ailelerinde kalır.",
+    "school_type": "Homestay’li gündüzlü okul",
+    "year_groups": "9. sınıf – 12. sınıf (OSSD)",
+    "nationalities": "40’tan fazla ülke",
+    "accommodation": {
+      "summary": "Yatakhane yoktur: uluslararası öğrenciler normalde Braemar homestay ailelerinde kalır. Yurt yerleri yalnızca mevsimsel müsaitliğe bağlıdır.",
+      "notes": [
+        "Homestay aileleri özel ve mobilyalı bir oda, wifi ve günde üç öğün sağlar. Yayımlanan ücret: haftalık 400 CAD ile 300 CAD yerleştirme ücreti.",
+        "Aileler programa katılmadan önce yerinde ziyaret edilir, üç yılda bir yeniden denetlenir ve hanedeki her yetişkinin geçerli bir sabıka kaydı belgesi veya vulnerable sector scan sonucu olmalıdır.",
+        "Homestay’lerin çoğu okula toplu taşımayla (TTC) 30–50 dakika uzaklıktadır. Okul şehir merkezindedir; çevresi ağırlıklı olarak apartman ve kondominyumdur.",
+        "Standart programlarda asgari homestay süresi üç aydır (12 hafta); peşin ödenmişse çalışma izni onaylandıktan sonra ilk üç ay iade edilmez. İlk iki hafta öğrenci bildirimsiz homestay değiştirebilir; sonrasında iki hafta önceden bildirim gerekir.",
+        "Öğrencilerin derslerden bir hafta önce gelmesi önerilir. Ailenin evde olması için hafta içi saat 17.00’den sonra inen uçuşlar tercih edilir."
+      ],
+      "guardianship": "Braemar üzerinden vasilik (custodianship) hizmeti isteyen 18 yaş altı öğrencilerin imzalı vasilik formunu noter onayı için de sunması gerekir; bu hizmet yalnızca Braemar homestay’inde kalan öğrencilere verilir. Çalışma/öğrenim izni reddedilirse 200 CAD noter ücreti iade edilmez."
+    },
+    "qualifications": [
+      "OSSD",
+      "University Pathway"
+    ],
+    "fees": {
+      "headline": {
+        "label": "Tam yıl eğitim ücreti (8 kredi), burs öncesi",
+        "alt": "Homestay ve hizmetlerle toplam $37.190’dan başlar; 2027/28 tabloları aynıdır"
+      },
+      "deposit": "Ön kabul faturası normalde bir tam akademik yılı (8 kredi) kapsar; ödenmesi teklifi onaylar ve Kabul Mektubu’nun (LOA) düzenlenmesini sağlar. Başvuru ücreti iade edilmez.",
+      "includes": [
+        "Eğitim ücreti (ana ücret)"
+      ],
+      "tiers": [
+        {
+          "label": "Tam yıl programı (42 hafta, 8 ders): burs kategorisine göre toplamlar, 2026/27",
+          "columns": [
+            "Kalem",
+            "Asya ve Orta Doğu (A)",
+            "Güneydoğu Asya (B)",
+            "Avrupa, Latin Amerika ve Brezilya (C)",
+            "Dünyanın geri kalanı (D)"
+          ],
+          "rows": [
+            [
+              "Başvuru ücreti",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Eğitim ücreti",
+              22400,
+              22400,
+              22400,
+              22400
+            ],
+            [
+              "Renaissance Bursu",
+              "Yok",
+              -4200,
+              -5400,
+              -5800
+            ],
+            [
+              "Ders kitapları",
+              600,
+              600,
+              600,
+              600
+            ],
+            [
+              "Havalimanı karşılama",
+              200,
+              200,
+              200,
+              200
+            ],
+            [
+              "Havalimanı uğurlama",
+              150,
+              150,
+              150,
+              150
+            ],
+            [
+              "Vasilik hizmeti",
+              1000,
+              1000,
+              1000,
+              1000
+            ],
+            [
+              "Sağlık sigortası",
+              840,
+              840,
+              840,
+              840
+            ],
+            [
+              "Homestay yerleştirme",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Homestay (oda ve üç öğün, haftalık $400)",
+              16800,
+              16800,
+              16800,
+              16800
+            ],
+            [
+              "Etkinlik ücreti",
+              400,
+              400,
+              400,
+              400
+            ],
+            [
+              "Toplam",
+              42990,
+              38790,
+              37590,
+              37190
+            ]
+          ],
+          "note": "Tüm tutarlar Kanada doları cinsindendir. A ve B kategorilerinin ülkeleri okul sayfasında açıkça sayılmıştır (A: Çin, Güney Kore, Japonya, Tayvan, Hong Kong, Suudi Arabistan; B: Kamboçya, Endonezya, Laos, Malezya, Myanmar, Filipinler, Singapur, Tayland, Vietnam). Kaynak C’yi “Avrupa, Latin Amerika ve Brezilya”, D’yi “Dünyanın geri kalanı” olarak tanımlar: öğrencinin ikamet ettiği ülkenin kategorisi teyit edilmelidir. HST uygulanıp uygulanmadığı belirtilmemiştir."
+        },
+        {
+          "label": "Yarım yıl programı (21 hafta, 4 ders): burs kategorisine göre toplamlar, 2026/27",
+          "columns": [
+            "Kalem",
+            "Asya ve Orta Doğu (A)",
+            "Güneydoğu Asya (B)",
+            "Avrupa, Latin Amerika ve Brezilya (C)",
+            "Dünyanın geri kalanı (D)"
+          ],
+          "rows": [
+            [
+              "Başvuru ücreti",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Eğitim ücreti",
+              11200,
+              11200,
+              11200,
+              11200
+            ],
+            [
+              "Renaissance Bursu",
+              "Yok",
+              -2100,
+              -2700,
+              -2900
+            ],
+            [
+              "Ders kitapları",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Havalimanı karşılama",
+              200,
+              200,
+              200,
+              200
+            ],
+            [
+              "Havalimanı uğurlama",
+              150,
+              150,
+              150,
+              150
+            ],
+            [
+              "Vasilik hizmeti",
+              600,
+              600,
+              600,
+              600
+            ],
+            [
+              "Sağlık sigortası",
+              420,
+              420,
+              420,
+              420
+            ],
+            [
+              "Homestay yerleştirme",
+              300,
+              300,
+              300,
+              300
+            ],
+            [
+              "Homestay (oda ve üç öğün, haftalık $400)",
+              8400,
+              8400,
+              8400,
+              8400
+            ],
+            [
+              "Etkinlik ücreti",
+              200,
+              200,
+              200,
+              200
+            ],
+            [
+              "Toplam",
+              22070,
+              19970,
+              19370,
+              19170
+            ]
+          ],
+          "note": "Başlangıç: Eylül–Ocak veya Şubat–Haziran. Ders başına eğitim ücreti $2.800’dür (yayımlanan 8 derslik fiyattan hesaplanmıştır)."
+        },
+        {
+          "label": "Renaissance Bursu, tam yıl",
+          "columns": [
+            "Kategori",
+            "Bölgeler",
+            "2026/27",
+            "2027/28"
+          ],
+          "rows": [
+            [
+              "A",
+              "Asya ve Orta Doğu",
+              "Yok",
+              "Yok"
+            ],
+            [
+              "B",
+              "Güneydoğu Asya",
+              4200,
+              4200
+            ],
+            [
+              "C",
+              "Avrupa, Latin Amerika ve Brezilya",
+              5400,
+              5400
+            ],
+            [
+              "D",
+              "Dünyanın geri kalanı",
+              5800,
+              5800
+            ]
+          ],
+          "note": "Kabul sırasında otomatik uygulanır. Yarım yıl bursları bu tutarların yarısıdır. 2027/28 fiyatları ve bursları yayımlanmıştır ve 2026/27 ile aynıdır."
+        }
+      ],
+      "notes": [
+        "Toronto Pathway fiyatları ayrı bir PDF’te yayımlanır ve henüz incelenmemiştir; yukarıdaki tablolar High School ve Pathway programı fiyatlarıdır.",
+        "Ödeme PayMyTuition, banka çeki, money order, onaylı çek veya havale ile yalnızca Kanada ya da ABD doları olarak yapılır. Kredi kartı ödemelerinde %3 ek ücret alınır.",
+        "İadeler başvuran kategorisine bağlıdır. Öğrenim izni reddi halinde ret mektubunun sunulmasıyla idari ücretler düşülerek eğitim ücretinin tamamı iade edilir; iki hafta önceden yazılı bildirimle erteleme cezasızdır. Başvuru ücreti iade edilmez.",
+        "Toronto Pathway mezunları Toronto Üniversitesi’nin $1.000–$5.000 arasındaki giriş burslarına başvurabilir."
+      ],
+      "payment": "Teklifi onaylamak için ön kabul faturası (normalde bir akademik yıl) ödenir; taksit koşulları incelenen sayfalarda yayımlanmamıştır."
+    },
+    "admissions": {
+      "intake": "Yılda beş kabul dönemi vardır. 2026/27 dönemleri 8 Eylül, 13 Kasım, 2 Şubat, 19 Nisan ve 2 Temmuz (yaz dönemi) tarihlerinde, 2027/28 dönemleri 13 Eylül, 18 Kasım, 4 Şubat, 20 Nisan ve 4 Temmuz tarihlerinde başlar. Her dönemden önceki günlerde oryantasyon yapılır.",
+      "assessments": [
+        "Yola çıkmadan önce yapılması önerilen İngilizce ve Matematik seviye belirleme sınavları",
+        "Kabul Bölümü’nün transkript ve uygunluk incelemesi"
+      ],
+      "documents": [
+        "Başvuru formu (çevrimiçi veya PDF)",
+        "Konaklama gerekiyorsa homestay başvurusu (sonradan da yapılabilir)",
+        "18 aydan uzun geçerliliği olan pasaportun fotoğraf sayfası",
+        "Mevcut okuldan transkriptler: en az son yıl, mümkünse son iki üç yıl; İngilizce çevirileriyle"
+      ],
+      "steps": [
+        "Program, başlangıç tarihi, burs kategorisi ve homestay seçeneklerinin kontrolü için K12 Onboard’a başvurun.",
+        "Başvuru formunu, pasaport sayfasını ve transkriptleri gönderin.",
+        "Koşullu ön kabul mektubunu ve faturayı alın; teklifi onaylamak için ödeme yapın.",
+        "Kabul Mektubu’nu (LOA) alıp Kanada öğrenim izni başvurusunu yapın (DLI alanı boş bırakılabilir).",
+        "Size sunulan profillerden bir homestay seçin ve havalimanı karşılaması için uçuş bilgilerini iletin."
+      ],
+      "entry_routes": [
+        {
+          "programme": "High School Program (OSSD)",
+          "requirement": "Transkriptler ve uygunluk; normal öğrenciler aynı anda iki, Express Option öğrencileri üç ders alır.",
+          "starts": "Yılda beş kabul dönemi"
+        },
+        {
+          "programme": "Pathway Program",
+          "requirement": "Tamamlanan derslere ve üniversite veya kolej hedeflerine göre özelleştirilen çalışma planı. Nitelikli öğrenciler (ör. IGCSE sahibi) son OSSD yılını yaklaşık beş ayda bitirebilir.",
+          "starts": "Express Option genellikle Şubat–Haziran ortası; diğer başlangıçlar teyit edilmeli"
+        },
+        {
+          "programme": "Toronto Pathway Program",
+          "requirement": "Güçlü akademik geçmiş ve Toronto Üniversitesi giriş koşulları; dört tematik pathway. Koşullar ve ücretler teyit edilmelidir.",
+          "starts": "Kontenjan teyit edilmeli"
+        }
+      ],
+      "note": "Braemar, Ontario Eğitim Bakanlığı’na bağlı bir lise olduğu için DLI numarası yoktur; öğrenim izni başvurusunda bu alan boş bırakılabilir. Fatura ödenene kadar ön kabul koşulludur."
+    },
+    "facilities": [
+      "Toronto Üniversitesi St. George kampüsünün güney kenarında tarihi bina",
+      "Şehir merkezindeki kütüphanelere, müzelere ve toplu taşımaya yakın",
+      "Etkinlik programı ve Life Skills Academy eğitimi"
+    ],
+    "highlights": [
+      "Toronto Üniversitesi St. George kampüsünde, OSSD ile mezun eden Ontario lisesi",
+      "Dokuz haftalık dört dönem: aynı anda iki ders, Express Option ile üç ders",
+      "Toronto Üniversitesi, York, Waterloo ve Toronto Metropolitan Üniversitesi ile resmî pathway anlaşmaları",
+      "Uygun bölgeler için kabul sırasında otomatik uygulanan Renaissance Bursu",
+      "Toronto Pathway: okul, mezunlarının %100’ünün Toronto Üniversitesi’nden kabul aldığını belirtir (tarihsiz)"
+    ],
+    "review_flags": [
+      "Türkiye’den başvuranların burs kategorisini teyit edin: Türkiye A–D kategorilerinde adıyla geçmiyor (C: Avrupa, Latin Amerika ve Brezilya, $5.400; D: dünyanın geri kalanı, $5.800).",
+      "Toronto Pathway fiyatları indirilmemiş bir PDF’te yer alıyor; ücret tabloları yalnızca High School ve Pathway programlarını gösteriyor.",
+      "Ücretler Kanada dolarıdır ve çevrilmemiştir. HST’nin dahil olup olmadığı belirtilmemiştir.",
+      "Taksit planları ve ödeme son tarihleri incelenen sayfalarda yayımlanmamıştır.",
+      "Yaş aralığı, öğrenci sayısı, uluslararası öğrenci oranı, cinsiyet politikası ve sınav sonuçları yayımlanmadığı için boş bırakıldı.",
+      "Toronto Üniversitesi’nden %100 kabul iddiası tarihsizdir; yerleştirme listeleri on iki yılı kapsıyor.",
+      "Fotoğraf eklenmedi: ana sayfa slayt görsellerinde yazı gömülü, diğer görsellerde adı belli öğrenciler var. Resmî fotoğraf veya basın kiti temin edilmeli.",
+      "Kaynak sayfada TPP’nin CGW4U1 dersi fizik açıklaması taşıyor; ders içerikleri eklenmedi."
+    ]
+  },
+  "delta-school-district": {
+    "tagline": "Vancouver yakınında 8–12. sınıflar için yedi devlet ortaöğretim okulu; bölgenin kendi homestay ve vasilik programı. Gündüzlü okullar: yatakhane yoktur.",
+    "summary": "Delta School District International Programs, uluslararası öğrencileri Tsawwassen, Ladner ve North Delta bölgelerindeki yedi devlet ortaöğretim okulundan birine yerleştirir; bu bölgeler Vancouver şehir merkezine ve havalimanına kısa bir mesafededir. Öğrenciler British Columbia müfredatını, BC öğretmenlik sertifikalı öğretmenlerden alır; İngilizce (ESL) eğitimi ücrete dahildir ve her okulda bir uluslararası koordinatör bulunur. Bazı okullarda Advanced Placement, International Baccalaureate ve Fransızca immersion seçenekleri vardır. Uluslararası öğrenciler normalde özel bir şirket değil, okul bölgesi personelinin yürüttüğü bölgenin kendi homestay programında kalır; program vasilik ve havalimanı karşılamayı da kapsar. Öğrenciler bölgeye başvurur ve okulu bölge, boyut ve ders düzenine göre seçer.",
+    "school_type": "Devlet okul bölgesi",
+    "year_groups": "8. sınıf – 12. sınıf (ortaöğretim okulları)",
+    "nationalities": "35 ülke",
+    "accommodation": {
+      "summary": "Yatakhane yoktur: uluslararası öğrenciler normalde, özel bir şirket değil okul bölgesi personelinin yürüttüğü bölgenin kendi homestay programında kalır.",
+      "notes": [
+        "Ev sahibi aileler sabıka kaydı kontrolünden geçirilir, görüşülür ve evleri denetlenir. Öğrenciye yatak, çalışma masası ve lambalı özel bir oda, banyo ve çamaşır olanakları, günde üç öğün ve atıştırmalıklar sağlanır; evde ana dil İngilizcedir.",
+        "Okul 20 dakikadan uzun yürüme mesafesindeyse ulaşım yardımı verilir. Homestay öğrencileri için havalimanı karşılama ve uğurlama ücretsizdir.",
+        "Öğrenciler ihtiyaçlarını başvuruda belirtir. Eşleşme yapılınca, varıştan önce iletişime geçebilmeleri için fotoğraflı bir profil ve iletişim bilgileri gönderilir.",
+        "Her bölgenin bir homestay koordinatörü vardır (Tsawwassen; Delta ve Delview; Seaquam ve Burnsview; North Delta ve Sands); koordinatörlere Homestay Müdürü ve kültürel destek personeli yardımcı olur, 7/24 acil durum iletişimi ve bakım sağlanır.",
+        "Öğrenciler evden ayrılmadan önce ev sahibi aileye en az iki hafta önceden haber vermeli veya iki haftalık ücreti ödemelidir.",
+        "Yayımlanan homestay ücreti: 2027–28 ücret tablosunda aylık $1.350, ayrıca yıllık $500 yönetim ücreti."
+      ],
+      "guardianship": "Bölge homestay’indeki öğrenciler için bölge vasiliği sağlanır ($500); homestay’deki öğrenciler için özel vasilik de kabul edilir. Öğrenciler bunun yerine ebeveynleri, akrabaları veya aile dostlarıyla kalabilir ya da özel bir homestay ve vasilik şirketini kullanabilir. Delta’da yaşayan ebeveynler için bölge oryantasyon ve tanışma buluşmaları düzenler, kiralık konut kaynaklarına yönlendirir; IRCC için vasilik belgesi gerekiyorsa tek seferlik $200 alınır."
+    },
+    "qualifications": [
+      "BC Curriculum",
+      "Advanced Placement (AP)",
+      "International Baccalaureate (IB)",
+      "French Immersion"
+    ],
+    "english_support": [
+      "Her ortaöğretim okulunda İngilizce (ESL) eğitimi ücrete dahildir",
+      "Her okulda bir uluslararası koordinatör, uluslararası öğrencilerin ihtiyaçlarıyla ilgilenir",
+      "İngilizce seviyesi okul oryantasyonunda belirlenir; her ayın başında daha küçük oryantasyonlar yapılır"
+    ],
+    "fees": {
+      "headline": {
+        "label": "Program ücreti, tam yıl (10 ay, sağlık sigortası dahil)",
+        "alt": "Homestay, vasilik ve oryantasyon ücretleriyle toplam: $32.900"
+      },
+      "deposit": "",
+      "includes": [
+        "Eğitim ve İngilizce (ESL) dersleri",
+        "Sağlık sigortası"
+      ],
+      "tiers": [
+        {
+          "label": "2027–28 ücretleri: tam yıl ve tek dönem",
+          "columns": [
+            "Kalem",
+            "Tam yıl (10 ay)",
+            "Tek dönem (5 ay)"
+          ],
+          "rows": [
+            [
+              "Başvuru ücreti (iade edilmez, başvuruyla birlikte ödenir)",
+              200,
+              200
+            ],
+            [
+              "Program ücreti (sağlık sigortası dahil; aylık $1.790)",
+              17900,
+              8950
+            ],
+            [
+              "Yıllık homestay yönetim ücreti",
+              500,
+              500
+            ],
+            [
+              "Homestay ücreti (aylık $1.350; tutarın tamamı aileye gider)",
+              13500,
+              6750
+            ],
+            [
+              "Vasilik ücreti (Delta homestay’indeki öğrenciler)",
+              500,
+              500
+            ],
+            [
+              "Havalimanı karşılama ve uğurlama",
+              "Homestay öğrencileri için ücretsiz",
+              "Homestay öğrencileri için ücretsiz"
+            ],
+            [
+              "Oryantasyon ücreti (yalnızca Eylül’de başlayan yeni ortaöğretim öğrencileri)",
+              300,
+              300
+            ],
+            [
+              "Toplam",
+              32900,
+              17200
+            ]
+          ],
+          "note": "Kanada doları cinsindendir. Homestay yönetim ücreti program başlangıcından sonraki 90 gün içinde iade edilmez. Toplam, homestay ve bölge vasiliğini varsayar."
+        },
+        {
+          "label": "Diğer ücretler",
+          "columns": [
+            "Ücret",
+            "Tutar"
+          ],
+          "rows": [
+            [
+              "Yenileme ücreti (dönen öğrenciler)",
+              100
+            ],
+            [
+              "Yaz dönemi sağlık sigortası (dönen öğrenciler)",
+              260
+            ],
+            [
+              "Uzatma ücreti (süresini uzatan öğrenciler)",
+              100
+            ],
+            [
+              "IRCC için vasilik belgeleri (ebeveynle kalan öğrenciler, tek seferlik)",
+              200
+            ]
+          ],
+          "note": "Geçerli olduklarında yukarıdaki tabloya ek olarak alınır. Yaz dersleri için ek ücretler uygulanır."
+        }
+      ],
+      "notes": [
+        "Bu, 2027–28 ücret tablosudur (Şubat 2026’da güncellenmiştir). Ücretler her yıl gözden geçirilir ve değişebilir.",
+        "Ücret tablosunda kısa dönem, mezuniyet veya yaz programları ile bölge homestay’ini kullanmayan öğrenciler için ayrı fiyat yoktur.",
+        "İadeler: öğrenim izni reddedilirse ve ret mektubunun aslı sunulursa program ücreti, $200 başvuru ücreti düşülerek tamamen iade edilir (Kanada içinden yeni izin başvurusu yapan ve derslere başlamış öğrenciler bunun dışındadır). Öğrenci program başlamadan önce veya ilk takvim ayı içinde ayrılırsa %50 iade edilir; bir aydan sonra ya da sözleşmeyi ihlal ettiği için okuldan çıkarılırsa iade yapılmaz.",
+        "Tüm iadelerden $500 idari ücret kesilir; öğrenim izni veya vize reddi bunun dışındadır. Erteleme nadirdir, Müdür’ün takdirindedir ve $500 artı varsa ücret farkı tutarındadır.",
+        "Başvuru ücreti iade edilmez; homestay yönetim ve vasilik ücretleri program başlangıcından sonraki 90 gün içinde iade edilmez."
+      ],
+      "payment": "Onaylanan başvuru sahiplerine fatura kesilir; Kabul Mektubu verilmeden önce program ücretinin tamamı ödenir. Ödeme banka havalesiyle (havalede öğrencinin adı yer almalıdır) ya da Delta School District adına düzenlenmiş onaylı çek veya banka çekiyle yapılır."
+    },
+    "admissions": {
+      "intake": "Esnek programlar; her ayın başında oryantasyon yapılır, Eylül’de yeni uluslararası öğrenciler için etkinlik gezisi düzenlenir. Dönem sistemli okullar yıl ortasında gelen öğrencilere uygundur. Başlangıç tarihi ve ders düzeni seçilen okulla teyit edilmelidir.",
+      "assessments": [
+        "Okul oryantasyonunda İngilizce seviye belirleme",
+        "Okul programı ve derslerin oryantasyonda teyit edilmesi"
+      ],
+      "documents": [
+        "Başvuru formu (çevrimiçi veya e-posta ile)",
+        "Son 3 yılın karneleri",
+        "Başvuru ücreti ($200, iade edilmez)",
+        "Başvuru formunda homestay ve vasilik tercihleri"
+      ],
+      "steps": [
+        "Yedi ortaöğretim okulunu karşılaştırmak, kontenjan ve başlangıç tarihlerini kontrol etmek için K12 Onboard’a başvurun.",
+        "Başvuru formunu, son üç yılın karnelerini ve başvuru ücretini gönderin.",
+        "Onaydan sonra fatura ve kabul teklifini alın, program ücretinin tamamını ödeyin.",
+        "Kabul Mektubu’nu alın, homestay ve vasiliği teyit edin, Zoom üzerinden yapılan ayrılış öncesi oryantasyona katılın."
+      ],
+      "entry_routes": [
+        {
+          "programme": "Tam yıl (10 ay)",
+          "requirement": "Son 3 yılın karneleri. Öğrenciler okulu bölgeye, boyuta ve dönem veya lineer ders düzenine göre seçer.",
+          "starts": "Esnek; aylık oryantasyonlar. Kontenjan teyit edilmeli"
+        },
+        {
+          "programme": "Tek dönem (5 ay)",
+          "requirement": "Tam yıl ile aynı. Dönem sistemli okullar yıl ortası girişlere uygundur; lineer okulda yarım yıllık öğrenci yine sekiz dersin hepsini alır.",
+          "starts": "Esnek. Kontenjan teyit edilmeli"
+        },
+        {
+          "programme": "Kısa dönem ve mezuniyet programları",
+          "requirement": "Bölge tarafından sunulur; giriş koşulları ve ücretler incelenen sayfalarda yoktur.",
+          "starts": "Kısa dönem: herhangi bir ayın başı (eski broşür). Teyit edilmeli"
+        }
+      ],
+      "note": "Başvurular bölge tarafından işlenir; bölge onaylı acenta ortaklarıyla çalışır. Bölge homestay’indeki 18 yaş altı öğrenciler bölge vasiliği kapsamındadır. İlkokul (Anaokulu – 7. sınıf) ve yaz programları da vardır ancak burada listelenmemiştir."
+    },
+    "district_schools": [
+      {
+        "schedule": "8. sınıf lineer; 9–12. sınıflar dönem sistemi",
+        "programmes": [
+          "İngilizce 8–12",
+          "Fransızca immersion 8–12",
+          "Robotik"
+        ],
+        "summary": "Yüksek akademik standartları ve güçlü öğrenci başarısıyla küçük bir okul. Fen bilimlerinden ve Robotik’ten Sanat ve Uygulamalı Beceri derslerine kadar geniş bir seçenek yelpazesi sunar; çok aktif öğrenci liderlik grupları, kulüpler ve spor takımları vardır; okul, bağlantı kurmaya ve kendini düzenleyen, akademik olarak ilgili öğrenciler yetiştirmeye odaklanır."
+      },
+      {
+        "schedule": "8–9. sınıflar lineer; 10–12. sınıflar çoğunlukla dönem sistemi",
+        "programmes": [
+          "İngilizce 8–12",
+          "Advanced Placement"
+        ],
+        "summary": "Tarihî çiftçilik ve balıkçılık bölgesi Ladner’da yer alır; okul ve toplulukla paylaşılan sahne gösterileri için 400 kişilik Genesis Theatre burada bulunur. Programlar ve etkinlikler akademik dersleri, işletmeyi, mutfak sanatlarını, güzel ve sahne sanatlarını, uygulamalı tasarım ve beceri teknolojisini ve atletizmi kapsar; çok sayıda takım, kulüp ve ders vardır. Okul, öğrencilerinin yaklaşık %90’ının ana dilinin İngilizce olduğunu belirtir."
+      },
+      {
+        "schedule": "Dönem sistemi",
+        "programmes": [
+          "İngilizce 8–12",
+          "Raider Leadership dersi",
+          "Delta Gençlik Danışma Kurulu (DYAC)"
+        ],
+        "summary": "Bölgedeki en küçük ortaöğretim okulu; North Delta’nın merkezindedir. Kişisel yaklaşım ve bağ kurma, katılım, ruh sağlığı ve iyi oluşa odaklanan ilgili bir kadro sunar. Haftada dört gün 35 dakikalık esnek zaman, öğrencilerin öğretmenlerine ulaşmasına, ödevlerini tamamlamasına veya kendi projelerini sürdürmesine olanak verir. Olanaklar arasında büyük bir spor salonu, fitness merkezi, yenilenmiş bilgisayar laboratuvarları, medya sanatları odası ve marangoz atölyesi vardır; yakında bir toplum spor merkezi bulunur."
+      },
+      {
+        "schedule": "Dönem sistemi",
+        "programmes": [
+          "İngilizce 8–12",
+          "Atletizm programı"
+        ],
+        "summary": "Daha kentsel bir bölgede, ağırlıklı olarak dönem sistemiyle çalışan, çeşitli, çok kültürlü ve kapsayıcı bir okul. Dönem sistemi, yıl ortasında gelen öğrencilere esneklik sağlar. Dersler Fen, Matematik, Sosyal Bilgiler, Dil ve Edebiyat, Beden Eğitimi, Uygulamalı Beceriler, Yabancı Diller ile Güzel ve Sahne Sanatları alanlarını kapsar; okul sonbahar, kış ve ilkbahar sezonlarındaki atletizm programıyla tanınır."
+      },
+      {
+        "schedule": "Dönem sistemi",
+        "programmes": [
+          "İngilizce 8–12",
+          "AP Calculus",
+          "AP Psychology",
+          "AP Art"
+        ],
+        "summary": "North Delta’nın banliyö kesiminde, rahat ve samimi bir kampüse sahip küçük bir okul; öğrencilerle daha yakından ilgilenilir. Öğrenci liderlik grubu sosyal sorumluluğu ve küresel vizyonu teşvik eder (okulun sloganı: “Creating Our Future Today”). Haftada dört gün FLEX zamanı, öğrencilerin ek destek almasını sağlar; ders dışı seçenekler arasında atletizm, kulüpler, Öğrenci Konseyi ve Bölge Gençlik Danışma Kurulu bulunur."
+      },
+      {
+        "schedule": "Lineer",
+        "programmes": [
+          "İngilizce 8–12",
+          "International Baccalaureate (IB)",
+          "Güzel Sanatlar",
+          "Kariyer programları"
+        ],
+        "summary": "Güçlü bir akademik başarı geleneği vardır; mezunlar Kanada ve ABD’deki üniversitelerde burs kazanır. Seaquam, IB programının yanı sıra geniş bir Güzel Sanatlar ve Kariyer programı seçkisi, çok sayıda atletizm takımı, kulüp ve dış etkinlik sunar; okul North Delta’nın hoş bir semtindedir."
+      },
+      {
+        "schedule": "Ağırlıklı lineer; bazı 12. sınıf akademik dersleri dönem sisteminde",
+        "programmes": [
+          "İngilizce 8–12",
+          "Fransızca immersion 8–12",
+          "Advanced Placement",
+          "Müzikal tiyatro",
+          "İlk Müdahale (First Responders)",
+          "Film ve Televizyon Yapımı Akademisi",
+          "Eğitim kafeteryası"
+        ],
+        "summary": "Plajlara, golf sahalarına ve parklara yakın, küçük, güvenli ve aile odaklı Tsawwassen semtindedir. Öğrenciler tutarlı biçimde güçlü akademik sonuçlar alır. Okul AP, Fransızca immersion, akademik dersler, uygulamalı beceriler ve güzel sanatlar sunar; her yıl Broadway tarzı bir müzikal sahneleyen saygın bir Müzikal Tiyatro programı vardır. Okul, spor takımlarını (Sundevils) eyaletin en güçlüleri arasında gösterir; Öğrenci Konseyi, Interact ve kayak gibi kulüpler de bulunur."
+      }
+    ],
+    "district_schools_note": "Yedi okulun hepsi İngilizce (ESL) eğitimi, rehber öğretmenler ve bir uluslararası koordinatör sunan devlet ortaöğretim okuludur. Öğrenci sayıları yuvarlaktır ve kaynaklara göre değişir; güncel rakamlar ve ders düzeni okulla teyit edilmelidir. Öğrenciler okulu bölgeye, boyuta ve ders düzenine göre seçer.",
+    "facilities": [
+      "Delta Secondary’de 400 kişilik Genesis Theatre",
+      "Delview’de büyük spor salonu, fitness merkezi, bilgisayar laboratuvarları, medya sanatları odası ve marangoz atölyesi",
+      "South Delta’da eğitim kafeteryası ve Film ve Televizyon Yapımı Akademisi",
+      "Her ortaöğretim okulunda özel, güncel kapalı ve açık alan olanakları"
+    ],
+    "highlights": [
+      "Tsawwassen, Ladner ve North Delta’da 8–12. sınıflar için yedi devlet ortaöğretim okulu",
+      "7/24 destekli, bölgenin kendi homestay ve vasilik programı",
+      "Ücrete dahil İngilizce (ESL) eğitimi ve her okulda uluslararası koordinatör",
+      "Advanced Placement, International Baccalaureate ve Fransızca immersion seçenekleri",
+      "Aylık gözetimli gezi etkinlikleri ve her Kasım’da Üniversite Fuarı"
+    ],
+    "review_flags": [
+      "Öğrenci sayıları kaynaklara göre değişiyor: Delta Secondary künyesinde 1.500 öğrenci ve 125 uluslararası öğrenci, metninde ise yaklaşık 1.400 ve 120 yazıyor; North Delta web sitesinde 1.400, kendi metninde yaklaşık 1.300, broşürlerde 1.200. Web sitesindeki rakamlar kullanıldı.",
+      "Delta Secondary sayfasında AP dersi listelenmiyor; AP bilgisi 2024 broşüründen alındı. Akademiler, ders sayıları ve spor listeleri yalnızca 2019 broşüründe geçtiği için eklenmedi.",
+      "Ücret tablosu 2027–28 içindir (Şubat 2026’da güncellendi). Ev sahibi aile sayfası Eylül 2026’dan itibaren aylık $1.300 homestay ücreti yazarken, ücret tablosunda $1.350 yazıyor.",
+      "Ücret tablosunda kısa dönem, mezuniyet veya yaz programları ile homestay kullanmayan öğrenciler için fiyat yok; hiçbiri eklenmedi.",
+      "Yalnızca yedi ortaöğretim okulu (8–12. sınıflar) eklendi. İlkokullar (24 okul, Anaokulu – 7. sınıf), yaz programları ve Mezuniyet programı kapsam dışıdır.",
+      "Fotoğraf sağlanmadı veya indirilmedi. Bölge için yaş aralığı, öğrenci yapısı ve kuruluş yılı yayımlanmadığı için boş bırakıldı.",
+      "Ücretler Kanada dolarıdır ve çevrilmemiştir; bu nedenle ücrete göre sıralamada yıllık tutar boş bırakıldı."
+    ]
   }
 }
