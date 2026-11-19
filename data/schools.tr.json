@@ -1091,11 +1091,11 @@
     ]
   },
   "mpw-london": {
-    "tagline": "South Kensington’da GCSE, A Level ve foundation eğitimi; Queen’s Gate House’ta yatılı konaklama.",
-    "summary": "MPW London, GCSE ve A Level eğitiminde esnek ve sınav odaklı bir yaklaşım benimseyen bağımsız bir lise kolejidir. Director of Studies sistemiyle bireysel akademik destek ve üniversite başvuru rehberliği sunulur. Londra kampüsünde ayrıca MPW University Foundation Programme ve UAL Foundation Diploma in Art and Design bulunur. Ana okul binasına kısa yürüyüş mesafesindeki Queen’s Gate House tam yatılı konaklama sağlar.",
+    "tagline": "South Kensington’da GCSE ve A Level eğitimi; Queen’s Gate House’ta yatılı konaklama.",
+    "summary": "MPW London, GCSE ve A Level eğitiminde esnek ve sınav odaklı bir yaklaşım benimseyen bağımsız bir lise kolejidir. Director of Studies sistemiyle bireysel akademik destek ve üniversite başvuru rehberliği sunulur. Ana okul binasına kısa yürüyüş mesafesindeki Queen’s Gate House tam yatılı konaklama sağlar.",
     "school_type": "Yatılı ve gündüzlü kolej",
     "gender": "Karma",
-    "year_groups": "GCSE, Sixth Form, sınav tekrarı ve üniversite hazırlığı",
+    "year_groups": "GCSE, Sixth Form ve sınav tekrarı",
     "boarding": {
       "notes": [
         "Queen’s Gate House, ana okul binasına birkaç dakika yürüme mesafesinde, banyolu tek kişilik odalarda tam yatılı konaklama sunar. Öğrencinin yatılılığa uygunluğu ve ücretler bireysel olarak teyit edilmelidir.",
@@ -1105,13 +1105,12 @@
     },
     "english_support": [
       "Kabul sırasında İngilizce seviye değerlendirmesi; eğitim boyunca ek İngilizce desteği gerekebilir",
-      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir.",
-      "Foundation programlarında akademik İngilizce desteği bulunur veya sunulur; koşullar programa göre değişir."
+      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir."
     ],
     "fees": {
       "headline": {
-        "label": "Uluslararası GCSE / A Level için fiyat teklifi gerekli",
-        "alt": "Yayımlanan referans ve foundation ücretleri aşağıdadır"
+        "label": "GCSE veya A Level eğitim ücreti, KDV hariç",
+        "alt": "%20 KDV ile £14.790"
       },
       "deposit": "Uluslararası kayıt ücreti, kabul depozitosu ve iade koşulları teklif üzerinden teyit edilmelidir.",
       "tiers": [
@@ -1128,49 +1127,17 @@
             ]
           ],
           "note": "2026/27 temel ücreti; uygulanması halinde %20 KDV eklenir ve dönemlik tutar £14.790 olur. Ders seçimi teklifi etkiler; yatılı konaklama dahil değildir."
-        },
-        {
-          "label": "MPW University Foundation — programın tamamı",
-          "columns": [
-            "Program",
-            "KDV dahil"
-          ],
-          "rows": [
-            [
-              "Üç dönem",
-              36566
-            ],
-            [
-              "İki dönem: yalnızca Business and Economics",
-              25584
-            ]
-          ],
-          "note": "Eylül 2026 / Ocak 2027 başlangıçları için yayımlanmıştır. Eğitim ücretine %20 KDV dahildir; konaklama ayrıdır."
-        },
-        {
-          "label": "UAL Foundation Diploma — programın tamamı",
-          "columns": [
-            "Program",
-            "KDV dahil"
-          ],
-          "rows": [
-            [
-              "Art and Design, üç dönem",
-              38314
-            ]
-          ],
-          "note": "Temel bilgiler sayfasında %20 KDV dahil olduğu belirtilir; akademik yıl belirtilmez. Hedeflenen başlangıç için ücret teyit edilmelidir."
         }
       ],
       "notes": [
-        "Uluslararası GCSE/A Level için gösterilebilecek kesin bir ana ücret doğrulanmadı. Programa özel eğitim teklifi alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
-        "Kampüs GCSE/A Level referans ücretleri, uygulanması halinde KDV hariçtir; foundation tablolarında KDV dahil eğitim ücretleri yer alır. Bu tutarlar birbirinin yerine kullanılamaz.",
+        "Ana ücret, yayımlanan kampüs eğitim ücretidir; doğrulanmış bir uluslararası öğrenci ücreti değildir. Programa özel teklif alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
+        "Yayımlanan kampüs ücretleri KDV hariçtir; uygulanması halinde %20 KDV eklenir.",
         "Kabul öncesinde İngilizce desteği, sınav ücretleri, geziler, vasilik ve konaklama ek ücretleri teyit edilmelidir."
       ],
       "payment": "Ödeme tarihleri ve sözleşme koşulları kişiye özel tekliften teyit edilmelidir."
     },
     "admissions": {
-      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir. Foundation başlangıçları programa göre değişir.",
+      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir.",
       "assessments": [
         "Mülakat ve akademik geçmişin değerlendirilmesi",
         "Uygun İngilizce eğitim geçmişi bulunmayan adaylar için İngilizce değerlendirmesi ve/veya tanınan bir İngilizce sınavı"
@@ -1196,19 +1163,9 @@
           "programme": "A Level / sınav tekrarı",
           "requirement": "Akademik geçmiş, mülakat ve derslere uygunluk. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0; 18 aylık programın koşulları teyit edilmelidir.",
           "starts": "Normalde eylül; ocak başlangıçlı 18 aylık seçenek teyide tabidir."
-        },
-        {
-          "programme": "MPW University Foundation Programme",
-          "requirement": "Normalde 17 yaş ve üzeri; 11 veya 12 yıllık eğitimin iyi notlarla tamamlanması. Alana göre IELTS 5.0/5.5; kabul edilen sınav ve alt puanlar teyit edilmelidir. 16 yaşındaki adaylar bireysel olarak değerlendirilebilir.",
-          "starts": "Eylül: üç dönem. Ocak: iki dönem, yalnızca Business and Economics."
-        },
-        {
-          "programme": "UAL Foundation Diploma in Art and Design",
-          "requirement": "17 yaş ve üzeri; matematik ve İngilizce dahil beş GCSE dersinde en az 4 veya yayımlanan uluslararası denklik kapsamında iyi notlarla tamamlanmış 12 yıllık eğitim ve güçlü okul raporu. IELTS 5.0 veya dengi.",
-          "starts": "Bir akademik yıl / üç dönem; başlangıç teyit edilmelidir."
         }
       ],
-      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir. GCSE/A Level gruplarından farklı olarak foundation sınıfları 14 öğrenciye ulaşabilir."
+      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir."
     },
     "facilities": [
       "Fen ve bilgisayar laboratuvarları",
@@ -1219,10 +1176,8 @@
     ],
     "highlights": [
       "Director of Studies sistemiyle bireysel akademik rehberlik",
-      "Küçük GCSE/A Level sınıfları; foundation programlarında en fazla 14 öğrenci",
-      "Üniversite başvurusu ve mülakat hazırlığı",
-      "MPW University Foundation: beş alan seçeneği",
-      "UAL Foundation Diploma in Art and Design"
+      "Küçük GCSE/A Level sınıfları",
+      "Üniversite başvurusu ve mülakat hazırlığı"
     ],
     "images": {
       "hero": {
@@ -1244,19 +1199,19 @@
       "credit": "Fotoğraflar: © MPW"
     },
     "review_flags": [
-      "Uluslararası GCSE/A Level eğitimi ve varsa konaklama paketi için kişiye özel güncel teklif alınmalıdır. Yayımlanan kampüs eğitim ücretleri referanstır; uluslararası öğrenci paket fiyatı değildir.",
-      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı. Foundation programları normalde 17 yaşında başlar; bu, okulun tamamının yaş aralığı değildir.",
+      "Ana ücret olarak yayımlanan kampüs GCSE/A Level eğitim ücreti (%20 KDV hariç) gösterilir. Uluslararası öğrenciye özel ücretler ve varsa konaklama paketi için ayrıca teklif alınmalıdır.",
+      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı.",
       "Doğrulanmış kampüs geneli GCSE/A Level başarı yüzdeleri gösterilmiyor. Bireysel öğrenci yorumları ve grup genelindeki sonuçlar kampüs istatistiği olarak kullanılmadı.",
       "Programa özel not koşulları, dersler, başlangıç tarihleri, İngilizce değerlendirmesi, depozitolar, konaklama ve vasi düzenlemeleri teyit edilmelidir. 2027/28 ücretleri doğrulanmadı.",
       "Londra kaynaklarında GCSE/A Level sınıf mevcudu üst sınırı (dokuz veya on) ve laboratuvar sayıları farklıdır. Bu nedenle küçük sınıflar ve laboratuvar olanakları, çelişkili kesin sayı verilmeden belirtilmiştir. Yatılılık yaş koşulları, tatil konaklaması ve ücretleri doğrulanmadı."
     ]
   },
   "mpw-birmingham": {
-    "tagline": "Edgbaston’da küçük sınıflar ve bireysel rehberlikle GCSE, A Level ve NCUK Foundation.",
-    "summary": "MPW Birmingham, Edgbaston’da bulunan bağımsız bir lise kolejidir. Küçük GCSE/A Level sınıfları, haftalık süreli sınav çalışmaları ve bireysel danışmanlık, akademik gelişimi ve üniversite hazırlığını destekler. Kampüste GCSE ve A Level yanında eylül ve ocak başlangıç seçenekleriyle NCUK International Foundation Year sunulur. Spor, münazara, Model Birleşmiş Milletler ve toplum hizmeti çalışmaları ders dışı etkinlikler arasındadır.",
+    "tagline": "Edgbaston’da küçük sınıflar ve bireysel rehberlikle GCSE ve A Level.",
+    "summary": "MPW Birmingham, Edgbaston’da bulunan bağımsız bir lise kolejidir. Küçük GCSE/A Level sınıfları, haftalık süreli sınav çalışmaları ve bireysel danışmanlık, akademik gelişimi ve üniversite hazırlığını destekler. Spor, münazara, Model Birleşmiş Milletler ve toplum hizmeti çalışmaları ders dışı etkinlikler arasındadır.",
     "school_type": "Gündüzlü kolej",
     "gender": "Karma",
-    "year_groups": "GCSE, Sixth Form, sınav tekrarı ve üniversite hazırlığı",
+    "year_groups": "GCSE, Sixth Form ve sınav tekrarı",
     "boarding": {
       "notes": []
     },
@@ -1270,13 +1225,12 @@
     },
     "english_support": [
       "Kabul sırasında İngilizce seviye değerlendirmesi; eğitim boyunca ek İngilizce desteği gerekebilir",
-      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir.",
-      "Foundation programlarında akademik İngilizce desteği bulunur veya sunulur; koşullar programa göre değişir."
+      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir."
     ],
     "fees": {
       "headline": {
-        "label": "Uluslararası GCSE / A Level için fiyat teklifi gerekli",
-        "alt": "Yayımlanan referans ve foundation ücretleri aşağıdadır"
+        "label": "İki yıllık A Level eğitim ücreti, KDV hariç",
+        "alt": "%20 KDV ile yaklaşık £10.331"
       },
       "deposit": "Uluslararası kayıt ücreti, kabul depozitosu ve iade koşulları teklif üzerinden teyit edilmelidir.",
       "tiers": [
@@ -1317,31 +1271,17 @@
             ]
           ],
           "note": "2026/27. Uygulanması halinde %20 KDV eklenir. Sayfa, uluslararası adayları ayrı uluslararası ücretlere yönlendirir; bunlar doğrulanmış uluslararası öğrenci ücretleri değildir."
-        },
-        {
-          "label": "NCUK International Foundation Year — programın tamamı",
-          "columns": [
-            "Program",
-            "KDV dahil"
-          ],
-          "rows": [
-            [
-              "Üç dönem (eylül) veya iki dönem (ocak)",
-              27550
-            ]
-          ],
-          "note": "2026/27 eğitim ücretine %20 KDV, NCUK kaydı, sınavlar ve üniversiteye yerleşme desteği dahildir. Konaklama ayrıdır."
         }
       ],
       "notes": [
-        "Uluslararası GCSE/A Level için gösterilebilecek kesin bir ana ücret doğrulanmadı. Programa özel eğitim teklifi alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
-        "Kampüs GCSE/A Level referans ücretleri, uygulanması halinde KDV hariçtir; foundation tablolarında KDV dahil eğitim ücretleri yer alır. Bu tutarlar birbirinin yerine kullanılamaz.",
+        "Ana ücret, yayımlanan kampüs eğitim ücretidir; doğrulanmış bir uluslararası öğrenci ücreti değildir. Programa özel teklif alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
+        "Yayımlanan kampüs ücretleri KDV hariçtir; uygulanması halinde %20 KDV eklenir.",
         "Kabul öncesinde İngilizce desteği, sınav ücretleri, geziler, vasilik ve konaklama ek ücretleri teyit edilmelidir."
       ],
       "payment": "Ödeme tarihleri ve sözleşme koşulları kişiye özel tekliften teyit edilmelidir."
     },
     "admissions": {
-      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir. Foundation başlangıçları programa göre değişir.",
+      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir.",
       "assessments": [
         "Mülakat ve akademik geçmişin değerlendirilmesi",
         "Uygun İngilizce eğitim geçmişi bulunmayan adaylar için İngilizce değerlendirmesi ve/veya tanınan bir İngilizce sınavı"
@@ -1367,14 +1307,9 @@
           "programme": "A Level / sınav tekrarı",
           "requirement": "Akademik geçmiş, mülakat ve derslere uygunluk. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0; 18 aylık programın koşulları teyit edilmelidir.",
           "starts": "Normalde eylül; ocak başlangıçlı 18 aylık seçenek teyide tabidir."
-        },
-        {
-          "programme": "NCUK International Foundation Year",
-          "requirement": "17 yaş ve üzeri; iyi notlarla tamamlanmış 12 yıllık eğitim veya dengi. Eylül: IELTS 5.5, her bölüm en az 5.0. Ocak: IELTS 6.0, her bölüm en az 5.5.",
-          "starts": "Eylül (üç dönem) veya ocak (iki dönem)."
         }
       ],
-      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir. GCSE/A Level gruplarından farklı olarak foundation sınıfları 14 öğrenciye ulaşabilir."
+      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir."
     },
     "facilities": [
       "Fen laboratuvarları",
@@ -1386,7 +1321,6 @@
       "GCSE/A Level sınıflarında ondan az öğrenci",
       "Haftalık süreli sınav çalışmaları ve bireysel gelişim planları",
       "Bireysel danışman ve üniversite başvuru desteği",
-      "NCUK Foundation: eylül veya hızlandırılmış ocak başlangıcı",
       "Münazara, Model Birleşmiş Milletler ve Duke of Edinburgh etkinlikleri"
     ],
     "images": {
@@ -1405,19 +1339,19 @@
       "credit": "Fotoğraflar: © MPW"
     },
     "review_flags": [
-      "Uluslararası GCSE/A Level eğitimi ve varsa konaklama paketi için kişiye özel güncel teklif alınmalıdır. Yayımlanan kampüs eğitim ücretleri referanstır; uluslararası öğrenci paket fiyatı değildir.",
-      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı. Foundation programları normalde 17 yaşında başlar; bu, okulun tamamının yaş aralığı değildir.",
+      "Ana ücret olarak yayımlanan kampüs GCSE/A Level eğitim ücreti (%20 KDV hariç) gösterilir. Uluslararası öğrenciye özel ücretler ve varsa konaklama paketi için ayrıca teklif alınmalıdır.",
+      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı.",
       "Doğrulanmış kampüs geneli GCSE/A Level başarı yüzdeleri gösterilmiyor. Bireysel öğrenci yorumları ve grup genelindeki sonuçlar kampüs istatistiği olarak kullanılmadı.",
       "Programa özel not koşulları, dersler, başlangıç tarihleri, İngilizce değerlendirmesi, depozitolar, konaklama ve vasi düzenlemeleri teyit edilmelidir. 2027/28 ücretleri doğrulanmadı.",
       "Kampüs ücret sayfası, uygulanması halinde KDV hariç £350 kayıt ve dönemlik £2.000 EAL belirtir; uluslararası öğrencileri ayrı ücretlere yönlendirir. Bu tutarlar uluslararası öğrenci ücreti olarak kabul edilmedi."
     ]
   },
   "mpw-cambridge": {
-    "tagline": "Cambridge Botanik Bahçesi yakınında GCSE, A Level ve NCUK Foundation.",
-    "summary": "MPW Cambridge, Botanik Bahçesi yakınındaki Brookside ve Panton Street’te birbirine bitişik binalarda eğitim veren bağımsız bir lise kolejidir. GCSE ve A Level öğrencileri küçük sınıflarda öğrenim görür; haftalık bire bir danışman görüşmeleri ve üniversite başvuru hazırlığıyla desteklenir. Kampüste eylül başlangıçlı NCUK International Foundation Year da sunulur. Spor olanakları The Leys School aracılığıyla sağlanır.",
+    "tagline": "Cambridge Botanik Bahçesi yakınında GCSE ve A Level.",
+    "summary": "MPW Cambridge, Botanik Bahçesi yakınındaki Brookside ve Panton Street’te birbirine bitişik binalarda eğitim veren bağımsız bir lise kolejidir. GCSE ve A Level öğrencileri küçük sınıflarda öğrenim görür; haftalık bire bir danışman görüşmeleri ve üniversite başvuru hazırlığıyla desteklenir. Spor olanakları The Leys School aracılığıyla sağlanır.",
     "school_type": "Gündüzlü kolej",
     "gender": "Karma",
-    "year_groups": "GCSE, Sixth Form, sınav tekrarı ve üniversite hazırlığı",
+    "year_groups": "GCSE, Sixth Form ve sınav tekrarı",
     "boarding": {
       "notes": []
     },
@@ -1431,13 +1365,12 @@
     },
     "english_support": [
       "Kabul sırasında İngilizce seviye değerlendirmesi; eğitim boyunca ek İngilizce desteği gerekebilir",
-      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir.",
-      "Foundation programlarında akademik İngilizce desteği bulunur veya sunulur; koşullar programa göre değişir."
+      "Yayımlanan asgari IELTS veya dengi: iki yıllık GCSE/A Level için 5.5; bir yıllık GCSE/A Level için 6.0. Program ve kabul edilen sınav teyit edilmelidir."
     ],
     "fees": {
       "headline": {
-        "label": "Uluslararası GCSE / A Level için fiyat teklifi gerekli",
-        "alt": "Yayımlanan referans ve foundation ücretleri aşağıdadır"
+        "label": "A Level eğitim ücreti, KDV hariç",
+        "alt": "GCSE £9.310 · %20 KDV ile £11.644"
       },
       "deposit": "Uluslararası kayıt ücreti, kabul depozitosu ve iade koşulları teklif üzerinden teyit edilmelidir.",
       "tiers": [
@@ -1458,31 +1391,17 @@
             ]
           ],
           "note": "2026/27; uygulanması halinde %20 KDV eklenir. %20 KDV ile dönemlik GCSE £11.172; A Level £11.643,60 olur. Uluslararası ücret ve bireysel ders seçimi teyit edilmelidir. Konaklama ayrıdır."
-        },
-        {
-          "label": "NCUK International Foundation Year — programın tamamı",
-          "columns": [
-            "Program",
-            "KDV dahil"
-          ],
-          "rows": [
-            [
-              "Üç dönem (eylül)",
-              31138
-            ]
-          ],
-          "note": "2026/27 eğitim ücretine %20 KDV, NCUK kaydı, sınavlar ve üniversiteye yerleşme desteği dahildir. Ocak başlangıcı yalnızca Birmingham için duyurulmuştur."
         }
       ],
       "notes": [
-        "Uluslararası GCSE/A Level için gösterilebilecek kesin bir ana ücret doğrulanmadı. Programa özel eğitim teklifi alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
-        "Kampüs GCSE/A Level referans ücretleri, uygulanması halinde KDV hariçtir; foundation tablolarında KDV dahil eğitim ücretleri yer alır. Bu tutarlar birbirinin yerine kullanılamaz.",
+        "Ana ücret, yayımlanan kampüs eğitim ücretidir; doğrulanmış bir uluslararası öğrenci ücreti değildir. Programa özel teklif alınmalı ve konaklama ayrıca bütçelendirilmelidir.",
+        "Yayımlanan kampüs ücretleri KDV hariçtir; uygulanması halinde %20 KDV eklenir.",
         "Kabul öncesinde İngilizce desteği, sınav ücretleri, geziler, vasilik ve konaklama ek ücretleri teyit edilmelidir."
       ],
       "payment": "Ödeme tarihleri ve sözleşme koşulları kişiye özel tekliften teyit edilmelidir."
     },
     "admissions": {
-      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir. Foundation başlangıçları programa göre değişir.",
+      "intake": "Ana başlangıç eylüldür. Ocak başlangıçlı 18 aylık A Level seçeneği duyurulur; kampüs, dersler ve kontenjan teyit edilmelidir.",
       "assessments": [
         "Mülakat ve akademik geçmişin değerlendirilmesi",
         "Uygun İngilizce eğitim geçmişi bulunmayan adaylar için İngilizce değerlendirmesi ve/veya tanınan bir İngilizce sınavı"
@@ -1508,14 +1427,9 @@
           "programme": "A Level / sınav tekrarı",
           "requirement": "Akademik geçmiş, mülakat ve derslere uygunluk. Yayımlanan IELTS alt sınırı iki yıl için 5.5, bir yıl için 6.0; 18 aylık programın koşulları teyit edilmelidir.",
           "starts": "Normalde eylül; ocak başlangıçlı 18 aylık seçenek teyide tabidir."
-        },
-        {
-          "programme": "NCUK International Foundation Year",
-          "requirement": "17 yaş ve üzeri; iyi notlarla tamamlanmış 12 yıllık eğitim veya dengi. Eylül: IELTS 5.5, her bölüm en az 5.0.",
-          "starts": "Eylül (üç dönem)."
         }
       ],
-      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir. GCSE/A Level gruplarından farklı olarak foundation sınıfları 14 öğrenciye ulaşabilir."
+      "note": "Dil alt sınırını karşılamak kabul garantisi değildir. Uluslararası akademik denklik ve seçilen programın güncel koşulları teyit edilmelidir."
     },
     "facilities": [
       "Üç fen laboratuvarı ve bir sanat dersliği",
@@ -1529,7 +1443,6 @@
       "GCSE/A Level sınıflarında bir ila dokuz öğrenci",
       "Bireysel danışmanla haftalık bire bir görüşmeler",
       "Üniversite giriş sınavı ve mülakat hazırlığı",
-      "Eylül başlangıçlı NCUK International Foundation Year",
       "Cambridge merkezinde konum"
     ],
     "images": {
@@ -1548,8 +1461,8 @@
       "credit": "Fotoğraflar: © MPW"
     },
     "review_flags": [
-      "Uluslararası GCSE/A Level eğitimi ve varsa konaklama paketi için kişiye özel güncel teklif alınmalıdır. Yayımlanan kampüs eğitim ücretleri referanstır; uluslararası öğrenci paket fiyatı değildir.",
-      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı. Foundation programları normalde 17 yaşında başlar; bu, okulun tamamının yaş aralığı değildir.",
+      "Ana ücret olarak yayımlanan kampüs GCSE/A Level eğitim ücreti (%20 KDV hariç) gösterilir. Uluslararası öğrenciye özel ücretler ve varsa konaklama paketi için ayrıca teklif alınmalıdır.",
+      "Kampüsün genel yaş sınırları, öğrenci sayısı, milliyet sayısı ve uluslararası öğrenci oranı doğrulanmadı.",
       "Doğrulanmış kampüs geneli GCSE/A Level başarı yüzdeleri gösterilmiyor. Bireysel öğrenci yorumları ve grup genelindeki sonuçlar kampüs istatistiği olarak kullanılmadı.",
       "Programa özel not koşulları, dersler, başlangıç tarihleri, İngilizce değerlendirmesi, depozitolar, konaklama ve vasi düzenlemeleri teyit edilmelidir. 2027/28 ücretleri doğrulanmadı.",
       "Konaklama sayfası Tripos Court’u yaz okulu bağlamında anlatır. Bu bilgi, akademik yıl boyunca okul yatılılığının kanıtı olarak kullanılmadı. The Leys spor olanakları MPW’ye ait değildir; erişim sağlanan tesislerdir."

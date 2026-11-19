@@ -1455,13 +1455,13 @@
     "country": "United Kingdom",
     "city": "London",
     "region": "South Kensington",
-    "tagline": "GCSE, A Level and foundation study in South Kensington, with Queen’s Gate House boarding.",
-    "summary": "MPW London is an independent fifth- and sixth-form college with a flexible, exam-focused approach to GCSEs and A Levels. Personal support comes through the Director of Studies system and university application guidance. London also offers the MPW University Foundation Programme and the UAL Foundation Diploma in Art and Design. Queen’s Gate House provides full boarding a short walk from the main college.",
+    "tagline": "GCSE and A Level in South Kensington, with Queen’s Gate House boarding.",
+    "summary": "MPW London is an independent fifth- and sixth-form college with a flexible, exam-focused approach to GCSEs and A Levels. Personal support comes through the Director of Studies system and university application guidance. Queen’s Gate House provides full boarding a short walk from the main college.",
     "school_type": "Boarding and day college",
     "gender": "Co-educational",
     "age_min": null,
     "age_max": null,
-    "year_groups": "GCSE, Sixth Form, retakes and university foundation",
+    "year_groups": "GCSE, Sixth Form and retakes",
     "students_total": null,
     "nationalities": null,
     "international_share_percent": null,
@@ -1481,14 +1481,11 @@
     },
     "qualifications": [
       "GCSE",
-      "A Level",
-      "University Foundation",
-      "UAL Foundation Diploma"
+      "A Level"
     ],
     "english_support": [
       "English-language assessment during admissions; ongoing EFL support may be required",
-      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test.",
-      "Foundation programmes include or offer academic English support; requirements differ by programme."
+      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test."
     ],
     "results": [],
     "fees": {
@@ -1498,10 +1495,10 @@
       "terms_per_year": 3,
       "registration_fee": null,
       "headline": {
-        "amount": null,
+        "amount": 12325,
         "unit": "term",
-        "label": "International GCSE / A Level quote required",
-        "alt": "Published reference and foundation fees below"
+        "label": "GCSE or A Level tuition, excl. VAT",
+        "alt": "£14,790 with 20% VAT"
       },
       "deposit": "Confirm the international registration fee, acceptance deposit and refund conditions in the offer.",
       "includes": [],
@@ -1519,49 +1516,17 @@
             ]
           ],
           "note": "2026/27 basic fee; 20% VAT is additional where applicable. If applied, this is £14,790 per term. Course mix affects the quote; boarding is not included."
-        },
-        {
-          "label": "MPW University Foundation — whole course",
-          "columns": [
-            "Programme",
-            "Including VAT"
-          ],
-          "rows": [
-            [
-              "Three terms",
-              36566
-            ],
-            [
-              "Two terms: Business and Economics only",
-              25584
-            ]
-          ],
-          "note": "Published for September 2026 / January 2027 starts. Tuition includes 20% VAT; accommodation is separate."
-        },
-        {
-          "label": "UAL Foundation Diploma — whole course",
-          "columns": [
-            "Programme",
-            "Including VAT"
-          ],
-          "rows": [
-            [
-              "Art and Design, three terms",
-              38314
-            ]
-          ],
-          "note": "The key-facts page includes 20% VAT but does not state an academic year. Confirm the rate for the intended intake."
         }
       ],
       "notes": [
-        "An international GCSE/A Level headline price is not verified. Request a course-specific tuition quote and budget separately for accommodation.",
-        "Campus GCSE/A Level reference fees exclude VAT where applicable; foundation tables state VAT-inclusive tuition. These amounts are not interchangeable.",
+        "The headline is the published campus tuition, not a verified international rate. Request a course-specific quote and budget separately for accommodation.",
+        "Published campus fees exclude VAT, which is added at 20% where applicable.",
         "Confirm English support, examination charges, trips, guardianship and any accommodation supplements before accepting an offer."
       ],
       "payment": "Confirm payment dates and contractual terms in the individual offer."
     },
     "admissions": {
-      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability. Foundation starts are programme-specific.",
+      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability.",
       "assessments": [
         "Interview and review of academic background",
         "English assessment and/or a recognised English test for applicants without suitable prior English-medium study"
@@ -1589,21 +1554,9 @@
           "programme": "A Level / retakes",
           "requirement": "Academic record, interview and subject-specific suitability. Published IELTS 5.5 for two years or 6.0 for one year; confirm requirements for an 18-month route.",
           "starts": "Normally September; January 18-month route subject to confirmation."
-        },
-        {
-          "year": "17+",
-          "programme": "MPW University Foundation Programme",
-          "requirement": "Normally age 17+; completed 11 or 12 years of schooling with good grades. IELTS 5.0/5.5 depends on pathway; confirm accepted test and required components. Applicants aged 16 may be considered individually.",
-          "starts": "September: three terms. January: two terms, Business and Economics only."
-        },
-        {
-          "year": "17+",
-          "programme": "UAL Foundation Diploma in Art and Design",
-          "requirement": "Age 17+; five GCSEs at grade 4+, including Maths and English, or the published international equivalent of 12 years of schooling with good grades and a strong report. IELTS 5.0 or equivalent.",
-          "starts": "One academic year / three terms; confirm intake."
         }
       ],
-      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course. Foundation class sizes can reach 14, unlike the smaller GCSE/A Level groups."
+      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course."
     },
     "facilities": [
       "Science and computer laboratories",
@@ -1614,10 +1567,8 @@
     ],
     "highlights": [
       "Personal academic guidance through the Director of Studies system",
-      "Small GCSE/A Level classes; foundation courses allow up to 14 students",
-      "University application and interview preparation",
-      "MPW University Foundation: five subject pathways",
-      "UAL Foundation Diploma in Art and Design"
+      "Small GCSE/A Level classes",
+      "University application and interview preparation"
     ],
     "images": {
       "hero": {
@@ -1649,8 +1600,8 @@
     },
     "scraped": "2026-11-19",
     "review_flags": [
-      "Current international GCSE/A Level tuition and any accommodation package need an individual quote. Published campus tuition is retained as a reference, not an international package price.",
-      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified. Foundation programmes normally start at age 17; this is not the age range for the whole college.",
+      "The headline fee is the published campus GCSE/A Level tuition (excluding 20% VAT). International-specific rates and any accommodation package still need an individual quote.",
+      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified.",
       "No verified campus-wide GCSE/A Level result percentages are displayed. Individual testimonials and group-wide results are not campus statistics.",
       "Confirm course-specific entry grades, subject availability, start dates, English assessment, deposits, accommodation and guardian arrangements. 2027/28 fees are not verified.",
       "London sources differ on the maximum GCSE/A Level class size (nine versus ten) and laboratory counts. Small classes and laboratory provision are stated without a conflicting exact count. Boarding age eligibility, holiday cover and fees remain unverified."
@@ -1665,13 +1616,13 @@
     "country": "United Kingdom",
     "city": "Birmingham",
     "region": "West Midlands",
-    "tagline": "GCSE, A Level and NCUK Foundation in Edgbaston, with small classes and personal tutoring.",
-    "summary": "MPW Birmingham is an independent fifth- and sixth-form college in Edgbaston. Small GCSE/A Level classes, weekly timed assignments and a personal tutor support academic progress and university preparation. Alongside GCSEs and A Levels, the campus offers the NCUK International Foundation Year with September and January entry options. Sports, debating, Model United Nations and community activities form part of its enrichment programme.",
+    "tagline": "GCSE and A Level in Edgbaston, with small classes and personal tutoring.",
+    "summary": "MPW Birmingham is an independent fifth- and sixth-form college in Edgbaston. Small GCSE/A Level classes, weekly timed assignments and a personal tutor support academic progress and university preparation. Sports, debating, Model United Nations and community activities form part of its enrichment programme.",
     "school_type": "Day college",
     "gender": "Co-educational",
     "age_min": null,
     "age_max": null,
-    "year_groups": "GCSE, Sixth Form, retakes and university foundation",
+    "year_groups": "GCSE, Sixth Form and retakes",
     "students_total": null,
     "nationalities": null,
     "international_share_percent": null,
@@ -1693,13 +1644,11 @@
     },
     "qualifications": [
       "GCSE",
-      "A Level",
-      "NCUK Foundation Year"
+      "A Level"
     ],
     "english_support": [
       "English-language assessment during admissions; ongoing EFL support may be required",
-      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test.",
-      "Foundation programmes include or offer academic English support; requirements differ by programme."
+      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test."
     ],
     "results": [],
     "fees": {
@@ -1709,10 +1658,10 @@
       "terms_per_year": 3,
       "registration_fee": null,
       "headline": {
-        "amount": null,
+        "amount": 8609,
         "unit": "term",
-        "label": "International GCSE / A Level quote required",
-        "alt": "Published reference and foundation fees below"
+        "label": "Two-year A Level tuition, excl. VAT",
+        "alt": "about £10,331 with 20% VAT"
       },
       "deposit": "Confirm the international registration fee, acceptance deposit and refund conditions in the offer.",
       "includes": [],
@@ -1754,31 +1703,17 @@
             ]
           ],
           "note": "2026/27. All fees exclude 20% VAT where applicable. The page explicitly directs international applicants to separate international fees; these are not verified international rates."
-        },
-        {
-          "label": "NCUK International Foundation Year — whole course",
-          "columns": [
-            "Programme",
-            "Including VAT"
-          ],
-          "rows": [
-            [
-              "Three terms (September) or two terms (January)",
-              27550
-            ]
-          ],
-          "note": "2026/27 tuition, including 20% VAT, NCUK registration, examinations and placement support. Accommodation is separate."
         }
       ],
       "notes": [
-        "An international GCSE/A Level headline price is not verified. Request a course-specific tuition quote and budget separately for accommodation.",
-        "Campus GCSE/A Level reference fees exclude VAT where applicable; foundation tables state VAT-inclusive tuition. These amounts are not interchangeable.",
+        "The headline is the published campus tuition, not a verified international rate. Request a course-specific quote and budget separately for accommodation.",
+        "Published campus fees exclude VAT, which is added at 20% where applicable.",
         "Confirm English support, examination charges, trips, guardianship and any accommodation supplements before accepting an offer."
       ],
       "payment": "Confirm payment dates and contractual terms in the individual offer."
     },
     "admissions": {
-      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability. Foundation starts are programme-specific.",
+      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability.",
       "assessments": [
         "Interview and review of academic background",
         "English assessment and/or a recognised English test for applicants without suitable prior English-medium study"
@@ -1806,15 +1741,9 @@
           "programme": "A Level / retakes",
           "requirement": "Academic record, interview and subject-specific suitability. Published IELTS 5.5 for two years or 6.0 for one year; confirm requirements for an 18-month route.",
           "starts": "Normally September; January 18-month route subject to confirmation."
-        },
-        {
-          "year": "17+",
-          "programme": "NCUK International Foundation Year",
-          "requirement": "Age 17+; 12 years of schooling or equivalent with good grades. September: IELTS 5.5, each band at least 5.0. January: IELTS 6.0, each band at least 5.5.",
-          "starts": "September (three terms) or January (two terms)."
         }
       ],
-      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course. Foundation class sizes can reach 14, unlike the smaller GCSE/A Level groups."
+      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course."
     },
     "facilities": [
       "Science laboratories",
@@ -1826,7 +1755,6 @@
       "Fewer than ten students in GCSE/A Level classes",
       "Weekly timed assignments and individual progress plans",
       "Personal tutor and university application support",
-      "NCUK Foundation: September or accelerated January entry",
       "Debating, Model United Nations and Duke of Edinburgh activities"
     ],
     "images": {
@@ -1853,8 +1781,8 @@
     },
     "scraped": "2026-11-19",
     "review_flags": [
-      "Current international GCSE/A Level tuition and any accommodation package need an individual quote. Published campus tuition is retained as a reference, not an international package price.",
-      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified. Foundation programmes normally start at age 17; this is not the age range for the whole college.",
+      "The headline fee is the published campus GCSE/A Level tuition (excluding 20% VAT). International-specific rates and any accommodation package still need an individual quote.",
+      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified.",
       "No verified campus-wide GCSE/A Level result percentages are displayed. Individual testimonials and group-wide results are not campus statistics.",
       "Confirm course-specific entry grades, subject availability, start dates, English assessment, deposits, accommodation and guardian arrangements. 2027/28 fees are not verified.",
       "The campus fee page lists £350 registration and £2,000/term EAL, excluding VAT where applicable, but directs international students to separate fees. Neither is assumed to be the international charge."
@@ -1869,13 +1797,13 @@
     "country": "United Kingdom",
     "city": "Cambridge",
     "region": "Cambridgeshire",
-    "tagline": "GCSE, A Level and NCUK Foundation near Cambridge’s Botanic Garden.",
-    "summary": "MPW Cambridge is an independent fifth- and sixth-form college based in adjacent Brookside and Panton Street buildings near the Botanic Garden. GCSE and A Level students study in small classes, with weekly one-to-one personal tutor meetings and university application preparation. The campus also offers the September-entry NCUK International Foundation Year. Sports facilities are provided through The Leys School.",
+    "tagline": "GCSE and A Level near Cambridge’s Botanic Garden.",
+    "summary": "MPW Cambridge is an independent fifth- and sixth-form college based in adjacent Brookside and Panton Street buildings near the Botanic Garden. GCSE and A Level students study in small classes, with weekly one-to-one personal tutor meetings and university application preparation. Sports facilities are provided through The Leys School.",
     "school_type": "Day college",
     "gender": "Co-educational",
     "age_min": null,
     "age_max": null,
-    "year_groups": "GCSE, Sixth Form, retakes and university foundation",
+    "year_groups": "GCSE, Sixth Form and retakes",
     "students_total": null,
     "nationalities": null,
     "international_share_percent": null,
@@ -1897,13 +1825,11 @@
     },
     "qualifications": [
       "GCSE",
-      "A Level",
-      "NCUK Foundation Year"
+      "A Level"
     ],
     "english_support": [
       "English-language assessment during admissions; ongoing EFL support may be required",
-      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test.",
-      "Foundation programmes include or offer academic English support; requirements differ by programme."
+      "Published minimum IELTS or equivalent: two-year GCSE/A Level 5.5; one-year GCSE/A Level 6.0. Confirm the precise course and accepted test."
     ],
     "results": [],
     "fees": {
@@ -1913,10 +1839,10 @@
       "terms_per_year": 3,
       "registration_fee": null,
       "headline": {
-        "amount": null,
+        "amount": 9703,
         "unit": "term",
-        "label": "International GCSE / A Level quote required",
-        "alt": "Published reference and foundation fees below"
+        "label": "A Level tuition, excl. VAT",
+        "alt": "GCSE £9,310 · £11,644 with 20% VAT"
       },
       "deposit": "Confirm the international registration fee, acceptance deposit and refund conditions in the offer.",
       "includes": [],
@@ -1938,31 +1864,17 @@
             ]
           ],
           "note": "2026/27; 20% VAT is additional where applicable. With 20% VAT: GCSE £11,172; A Level £11,643.60 per term. Confirm international pricing and the individual course mix. Accommodation is separate."
-        },
-        {
-          "label": "NCUK International Foundation Year — whole course",
-          "columns": [
-            "Programme",
-            "Including VAT"
-          ],
-          "rows": [
-            [
-              "Three terms (September)",
-              31138
-            ]
-          ],
-          "note": "2026/27 tuition, including 20% VAT, NCUK registration, examinations and placement support. January entry is advertised for Birmingham only."
         }
       ],
       "notes": [
-        "An international GCSE/A Level headline price is not verified. Request a course-specific tuition quote and budget separately for accommodation.",
-        "Campus GCSE/A Level reference fees exclude VAT where applicable; foundation tables state VAT-inclusive tuition. These amounts are not interchangeable.",
+        "The headline is the published campus tuition, not a verified international rate. Request a course-specific quote and budget separately for accommodation.",
+        "Published campus fees exclude VAT, which is added at 20% where applicable.",
         "Confirm English support, examination charges, trips, guardianship and any accommodation supplements before accepting an offer."
       ],
       "payment": "Confirm payment dates and contractual terms in the individual offer."
     },
     "admissions": {
-      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability. Foundation starts are programme-specific.",
+      "intake": "September is the main intake. An 18-month A Level route starting in January is advertised; confirm campus, subjects and availability.",
       "assessments": [
         "Interview and review of academic background",
         "English assessment and/or a recognised English test for applicants without suitable prior English-medium study"
@@ -1990,15 +1902,9 @@
           "programme": "A Level / retakes",
           "requirement": "Academic record, interview and subject-specific suitability. Published IELTS 5.5 for two years or 6.0 for one year; confirm requirements for an 18-month route.",
           "starts": "Normally September; January 18-month route subject to confirmation."
-        },
-        {
-          "year": "17+",
-          "programme": "NCUK International Foundation Year",
-          "requirement": "Age 17+; 12 years of schooling or equivalent with good grades. September: IELTS 5.5, each band at least 5.0.",
-          "starts": "September (three terms)."
         }
       ],
-      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course. Foundation class sizes can reach 14, unlike the smaller GCSE/A Level groups."
+      "note": "Meeting a language threshold does not guarantee admission. Confirm international academic equivalencies and the current conditions for the chosen course."
     },
     "facilities": [
       "Three science laboratories and an art room",
@@ -2012,7 +1918,6 @@
       "GCSE/A Level classes of one to nine students",
       "Weekly individual meetings with a personal tutor",
       "University entrance test and interview preparation",
-      "NCUK International Foundation Year, September entry",
       "Central Cambridge location"
     ],
     "images": {
@@ -2039,8 +1944,8 @@
     },
     "scraped": "2026-11-19",
     "review_flags": [
-      "Current international GCSE/A Level tuition and any accommodation package need an individual quote. Published campus tuition is retained as a reference, not an international package price.",
-      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified. Foundation programmes normally start at age 17; this is not the age range for the whole college.",
+      "The headline fee is the published campus GCSE/A Level tuition (excluding 20% VAT). International-specific rates and any accommodation package still need an individual quote.",
+      "Campus-wide age limits, pupil totals, nationality counts and international share were not verified.",
       "No verified campus-wide GCSE/A Level result percentages are displayed. Individual testimonials and group-wide results are not campus statistics.",
       "Confirm course-specific entry grades, subject availability, start dates, English assessment, deposits, accommodation and guardian arrangements. 2027/28 fees are not verified.",
       "The accommodation page describes Tripos Court in a summer-school context. It is not used as evidence of year-round college boarding. The Leys sports facilities are shared provision, not owned by MPW."
