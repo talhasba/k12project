@@ -1,0 +1,75 @@
+/* Shared comparison UI follows the currently selected design tokens. */
+.compare-button { display:inline-flex; align-items:center; justify-content:center; gap:6px; min-height:42px; padding:8px 12px; border:1px solid var(--line); border-radius:var(--r); background:var(--panel); color:var(--ink); font:600 12px/1.3 var(--font-body); cursor:pointer; }
+.compare-button:hover, .compare-button[aria-pressed="true"] { border-color:var(--brand); background:var(--brand-soft); color:var(--brand); }
+.compare-card { position:relative; min-width:0; display:flex; flex-direction:column; }
+.compare-card > a { flex:1; }
+.compare-card > .compare-button { position:absolute; top:10px; right:10px; box-shadow:0 1px 6px #0002; }
+.compare-card-lead { grid-column:1/-1; }
+.school-compare-bar { max-width:1240px; margin:auto; padding:10px 24px; display:flex; justify-content:flex-end; gap:12px; }
+.school-media { aspect-ratio:16/10; overflow:hidden; background:var(--soft-2); border-radius:var(--r); }
+.school-media img { width:100%; height:100%; object-fit:cover; display:block; }
+.school-media > span { height:100%; display:grid; place-items:center; color:var(--brand); font:600 42px var(--font-display); }
+.has-compare-dock { padding-bottom:145px; }
+.theme-switch summary { cursor:pointer; padding:8px; font-weight:600; }
+.theme-switch[open] summary { margin-bottom:8px; }
+.has-compare-dock .theme-switch { bottom:132px; }
+.compare-dock { position:fixed; z-index:45; left:24px; right:24px; bottom:16px; margin:auto; max-width:1200px; display:flex; align-items:center; gap:18px; padding:16px; background:var(--panel); color:var(--ink); border:1px solid var(--line-strong); border-radius:var(--r); box-shadow:0 12px 36px #0f172a25; }
+.compare-dock-label { display:flex; align-items:center; gap:8px; font-size:12px; white-space:nowrap; }
+.compare-dock-schools { display:flex; align-items:center; gap:8px; flex:1; min-width:0; overflow-x:auto; }
+.compare-dock-schools > span { display:flex; gap:4px; align-items:center; flex-shrink:0; padding-left:8px; border:1px solid var(--line); background:var(--soft); font-size:11px; }
+.compare-dock button, .comparison-school button, .shortlist-schools button { cursor:pointer; }
+.compare-dock-schools button, .comparison-school button, .shortlist-schools button { display:inline-flex; align-items:center; justify-content:center; min-width:38px; min-height:42px; color:var(--ink); }
+.compare-dock-actions { display:flex; gap:12px; align-items:center; flex-shrink:0; }
+.compare-clear { min-height:44px; font:600 12px var(--font-body); }
+.compare-dock-actions .btn-primary { font-size:12px; }
+.compare-notice { position:fixed; z-index:80; bottom:140px; left:50%; transform:translateX(-50%); width:max-content; max-width:calc(100% - 32px); padding:14px 20px; background:var(--ink); color:var(--panel); box-shadow:0 5px 18px #0003; border-radius:var(--r); font-size:14px; }
+.comparison-page { max-width:1280px; margin:auto; padding:40px 24px 100px; }
+.comparison-heading { display:flex; gap:24px; flex-wrap:wrap; justify-content:space-between; align-items:center; padding-bottom:26px; border-bottom:1px solid var(--line); }
+.comparison-heading h1, .shortlist-page h1 { font-size:clamp(28px,4vw,40px); line-height:1.15; margin:10px 0 14px; }
+.comparison-heading p { max-width:660px; }
+.comparison-controls { display:flex; flex-wrap:wrap; align-items:end; gap:16px; margin:24px 0; }
+.comparison-controls label:not(.compare-check) { max-width:100%; width:290px; font-size:13px; font-weight:600; }
+.comparison-controls label > span { display:block; margin-bottom:6px; }
+.compare-check { display:flex; gap:8px; align-items:center; min-height:44px; font-size:13px; cursor:pointer; }
+.compare-check input { accent-color:var(--brand); width:17px; height:17px; }
+.comparison-empty { text-align:center; padding:80px 24px; border:1px solid var(--line); background:var(--panel); border-radius:var(--r); }
+.comparison-empty svg { margin:0 auto 16px; color:var(--brand); }
+.comparison-empty h2 { font-size:26px; }.comparison-empty p { margin:12px auto 24px; max-width:480px; }
+.comparison-tip { background:var(--brand-soft); color:var(--brand); padding:12px 16px; border-radius:var(--r); }
+.comparison-fee-note { font-size:13px; max-width:900px; margin:16px 0; }
+.comparison-scroll-note { font-size:12px; color:var(--muted); margin:12px 0; }
+.comparison-scroll { overflow:auto; border:1px solid var(--line); border-radius:var(--r); background:var(--panel); }
+.comparison-table { border-collapse:separate; border-spacing:0; width:100%; font-size:13px; text-align:left; line-height:1.65; }
+.comparison-table th, .comparison-table td { padding:20px; vertical-align:top; border-right:1px solid var(--line); border-bottom:1px solid var(--line); min-width:260px; max-width:330px; overflow-wrap:anywhere; }
+.comparison-table tr > :first-child { position:sticky; left:0; z-index:1; min-width:165px; width:165px; max-width:165px; background:var(--soft); color:var(--ink); font-size:12px; }
+.comparison-table thead th { background:var(--soft); }
+.comparison-table tr[data-different="true"] > * { background:var(--brand-soft); }
+.comparison-table tr[data-different="true"] > :first-child { background:var(--brand-soft); box-shadow:inset 3px 0 var(--brand); }
+.comparison-table ul { padding:0; margin:0; list-style:none; }
+.comparison-table li + li { margin-top:10px; }
+.comparison-table .school-media { border-radius:var(--r); }
+.comparison-school { display:flex; align-items:start; gap:12px; justify-content:space-between; margin-top:16px; }
+.comparison-school h2 { font-size:17px; line-height:1.35; }
+.comparison-view { display:inline-block; margin-top:10px; font-size:12px; color:var(--brand); }
+.comparison-unknown { color:var(--muted); font-size:12px; }
+.shortlist-page { max-width:1100px; margin:auto; padding:48px 24px 100px; display:grid; grid-template-columns:1fr 1fr; gap:60px; }
+.shortlist-page h2 { margin:30px 0 14px; font-size:20px; }
+.shortlist-page .eq { align-self:start; }
+.shortlist-schools { list-style:none; padding:0; margin:16px 0 24px; }
+.shortlist-schools li { display:flex; justify-content:space-between; align-items:center; gap:20px; padding:12px 0; border-bottom:1px solid var(--line); }
+@media(max-width:800px) {
+  .compare-dock { flex-wrap:wrap; gap:8px 12px; left:12px; right:12px; padding:12px; }
+  .compare-dock-schools { flex-basis:calc(100% - 150px); }
+  .compare-dock-actions { margin-left:auto; }
+  .has-compare-dock .theme-switch { bottom:155px; }
+  .has-compare-dock { padding-bottom:180px; }
+  .compare-notice { bottom:170px; }
+  .comparison-page { padding:24px 16px 90px; }
+  .comparison-table tr > :first-child { min-width:120px; width:120px; max-width:120px; padding:12px; }
+  .comparison-table th,.comparison-table td { min-width:240px; padding:16px; }
+  .shortlist-page { grid-template-columns:1fr; gap:30px; padding:30px 16px 90px; }
+  .site-header-inner { gap:8px; padding-bottom:8px; }
+  .site-actions { flex-wrap:wrap; gap:10px; }
+  .site-nav { gap:16px; font-size:12px; }
+}
+@media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }

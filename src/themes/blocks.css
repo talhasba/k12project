@@ -1,0 +1,73 @@
+/* Content blocks shared by all three school layouts. Colours/fonts come from theme tokens;
+   a.css / b.css / c.css override the details (bullets, tables, key-value rows). */
+.s-lead { margin: 0; max-width: 760px; }
+.s-p { margin: 0 0 8px; }
+.s-mt { margin-top: 24px; }
+.s-mt0 { margin-top: 0 !important; }
+.s-small { font-size: 14.5px; color: var(--muted); }
+.s-strong { margin: 0 0 10px; font-weight: 600; color: var(--ink); font-size: 17px; }
+.s-gal figure { aspect-ratio: 4 / 3; border: var(--photo-border); }
+/* One photo per school in a district's school list. */
+.s-dfig { margin: 0 0 14px; width: 100%; aspect-ratio: 16 / 7; max-height: 300px; overflow: hidden; border: var(--photo-border); }
+.s-dfig img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.s-hours { font-size: 13px; color: var(--muted); }
+.s-sources { margin: 20px 0 0; font-size: 13px; line-height: 1.7; color: var(--muted); }
+.s-sources a { color: inherit; }
+.credit { margin: 12px 0 0; }
+
+.s-kv-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); margin: 24px 0 0; }
+.s-kv-grid > div { padding: 14px 16px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: var(--panel); }
+.s-kv-grid .wide { grid-column: 1 / -1; }
+.s-kv-grid dt { font-family: var(--font-label); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.s-kv-grid dd { margin: 0; font-weight: 600; color: var(--ink); }
+
+.s-kv { margin: 0; }
+.s-kv > div { display: flex; flex-wrap: wrap; gap: 4px 24px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.s-kv dt { flex: 0 0 130px; font-weight: 600; color: var(--ink); }
+.s-kv dd { flex: 1 1 240px; margin: 0; }
+.s-kv a, .s-kv-grid a { color: var(--ink); }
+
+.s-list { margin: 24px 0 0; padding: 0; list-style: none; line-height: 1.55; }
+.s-list li { position: relative; padding: 6px 0 6px 22px; }
+.s-list li::before { content: ""; position: absolute; left: 2px; top: 15px; width: 7px; height: 7px; background: var(--bullet); }
+.s-list.s-small { color: var(--muted); }
+.s-cols { columns: 2 240px; column-gap: 48px; }
+.s-cols li { break-inside: avoid; }
+
+.s-feebig { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(200px, 100%), 1fr)); border-top: 1px solid var(--line-strong); border-bottom: 1px solid var(--line); margin-bottom: 8px; }
+.s-feebig > div { padding: 18px 20px 20px; border-left: 1px solid var(--line); }
+.s-feebig > div:first-child { border-left: 0; padding-left: 0; }
+.s-l { display: block; font-family: var(--font-label); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.s-v { display: block; margin-top: 6px; font-family: var(--font-display); font-size: var(--fee-size, 38px); font-weight: var(--head-weight); letter-spacing: var(--head-tracking); line-height: 1.15; color: var(--ink); }
+.s-v.s-hot { color: var(--hot); }
+
+.s-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+.s-chip { border: 1px solid var(--chip-line); background: var(--chip-bg); color: var(--chip-ink); padding: 6px 12px; font-family: var(--font-label); font-size: 13px; font-weight: 600; border-radius: var(--r); }
+
+.s-results { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); border: 1px solid var(--line); margin-top: 24px; background: var(--panel); }
+.s-results > div { padding: 20px; border-left: 1px solid var(--line); }
+.s-results > div:first-child { border-left: 0; }
+.s-results b { display: block; font-family: var(--font-display); font-size: 46px; font-weight: var(--head-weight); color: var(--hot); line-height: 1; letter-spacing: var(--head-tracking); }
+.s-results span { display: block; margin-top: 8px; font-size: 14px; color: var(--muted); }
+
+.s-table-wrap { overflow-x: auto; margin: 0 0 32px; }
+.s-table { width: 100%; min-width: 640px; border-collapse: collapse; font-size: 14px; line-height: 1.5; }
+.s-table th { text-align: left; font-family: var(--font-label); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; font-weight: 600; padding: 12px 14px; }
+.s-table td { padding: 12px 14px; vertical-align: top; }
+.s-table td:first-child { font-weight: 700; color: var(--ink); white-space: nowrap; }
+
+.s-apply { list-style: none; margin: 20px 0 8px; padding: 0; display: grid; gap: 10px; }
+.s-apply li { display: flex; gap: 10px; align-items: flex-start; }
+.s-apply svg { flex: none; margin-top: 3px; color: var(--hot); }
+.s-tier { margin-top: 24px; }
+.s-tier .s-table { min-width: 460px; }
+.s-tier .s-table-wrap { margin-bottom: 8px; }
+.s-split { display: flex; flex-wrap: wrap; gap: 32px 48px; }
+.s-col-wide { flex: 1 1 300px; min-width: 0; }
+.s-col { flex: 1 1 260px; min-width: 0; display: flex; flex-direction: column; gap: 28px; }
+.s-h3 { margin: 0 0 8px; padding-bottom: 8px; border-bottom: 1px solid var(--line-strong); font-family: var(--font-label); font-size: 12.5px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+.s-col .s-list { margin-top: 0; }
+
+.s-steps { margin: 0; padding: 0; list-style: none; counter-reset: step; }
+.s-steps li { counter-increment: step; display: flex; gap: 14px; align-items: flex-start; padding: 11px 0; border-bottom: 1px solid var(--line); }
+.s-steps li::before { content: counter(step); flex: 0 0 26px; height: 26px; display: flex; align-items: center; justify-content: center; font-family: var(--font-label); font-size: 13px; font-weight: 600; background: var(--step-bg); color: var(--step-ink); }
